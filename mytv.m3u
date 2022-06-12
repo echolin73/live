@@ -33,9 +33,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/4K_uhd.png" group-title="UHD",4K频道 (2)
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/movies_logo.png" group-title="影视",4K电影 (1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/movies_logo.png" group-title="UHD",4K电影 (1)
 http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/movies_logo.png" group-title="影视",4K电影 (2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/movies_logo.png" group-title="UHD",4K电影 (2)
 http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/4K.png" group-title="UHD",综艺4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
