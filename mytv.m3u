@@ -1030,8 +1030,6 @@ https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
 #https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-peopletv-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="https://echolin73.github.io/logo/tvg-logo/youxi_fengyun.png" group-title="娱乐",游戏风云
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227075/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="娱乐",Bestv 电竞天堂
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/newtv.png" group-title="娱乐",NewTV 哒啵赛事
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/tv.png" group-title="娱乐",热门综艺
@@ -1174,37 +1172,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/newtv.png" group-title="NewTV",金牌综艺
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
 
-#百事通
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通轮播(谍战)
-http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通轮播(科幻)
-http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221227037/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通剧集1
-http://39.135.55.105:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通剧集2
-http://39.135.55.105:6610/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通剧集3
-http://39.135.55.105:6610/PLTV/88888888/224/3221227045/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通剧集4
-http://39.135.55.105:6610/PLTV/88888888/224/3221227134/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通动画1
-http://39.135.55.105:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通动画2
-http://39.135.55.105:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通动画3
-http://39.135.55.105:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通动画4
-http://39.135.55.105:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通动画5
-http://39.135.55.105:6610/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通电影1
-http://39.135.55.105:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通电影2
-http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通电影3
-http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="百事通",百视通电竞
-http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
 
 #其他
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/movie_logo2.png" group-title="其他",直播测试
