@@ -558,6 +558,21 @@ rtsp://27.148.219.129:554/live/ch16091400174619400545.sdp?playtype=1&boid=001&ba
 rtsp://27.148.219.129:554/live/ch17081012023517451748.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17081012023517451748&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ufulvucnQgYvxuYj2ObQUnQZbi9e3Bt09ozBM2ESiwZ7tcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 
 
+#娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/colors_infinity.png" group-title="娱乐",COLORS INFINITY
+http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/2928
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/people_TV.png" group-title="娱乐",People TV
+https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
+#https://peopletv-oo.akamaized.net/playlist720p.m3u8
+#https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-peopletv-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/jj.png" group-title="娱乐",斗地主
+http://111.20.33.93/PLTV/88888893/224/3221226458/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="https://echolin73.github.io/logo/tvg-logo/youxi_fengyun.png" group-title="娱乐",游戏风云
+http://111.20.33.93/PLTV/88888893/224/3221226579/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/newtv.png" group-title="娱乐",NewTV 哒啵赛事
+http://111.40.196.9/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo/tv.png" group-title="娱乐",热门综艺
+http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
 
 
 
