@@ -197,7 +197,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
 
 
-#Youtube Live
+#Youtube
 #EXTINF:-1 tvg-id="7100" tvg-name="ABC Australia" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/ABC_au.png" group-title="Youtube",ABC News AU
 https://raw.githubusercontent.com/echolin73/utlive/main/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/ABC_us.png" group-title="Youtube",ABC News US
