@@ -1301,9 +1301,9 @@ http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemo
 #http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=no
 
 #USA
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/smithsonian.png" group-title="bbc_america",BBC AMERICA
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/bbc_america.png" group-title="USA",BBC AMERICA
 http://31.14.41.118:8080/Faucontv/v62vczsqLzN/145922
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/cnbc.png" group-title="USA",CNBC
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/CNBC.png" group-title="USA",CNBC
 http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52819
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/FOX_news.png" group-title="USA",FOX News
 http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52833
