@@ -102,45 +102,45 @@ http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 
 #探索
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索纪录 (1)
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索纪录 (2)
 http://111.11.123.28:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 #http://111.29.9.37:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 #http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索纪录 (3)
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #http://183.214.126.200:3003/live/qsjl/index.m3u8
 #http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索生活 (1)
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索生活 (2)
 http://111.11.123.28:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
 #http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 #http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索生活 (3)
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #http://[2409:8087:4401:20:1:f01:1:24]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索科学 (1)
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索科学 (2)
 http://111.11.123.28:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
 #http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索科学 (3)
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #http://[2409:8087:4401:20:1:f01:1:16]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索动物 (1)
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索动物 (2)
 http://111.11.123.28:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
 #http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="探索",求索动物 (3)
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #http://[2409:8087:4401:20:1:f01:1:34]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/bbc_earth.png" group-title="探索",BBC地球
 http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
