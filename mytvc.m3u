@@ -11,8 +11,6 @@ http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/migu.png" group-title="UHD",咪咕体育 4K (2)
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 #http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/4K.png" group-title="UHD",4K频道
-http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/movies_logo.png" group-title="UHD",4K电影
 http://111.11.123.28:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 #http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
@@ -25,15 +23,14 @@ http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/mangguo.png" group-title="UHD",芒果TV 4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/4K_chunxiang.png" group-title="UHD",纯享4K
-http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/huanxiao_juchang.png" group-title="UHD",欢笑剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/4K_uhd.png" group-title="UHD",4K频道 (1)
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/4K_uhd.png" group-title="UHD",4K频道 (2)
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/4K.png" group-title="UHD",4K综艺
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/4K.png" group-title="UHD",综艺4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+#http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/4K.png" group-title="UHD",4K测试源
 http://159.75.85.63:5680/d/ad/playad.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/clarity_4k.png" group-title="UHD",Clarity4K
