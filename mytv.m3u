@@ -638,11 +638,11 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/rthk.png" group-title="港澳台",RTHK 32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 #http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/viutv.png" group-title="港澳台地区",ViuTV (1)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/viutv.png" group-title="港澳台",ViuTV (1)
 https://epg.pm/stream/96f42bb6d86e690ed684c2e1c8df9075f5b4e788c2599e052e020e7c51278e63.ctv
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/viutv.png" group-title="港澳台地区",ViuTV (2)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/viutv.png" group-title="港澳台",ViuTV (2)
 http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/viutv.png" group-title="港澳台地区",ViuTV (3)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/viutv.png" group-title="港澳台",ViuTV (3)
 http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/viutv6.png" group-title="港澳台",ViuTV 6
 https://epg.pm/stream/57c1d3f917108ffd2aaa102086ea535622e124a9ce2156946c7acb4bac3d0e00.m3u8
