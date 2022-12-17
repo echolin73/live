@@ -109,7 +109,7 @@ CNA,https://raw.githubusercontent.com/echolin73/utlive/YTlive/cna.m3u8
 CNBC,https://raw.githubusercontent.com/echolin73/utlive/YTlive/cnbc.m3u8
 DW,https://raw.githubusercontent.com/echolin73/utlive/YTlive/dwnews.m3u8
 Euro News,https://raw.githubusercontent.com/echolin73/utlive/YTlive/euronews.m3u8
-Fox News Now,https://raw.githubusercontent.com/echolin73/utlive/YTlive/foxlivenow.m3u8
+Fox Live Now,https://raw.githubusercontent.com/echolin73/utlive/YTlive/foxlivenow.m3u8
 France 24,https://raw.githubusercontent.com/echolin73/utlive/YTlive/france24.m3u8
 GB News,https://raw.githubusercontent.com/echolin73/utlive/YTlive/gbnews.m3u8
 NBC News Now,https://raw.githubusercontent.com/echolin73/utlive/YTlive/nbcnewsnow.m3u8
