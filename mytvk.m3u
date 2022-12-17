@@ -276,10 +276,10 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://epg.pm/stream/c3701f4d1005aed44c148ffc8e4977129e9e7b93c5ea6e1b35b65ea76fe9dcbf.ctv
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/FOX_news.png" group-title="国际频道",FOX News (2)
 http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/FOX_news_now.png" group-title="国际频道",FOX News Now (1)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/FOX_live_now.png" group-title="国际频道",FOX Live Now (1)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/FOX_news_now.png" group-title="国际频道",FOX News Now (2)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/FOX_live_now.png" group-title="国际频道",FOX Live Now (2)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/france24.png" group-title="国际频道",France 24(1)
 http://tv.redrainl.site:9500/live.m3u8?c=13
@@ -361,7 +361,7 @@ https://raw.githubusercontent.com/echolin73/utlive/YTlive/cnbc.m3u8
 https://raw.githubusercontent.com/echolin73/utlive/YTlive/dwnews.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/euronews.png" group-title="Youtube直播",Euro News
 https://raw.githubusercontent.com/echolin73/utlive/YTlive/euronews.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/FOX_news_now.png" group-title="Youtube直播",Fox News Now
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/FOX_live_now.png" group-title="Youtube直播",FOX Live Now
 https://raw.githubusercontent.com/echolin73/utlive/YTlive/foxlivenow.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/france24.png" group-title="Youtube直播",France 24
 https://raw.githubusercontent.com/echolin73/utlive/YTlive/france24.m3u8
