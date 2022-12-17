@@ -104,12 +104,20 @@ Africa News,https://raw.githubusercontent.com/echolin73/utlive/YTlive/africanews
 Al Jazeera,https://raw.githubusercontent.com/echolin73/utlive/YTlive/aljazeera.m3u8
 Arirang TV,https://raw.githubusercontent.com/echolin73/utlive/YTlive/arirangtv.m3u8
 Bloomberg,https://raw.githubusercontent.com/echolin73/utlive/YTlive/bloombergfinance.m3u8
+Bloomberg Quicktake,https://raw.githubusercontent.com/echolin73/utlive/YTlive/bloombergquicktake.m3u8
 CNA,https://raw.githubusercontent.com/echolin73/utlive/YTlive/cna.m3u8
+CNBC,https://raw.githubusercontent.com/echolin73/utlive/YTlive/cnbc.m3u8
 DW,https://raw.githubusercontent.com/echolin73/utlive/YTlive/dwnews.m3u8
 Euro News,https://raw.githubusercontent.com/echolin73/utlive/YTlive/euronews.m3u8
+Fox News Now,https://raw.githubusercontent.com/echolin73/utlive/YTlive/foxlivenow.m3u8
 France 24,https://raw.githubusercontent.com/echolin73/utlive/YTlive/france24.m3u8
+GB News,https://raw.githubusercontent.com/echolin73/utlive/YTlive/gbnews.m3u8
+NBC News Now,https://raw.githubusercontent.com/echolin73/utlive/YTlive/nbcnewsnow.m3u8
+Newsmax,https://raw.githubusercontent.com/echolin73/utlive/YTlive/newsmax.m3u8
+NHK World,https://raw.githubusercontent.com/echolin73/utlive/YTlive/nhkworld.m3u8
 Sky News,https://raw.githubusercontent.com/echolin73/utlive/YTlive/skynews.m3u8
 TRT World,https://raw.githubusercontent.com/echolin73/utlive/YTlive/trtworld.m3u8
+Wion News,https://raw.githubusercontent.com/echolin73/utlive/YTlive/wionnews.m3u8
 中视新闻,https://raw.githubusercontent.com/echolin73/utlive/YTlive/ctitv.m3u8
 台视新闻,https://raw.githubusercontent.com/echolin73/utlive/YTlive/ttvnews.m3u8
 民视新闻,https://raw.githubusercontent.com/echolin73/utlive/YTlive/ftvnews.m3u8
