@@ -361,7 +361,7 @@ https://raw.githubusercontent.com/echolin73/utlive/YTlive/cnbc.m3u8
 https://raw.githubusercontent.com/echolin73/utlive/YTlive/dwnews.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/euronews.png" group-title="Youtube直播",Euro News
 https://raw.githubusercontent.com/echolin73/utlive/YTlive/euronews.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/FOX_news_now.png" group-title="Youtube直播",Fox Live Now
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/FOX_live_now.png" group-title="Youtube直播",FOX Live Now
 https://raw.githubusercontent.com/echolin73/utlive/YTlive/foxlivenow.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/france24.png" group-title="Youtube直播",France 24
 https://raw.githubusercontent.com/echolin73/utlive/YTlive/france24.m3u8
