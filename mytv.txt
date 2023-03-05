@@ -60,7 +60,9 @@ CCTV-16 奥林匹克,http://39.135.7.132:6610/000000001000/5000000008000023254/i
 芒果TV 4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV 4K,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV 4K,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-芒果TV 4K,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1国际UHD,#genre#
+芒果TV 4K,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+
+国际UHD,#genre#
 Astro Super Sport 4K,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
 Astro Super Sport 4K,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
 Astro Super Sport 4K,http://nordicstream.xyz:2095/xMsGHAzQ/kYuckAK/348094
@@ -147,7 +149,9 @@ ODISEA 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
 TravelXP 4K,http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
 TravelXP 4K,http://de1cdn.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
 
-Ultra Nature 4K,http://185.236.229.31:9981/play/a01d纪录频道,#genre#
+Ultra Nature 4K,http://185.236.229.31:9981/play/a01d
+
+纪录频道,#genre#
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
@@ -289,7 +293,9 @@ CCTV 世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
 历史秘闻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key
 军事观察,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8?key
 
-斗鱼纪录片,http://epg.112114.xyz/douyu/3485629国际新闻,#genre#
+斗鱼纪录片,http://epg.112114.xyz/douyu/3485629
+
+国际新闻,#genre#
 ABC News AU,https://c.mjh.nz/101002210220
 ABC Me,https://c.mjh.nz/101002210224
 ABC TV,https://c.mjh.nz/3201026102E1
@@ -462,7 +468,9 @@ Sky News,http://tvt3.xyz/play/live.php?mac=00:1A:79:70:39:2a&stream=39794&extens
 CNBC US,http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8263&extension=ts&play_token=TQ6cftyhX8
 FOX News,http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8247&extension=ts&play_token=TQ6cftyhX8
 FOX Business,http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8239&extension=ts&play_token=TQ6cftyhX8
-Sky News,http://tvt3.xyz/play/live.php?mac=00:1A:79:70:39:2a&stream=39794&extension=ts&play_token=TQ6cftyhX8Youtube直播,#genre#
+Sky News,http://tvt3.xyz/play/live.php?mac=00:1A:79:70:39:2a&stream=39794&extension=ts&play_token=TQ6cftyhX8
+
+Youtube直播,#genre#
 ABC News AU,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch1.m3u8
 ABC News US,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch2.m3u8
 ABC 7,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch28.m3u8
@@ -613,7 +621,9 @@ Nature Relax 4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
 寰宇新闻,https://raw.githubusercontent.com/YuanHsing/YTM/main/GlobalNewsTV.m3u8
 TVBS新闻,https://raw.githubusercontent.com/YuanHsing/YTM/main/TVBSNEWS01.m3u8
 镜新闻,https://raw.githubusercontent.com/YuanHsing/YTM/main/mnews.m3u8
-Nature Relax 4K,https://raw.githubusercontent.com/YuanHsing/YTM/main/NatureRelax4K.m3u8央视频道,#genre#
+Nature Relax 4K,https://raw.githubusercontent.com/YuanHsing/YTM/main/NatureRelax4K.m3u8
+
+央视频道,#genre#
 CCTV-1 综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-2 财经,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 CCTV-3 综艺,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
@@ -846,7 +856,9 @@ CCTV-15 音乐,http://112.50.243.8/PLTV/88888888/224/3221226989/1.m3u8
 CCTV-16 奥林匹克,http://112.50.243.8/PLTV/88888888/224/3221227125/1.m3u8
 CCTV-16 奥林匹克,http://112.50.243.8/PLTV/88888888/224/3221227148/1.m3u8
 CCTV-17 农业,http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
-CCTV-17 农业,http://112.50.243.8/PLTV/88888888/224/3221226990/1.m3u8央视数字,#genre#
+CCTV-17 农业,http://112.50.243.8/PLTV/88888888/224/3221226990/1.m3u8
+
+央视数字,#genre#
 CCTV 世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 CCTV 风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
 CCTV 高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
@@ -968,7 +980,9 @@ CCTV 兵器科技,http://nas.tuyuannet.cn:8800/rtp/239.37.0.084:5540
 CCTV 电视指南,http://nas.tuyuannet.cn:8800/rtp/239.37.0.115:5540
 CCTV 高尔夫网球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540
 CCTV 风云剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.114:5540
-CCTV 台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540港澳频道,#genre#
+CCTV 台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540
+
+港澳频道,#genre#
 凤凰中文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
 凤凰资讯,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
@@ -1133,7 +1147,9 @@ ViuTV 6,http://radius.8866.org:800/hls/85/index.m3u8
 HOY TV,http://2022.stream-link.org/playlist/hoy_tv.ts
 HOY 资讯,http://2022.stream-link.org/playlist/hoy_info.ts
 RTHK 31,http://2022.stream-link.org/playlist/rthk_31.ts
-RTHK 32,http://2022.stream-link.org/playlist/rthk_32.ts台湾频道,#genre#
+RTHK 32,http://2022.stream-link.org/playlist/rthk_32.ts
+
+台湾频道,#genre#
 中视新闻,http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
 中视新闻,http://50.7.238.114:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视新闻,http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
@@ -1295,7 +1311,9 @@ TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news.flv
 TVBS HD,http://2023.stream-link.org/playlist/tvbs.flv
 台视,http://2023.stream-link.org/playlist/ttv.flv
 中天亚洲,http://2023.stream-link.org/playlist/cti_asia.flv
-中天综合,http://2023.stream-link.org/playlist/cti_zh.flv海外华语,#genre#
+中天综合,http://2023.stream-link.org/playlist/cti_zh.flv
+
+海外华语,#genre#
 新唐人亚太,https://raw.githubusercontent.com/echolin73/utlive/main/live/ch40.m3u8
 新唐人亚太,https://raw.githubusercontent.com/echolin73/utlive/YTlive/ntdaptv.m3u8
 新唐人亚太,https://live.ntdtv.com/aplive200/playlist.m3u8
@@ -1322,7 +1340,9 @@ Astro 欢喜台,http://50.7.238.114:8278/Huahee/playlist.m3u8?tid=MACA4355211343
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8福建频道,#genre#
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+
+福建频道,#genre#
 福建新闻,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
 福建综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
 福建经济,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
@@ -1445,6 +1465,8 @@ Astro 欢喜台,http://50.7.238.114:8278/Huahee/playlist.m3u8?tid=MACA4355211343
 直播室109,http://39.135.55.105:6610/PLTV/88888888/224/3221226560/index.m3u8?servicetype=1
 直播室110,http://39.135.55.105:6610/PLTV/88888888/224/3221226603/index.m3u8?servicetype=1
 直播室111,http://39.135.55.105:6610/PLTV/88888888/224/3221226599/index.m3u8?servicetype=1
+
+
 国内频道,#genre#
 北京卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225826/index.m3u8
 东方卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
@@ -1825,7 +1847,9 @@ CNC英语,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 中国天气,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 中国天气,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1
 
-铁路电视,http://112.19.214.90:8883/tsfile/live/1005_1.m3u8财经频道,#genre#
+铁路电视,http://112.19.214.90:8883/tsfile/live/1005_1.m3u8
+
+财经频道,#genre#
 第一财经,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 东方财经,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 第一财经,http://117.184.239.106/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
@@ -1850,7 +1874,9 @@ Now 财经台,http://livetv.dnsfor.me:80/channel.8.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-股评汇,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8体育竞技,#genre#
+股评汇,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8
+
+体育竞技,#genre#
 CCTV-5 体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8
 CCTV-5+ 体育赛事,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
 CCTV-5+ 体育赛事,rtsp://183.252.176.54/PLTV/88888888/224/3221226714/40417236.smil
@@ -2083,7 +2109,9 @@ WPT (1),https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b74
 WPT (2),https://a6d08ba9925348b882686654b1a38165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_WorldPokerTour/playlist.m3u8
 WPT (3),https://a715bb95172a428d8e61e9fe68822ab6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_WorldPokerTour/playlist.m3u8
 
-YES Network,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9688&extension=ts&play_token=TQ6cftyhX8影视频道,#genre#
+YES Network,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9688&extension=ts&play_token=TQ6cftyhX8
+
+影视频道,#genre#
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 Cinemax,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
@@ -2287,6 +2315,7 @@ CHC家庭影院,http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
 天映经典,http://120.84.96.89:808/hls/85/index.m3u8
 
 KK电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 音乐频道,#genre#
 80s Flashback,https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8
 90s Throwback,https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8
@@ -2350,7 +2379,9 @@ Vevo Latino,https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd
 Vevo Latino,https://na.linear.zype.com/634387d4-169a-45db-a7e3-10e4e02fbd67/2e2e55d0495040c4868bcdc9ddf16471-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
 Vevo Hip Hop,https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 Vevo Hip Hop,https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/a5d8206e5d124ad6a6a4306444efbc3c-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-Vevo Reggaetón & Trap,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus旅游生活,#genre#
+Vevo Reggaetón & Trap,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+旅游生活,#genre#
 乐游,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
 乐游,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
 乐游,http://39.135.55.105:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
@@ -2431,7 +2462,9 @@ Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1
 海豚综合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 美丽人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 东森购物1台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/playlist.m3u8
-东森购物2台,http://www.336699.live:1935/blocksix/4gtv-live046.stream/playlist.m3u8爱奇艺,#genre#
+东森购物2台,http://www.336699.live:1935/blocksix/4gtv-live046.stream/playlist.m3u8
+
+爱奇艺,#genre#
 自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
 经典纪实,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key
 科学探索,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8?key
@@ -2470,7 +2503,9 @@ Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1
 青春剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_147_720P_t10/c55_lb_147_720P_t10.m3u8?key
 人文社会,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_243_600_t10/c56_lb_243_600_t10.m3u8?key
 我的祖国,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_72_720P_t10/c53_lb_72_720P_t10.m3u8?key
-高清综艺,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_75_720P_t10/c52_lb_75_720P_t10.m3u8?key上海文广,#genre#
+高清综艺,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_75_720P_t10/c52_lb_75_720P_t10.m3u8?key
+
+上海文广,#genre#
 上海综合,https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 上海都市,https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
 上海教育,https://live.v1.mk/api/bestv.php?id=setvhd/8000000
@@ -2681,9 +2716,6 @@ Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1
 芒果欧美电影,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 芒果综艺,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 
-
-
-
 BesTV精选,#genre#
 超级体育,http://183.207.255.188/live/program/live/qcsj8m/8000000/mnf.m3u8
 汽车世界,http://183.207.255.188/live/program/live/qcsj8m/8000000/mnf.m3u8
@@ -2715,7 +2747,9 @@ BesTV精选,#genre#
 青春动漫,http://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 宝宝动画,http://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
 电竞天堂,http://live.v1.mk/api/bestv.php?id=djtt8m/8000000
-百变课堂,http://live.v1.mk/api/bestv.php?id=bbkt8m/8000000iHot系列,#genre#
+百变课堂,http://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
+
+iHot系列,#genre#
 爱探索,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 爱解密,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
 爱科学,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
@@ -2864,7 +2898,9 @@ BesTV精选,#genre#
 爱娱乐,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000130630&livemode=1&stbId=10&channel-id=wasusyt
 爱院线,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000030630&livemode=1&stbId=10&channel-id=wasusyt
 爱科幻,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000020630&livemode=1&stbId=10&channel-id=wasusyt
-爱动漫,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000280630&livemode=1&stbId=10&channel-id=wasusytNewTV精选,#genre#
+爱动漫,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000280630&livemode=1&stbId=10&channel-id=wasusyt
+
+NewTV精选,#genre#
 精品纪录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
 精品体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
 超级体育,http://117.169.121.162:6610/PLTV/88888910/224/3221225622/index.m3u8
@@ -3052,7 +3088,9 @@ BesTV精选,#genre#
 魅力潇湘,http://gslbserv.itv.cmvideo.cn:80/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
 魅力潇湘,http://gslbserv.itv.cmvideo.cn:80/1000000005000266014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=3
 炫舞未来,http://gslbserv.itv.cmvideo.cn:80/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
-怡伴健康,http://gslbserv.itv.cmvideo.cn:80/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3英语频道,#genre#
+怡伴健康,http://gslbserv.itv.cmvideo.cn:80/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3
+
+英语频道,#genre#
 Discovery HD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/3.m3u8
 Discovery Turbo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/3.m3u8
 
@@ -3172,7 +3210,9 @@ Xplore,https://xplore-roku.amagi.tv/playlist.m3u8
 Xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
 Xplore,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8
 Xplore,https://xplore-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=EzEGy3aT4zydHG9xwDJa&channelId=5ff71b7e9298ba002e437eac&uid=1g09f8a2n-i8go-mmg-xt76-yov2gtlfm6b/hls/amagi_hls_data_plexAAAAA-litton-xplore-plex/CDN/playlist.m3u8
-Xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8Documentary,#genre#
+Xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+
+Documentary,#genre#
 A&E,http://moontools.me:8080/live/DIANAAG/bjGLrqTpJtJj/28942.ts
 A&E,http://moontools.me:8080/live/DIANAAG/bjGLrqTpJtJj/28923.ts
 Animal Planet,http://moontools.me:8080/live/DIANAAG/bjGLrqTpJtJj/28926.ts
@@ -5405,7 +5445,9 @@ Disney Junior Pacific,http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/25427
 Disney XD,http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/34943
 Disney XD,http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/28850
 Disney XD,http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/28856
-Disney XD Pacific,http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/25414Apollo TV,#genre#
+Disney XD Pacific,http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/25414
+
+Apollo TV,#genre#
 ACC Network,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/acc.network.us.m3u8
 Altitude Sports,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/altitude.sports.us.m3u8
 Animal Planet,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/animal.planet.us.east.us.m3u8
@@ -5549,7 +5591,9 @@ SEC Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.e
 Tennis Channel,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/the.tennis.channel.us.m3u8
 The Weather Channel,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/the.weather.channel.us.m3u8
 TLC,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/tlc.usa.eastern.us.m3u8
-YES Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/yes.network.us.m3u8Insight TV,#genre#
+YES Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/yes.network.us.m3u8
+
+Insight TV,#genre#
 INFAST,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8
 
 INSIGHT,https://insighttv-samsungau.amagi.tv/playlist.m3u8
@@ -5569,7 +5613,9 @@ INWILD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwi
 INWONDER,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 INWONDER,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderus-samsungca/playlist.m3u8
 INWONDER,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-insight-inwonder-uk/playlist.m3u8
-INWONDER,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8Plex TV,#genre#
+INWONDER,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
+
+Plex TV,#genre#
 24 Hour Free Movies,https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8?ads.plex_token=Z_BZA_yssxyqid8AaAg5&ads.channel_Id=5fd115bab7ef8d002dcf181d&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.partnerChannel=muxip.24hourmovies&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_domain=app.plex.tv&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.channel_name=24hourmovies&ads.us_privacy=1---&ads.gdpr=0&ads.consent=0
 ACCDN,https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Z_BZA_yssxyqid8AaAg5&ads.plex_id=5f8ee3727c75fa002d9e47c1&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 AccuWeather NOW,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Z_BZA_yssxyqid8AaAg5&channelId=6151d74593dbf246f0843f01
@@ -5740,6 +5786,7 @@ Wired2Fish,https://e5e136053ead4bb88b80fc7a901a4ac0.mediatailor.us-west-2.amazon
 Wonder,https://lds-wonder-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Z_BZA_yssxyqid8AaAg5&channelId=5f74cf83ffbe690040689f4d&uid=1g130802j-vla4-5s-13vb-3wtox9p9ij2/hls/amagi_hls_data_ldsAAAAAA-wonder-plex/CDN/playlist.m3u8
 Yahoo Finance,https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Z_BZA_yssxyqid8AaAg5&channelId=5f170f01b898490041b49dd1&uid=1g1306n7k-8vbh-i3o-s5a1-accddu8jl5m/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
 YG TV,https://4e7d4e92cd344185b927ab5c730550dd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_YGTV/playlist.m3u8?ads.wurl_channel=900&ads.wurl_name=YGTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Z_BZA_yssxyqid8AaAg5&ads.plex_id=60d4ede2b2fdec002c14113b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
 Pluto,#genre#
 10 Years Younger,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6081789bae3b8c0007f7bdb2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 48 Hours,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -6216,6 +6263,7 @@ Yahoo Finance,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f161c0a
 Yo! MTV,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 Yu-Gi-Oh!,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 Yu-Gi-Oh! en español,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604930bc28b24d0007e0e171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 Samsung TV,#genre#
 21 Jump Street,https://dj0iol4ovl33h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/21JumpStreet-Canada-prod/playlist.m3u8
 5 Cops,http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d9f6e738977e2c3109db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
@@ -6441,6 +6489,7 @@ XITE Just Chill,https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d
 XITE Rock On,https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8
 Xplore,https://dqy4ff4w0ujxy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evx1en7ldqqln-ssai-prd/playlist.m3u8
 YAAAS!,https://062e9d49eb79462380d2933b845412cc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_YAAAS/playlist.m3u8?ads.wurl_channel=951&ads.wurl_name=YAAAS&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
 Stirr TV,#genre#
 ACCDN,https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8
 AccuWeather,https://dai.google.com/linear/hls/event/HD_ys6igSayIiNXKl9nTrQ/master.m3u8
