@@ -1,0 +1,26 @@
+财经频道,#genre#
+第一财经,https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+东方财经,https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+第一财经,http://117.184.239.106/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+东方财经,http://117.184.239.106/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+东方财经,rtsp://183.252.176.54/PLTV/88888888/224/3221226057/10000100000000060000000002296898_0.smil
+东方财经,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8
+点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+无线财经体育资讯台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+无线财经体育资讯台,http://120.84.96.73:808/hls/86/index.m3u8
+无线财经体育资讯台,http://radius.8866.org:800/hls/83/index.m3u8
+有线财经资讯台,https://cdn.hklive.tv/xxxx/108/index.m3u8
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有线财经资讯台,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
+有线财经资讯台,http://livetv.dnsfor.me:80/channel.6.m3u8
+Now 财经台,http://livetv.dnsfor.me:80/channel.8.m3u8
+香港国际财经台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+全球财经台,http://www.336699.live:1935/blocksix/4gtv-live060.stream/playlist.m3u8
+东森财经,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+东森财经,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+股评汇,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8

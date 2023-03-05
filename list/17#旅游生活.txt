@@ -1,0 +1,82 @@
+旅游生活,#genre#
+乐游,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
+乐游,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
+乐游,http://39.135.55.105:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
+乐游,rtsp://183.252.176.54/PLTV/88888888/224/3221226774/45278849.smil
+乐游,https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
+乐游,http://183.207.255.188/live/program/live/qjshd8m/8000000/mnf.m3u8
+乐游,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+
+爱旅行,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
+爱美食,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+爱旅行,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000250630&livemode=1&stbId=10&channel-id=wasusyt
+爱美食,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000120630&livemode=1&stbId=10&channel-id=wasusyt
+爱旅行,http://39.135.126.231:6610/000000001001/1/index.m3u8?Contentid=6000000006000250630&livemode=1&stbId=10&channel-id=wasusyt
+爱美食,http://39.135.126.231:6610/000000001001/1/index.m3u8?Contentid=6000000006000120630&livemode=1&stbId=10&channel-id=wasusyt
+
+亚洲旅游台,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
+民视旅游台,http://www.336699.live:1935/blockfive/litv-ftv07.stream/playlist.m3u8
+爱尔达生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/playlist.m3u8
+爱尔达生活英语,http://www.336699.live:1935/blockfive/litv-longturn20.stream/playlist.m3u8
+中天美食旅游,http://www.336699.live:1935/blocksix/4gtv-live123.stream/playlist.m3u8
+
+亚洲旅游台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+亚洲旅游台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+亚洲旅游台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+EYE TV旅游,http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+EYE TV旅游,http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+TLC Asia,http://50.7.238.114:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+TLC Asia,http://50.7.238.114:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
+美食星球,http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+BBC Lifestyle,http://50.7.238.114:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
+
+滚动力,http://www.336699.live:1935/blocksix/4gtv-live012.stream/playlist.m3u8
+车迷TV,http://www.336699.live:1935/blockfive/4gtv-live201.stream/playlist.m3u8
+Global Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/playlist.m3u8
+LUXE TV Channel,http://www.336699.live:1935/blocksix/4gtv-live121.stream/playlist.m3u8
+TRACE Sport Stars,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+TRACE Urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+TV5MONDE STYLE,http://www.336699.live:1935/blocksix/4gtv-live122.stream/playlist.m3u8
+Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/playlist.m3u8
+
+BBC Food,https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-maq49n9yo9ui9-prod/playlist.m3u8
+BBC Home,https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
+BBC Food,https://bit.ly/bbcfood_inspiration_m3u8
+BBC Home,https://bit.ly/3xGj8e5?/index.m3u8
+BBC Food,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+BBC Home,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+Tastemade,https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+Tastemade Australia,https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+Tastemade Australia,https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+Tastemade Travel,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
+
+Travelxp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+Travelxp,https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+
+Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
+生活时尚,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8
+快乐垂钓,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227028/index.m3u8
+茶频道,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
+
+生活时尚,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
+快乐垂钓,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227028/index.m3u8?servicetype=1
+茶频道,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226859/index.m3u8?servicetype=1
+
+生活时尚,http://39.135.55.105:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
+快乐垂钓,http://39.135.55.105:6610/PLTV/88888888/224/3221227028/index.m3u8?servicetype=1
+茶频道,http://39.135.55.105:6610/PLTV/88888888/224/3221226859/index.m3u8?servicetype=1
+
+生活时尚,rtsp://183.252.176.54/PLTV/88888888/224/3221226749/45935750.smil
+快乐垂钓,rtsp://183.252.176.54/PLTV/88888888/224/3221226811/57526424.smil
+茶频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
+
+海豚综合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+美丽人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+东森购物1台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/playlist.m3u8
+东森购物2台,http://www.336699.live:1935/blocksix/4gtv-live046.stream/playlist.m3u8

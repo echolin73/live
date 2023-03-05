@@ -1,0 +1,145 @@
+Apollo TV,#genre#
+ACC Network,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/acc.network.us.m3u8
+Altitude Sports,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/altitude.sports.us.m3u8
+Animal Planet,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/animal.planet.us.east.us.m3u8
+beIN Sports,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/bein.sports.1.us.m3u8
+CINEMAX,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/cinemax.eastern.us.m3u8
+CMT,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/cmt.us.eastern.us.m3u8
+CNBC,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/cnbc.usa.us.m3u8
+CNN,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/cnn.us.m3u8
+Cooking Channel,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/the.cooking.channel.us.m3u8
+Discovery,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/discovery.channel.us.eastern.us.m3u8
+FOX Business,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/fox.business.us.m3u8
+FOX News,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/fox.news.us.m3u8
+Gol TV English,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/gol.tv.usa.us.m3u8
+HLN,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/hln.us.m3u8
+Longhorn Network,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/longhorn.network.us.m3u8
+Marquee Sports Network,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/marquee.sports.network.us.m3u8
+MASN,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/mid.atlantic.sports.network.us.m3u8
+MASN 2,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/mid.atlantic.sports.network.2.us.m3u8
+MSG,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/msg.us.m3u8
+MSG+,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/msg.plus.us.m3u8
+MSNBC,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/msnbc.usa.us.m3u8
+NFL RedZone,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/nfl.red.zone.us.m3u8
+Pac12 Network,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/pac.12.network.us.m3u8
+SEC Network,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/sec.network.us.m3u8
+Tennis Channel,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/the.tennis.channel.us.m3u8
+The Weather Channel,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/the.weather.channel.us.m3u8
+TLC,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/tlc.usa.eastern.us.m3u8
+YES Network,https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/yes.network.us.m3u8
+
+ACC Network,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/acc.network.us.m3u8
+Altitude Sports,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/altitude.sports.us.m3u8
+Animal Planet,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/animal.planet.us.east.us.m3u8
+beIN Sports,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/bein.sports.1.us.m3u8
+CINEMAX,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
+CMT,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cmt.us.eastern.us.m3u8
+CNBC,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cnbc.usa.us.m3u8
+CNN,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cnn.us.m3u8
+Cooking Channel,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/the.cooking.channel.us.m3u8
+Discovery,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/discovery.channel.us.eastern.us.m3u8
+FOX Business,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.business.us.m3u8
+FOX News,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.news.us.m3u8
+Gol TV English,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/gol.tv.usa.us.m3u8
+HLN,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/hln.us.m3u8
+Longhorn Network,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/longhorn.network.us.m3u8
+Marquee Sports Network,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/marquee.sports.network.us.m3u8
+MASN,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mid.atlantic.sports.network.us.m3u8
+MASN 2,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mid.atlantic.sports.network.2.us.m3u8
+MSG,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/msg.us.m3u8
+MSG+,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/msg.plus.us.m3u8
+MSNBC,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/msnbc.usa.us.m3u8
+NFL RedZone,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nfl.red.zone.us.m3u8
+Pac12 Network,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/pac.12.network.us.m3u8
+SEC Network,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/sec.network.us.m3u8
+Tennis Channel,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/the.tennis.channel.us.m3u8
+The Weather Channel,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/the.weather.channel.us.m3u8
+TLC,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/tlc.usa.eastern.us.m3u8
+YES Network,https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/yes.network.us.m3u8
+
+ACC Network,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/acc.network.us.m3u8
+Altitude Sports,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/altitude.sports.us.m3u8
+Animal Planet,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/animal.planet.us.east.us.m3u8
+beIN Sports,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bein.sports.1.us.m3u8
+CINEMAX,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cinemax.eastern.us.m3u8
+CMT,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cmt.us.eastern.us.m3u8
+CNBC,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cnbc.usa.us.m3u8
+CNN,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/cnn.us.m3u8
+Cooking Channel,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/the.cooking.channel.us.m3u8
+Discovery,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/discovery.channel.us.eastern.us.m3u8
+FOX Business,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.business.us.m3u8
+FOX News,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/fox.news.us.m3u8
+Gol TV English,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/gol.tv.usa.us.m3u8
+HLN,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/hln.us.m3u8
+Longhorn Network,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/longhorn.network.us.m3u8
+Marquee Sports Network,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/marquee.sports.network.us.m3u8
+MASN,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mid.atlantic.sports.network.us.m3u8
+MASN 2,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/mid.atlantic.sports.network.2.us.m3u8
+MSG,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/msg.us.m3u8
+MSG+,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/msg.plus.us.m3u8
+MSNBC,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/msnbc.usa.us.m3u8
+NFL RedZone,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nfl.red.zone.us.m3u8
+Pac12 Network,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/pac.12.network.us.m3u8
+SEC Network,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/sec.network.us.m3u8
+Tennis Channel,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/the.tennis.channel.us.m3u8
+The Weather Channel,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/the.weather.channel.us.m3u8
+TLC,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/tlc.usa.eastern.us.m3u8
+YES Network,https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/yes.network.us.m3u8
+
+ACC Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/acc.network.us.m3u8
+Altitude Sports,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/altitude.sports.us.m3u8
+Animal Planet,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/animal.planet.us.east.us.m3u8
+beIN Sports,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/bein.sports.1.us.m3u8
+CINEMAX,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/cinemax.eastern.us.m3u8
+CMT,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/cmt.us.eastern.us.m3u8
+CNBC,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/cnbc.usa.us.m3u8
+CNN,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/cnn.us.m3u8
+Cooking Channel,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/the.cooking.channel.us.m3u8
+Discovery,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/discovery.channel.us.eastern.us.m3u8
+FOX Business,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/fox.business.us.m3u8
+FOX News,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/fox.news.us.m3u8
+Gol TV English,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/gol.tv.usa.us.m3u8
+HLN,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/hln.us.m3u8
+Longhorn Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/longhorn.network.us.m3u8
+Marquee Sports Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/marquee.sports.network.us.m3u8
+MASN,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/mid.atlantic.sports.network.us.m3u8
+MASN 2,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/mid.atlantic.sports.network.2.us.m3u8
+MSG,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/msg.us.m3u8
+MSG+,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/msg.plus.us.m3u8
+MSNBC,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/msnbc.usa.us.m3u8
+NFL RedZone,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/nfl.red.zone.us.m3u8
+Pac12 Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/pac.12.network.us.m3u8
+SEC Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/sec.network.us.m3u8
+Tennis Channel,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/the.tennis.channel.us.m3u8
+The Weather Channel,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/the.weather.channel.us.m3u8
+TLC,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/tlc.usa.eastern.us.m3u8
+YES Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/yes.network.us.m3u8
+
+ACC Network,https://tvnow.best/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/acc.network.us.m3u8
+Altitude Sports,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/altitude.sports.us.m3u8
+Animal Planet,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/animal.planet.us.east.us.m3u8
+beIN Sports,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/bein.sports.1.us.m3u8
+CINEMAX,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/cinemax.eastern.us.m3u8
+CMT,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/cmt.us.eastern.us.m3u8
+CNBC,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/cnbc.usa.us.m3u8
+CNN,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/cnn.us.m3u8
+Cooking Channel,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/the.cooking.channel.us.m3u8
+Discovery,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/discovery.channel.us.eastern.us.m3u8
+FOX Business,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/fox.business.us.m3u8
+FOX News,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/fox.news.us.m3u8
+Gol TV English,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/gol.tv.usa.us.m3u8
+HLN,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/hln.us.m3u8
+Longhorn Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/longhorn.network.us.m3u8
+Marquee Sports Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/marquee.sports.network.us.m3u8
+MASN,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/mid.atlantic.sports.network.us.m3u8
+MASN 2,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/mid.atlantic.sports.network.2.us.m3u8
+MSG,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/msg.us.m3u8
+MSG+,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/msg.plus.us.m3u8
+MSNBC,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/msnbc.usa.us.m3u8
+NFL RedZone,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/nfl.red.zone.us.m3u8
+Pac12 Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/pac.12.network.us.m3u8
+SEC Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/sec.network.us.m3u8
+Tennis Channel,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/the.tennis.channel.us.m3u8
+The Weather Channel,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/the.weather.channel.us.m3u8
+TLC,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/tlc.usa.eastern.us.m3u8
+YES Network,https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/yes.network.us.m3u8

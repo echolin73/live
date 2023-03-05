@@ -1,0 +1,121 @@
+英语频道,#genre#
+Discovery HD,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/3.m3u8
+Discovery Turbo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/3.m3u8
+
+Discovery,http://185.59.223.102:8080/discovery/index.m3u8
+National Geographic,http://185.59.223.102:8080/natgeo/index.m3u8
+Nat Geo Wild,http://185.59.223.102:8080/natgeowild/index.m3u8
+History,http://185.59.223.102:8080/history/index.m3u8
+MTV Live,http://185.59.223.102:8080/mtv/index.m3u8
+
+BBC America,http://megaott.cx:900/t12mgxy282/556175751453161/13533
+BBC America,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+BBC Food,https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-maq49n9yo9ui9-prod/playlist.m3u8
+BBC Home,https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
+BBC Food,https://bit.ly/bbcfood_inspiration_m3u8
+BBC Home,https://bit.ly/3xGj8e5?/index.m3u8
+BBC Food,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+BBC Home,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+BBC Food,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+BBC Home,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+BBC Travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+Blaze,http://84.200.70.178:4542/bysid/50350
+
+CBS Reality,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=11108&extension=ts&play_token=TQ6cftyhX8
+
+Circle,https://circle-xumo.amagi.tv/playlist.m3u8
+
+CineLife,https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+CineLife,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
+Destination America,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9690&extension=ts&play_token=TQ6cftyhX8
+
+Documentary+,https://d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8
+
+Docurama,https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+
+GoTraveler,https://bit.ly/GoTraveler?/playlist720_p.m3u8
+
+GoUSA TV,https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV//playlist.m3u8
+
+Gusto TV,https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd897267.m3u8
+iFood TV,https://ft-ifood-roku.amagi.tv/playlist.m3u8
+
+Big Life,https://biglife.sinclair.wurl.com/manifest/3000.m3u8
+Lively Place,https://aenetworks-ae-1.samsung.wurl.com/manifest/3000.m3u8
+
+LIVExLIVE,https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+
+Luxe TV,https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+Luxe TV,https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
+
+Museum TV Fast,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
+
+NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+
+NASA Public Channel,http://158.101.151.82:9000/jmsytb.m3u8?c=23
+NASA Media Channel,http://158.101.151.82:9000/jmsytb.m3u8?c=24
+
+NASA Public Channel,http://185.236.229.31:9981/play/a05q
+
+Nature Relax,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
+
+Outdoor America,https://obsession-media.sinclair.wurl.com/manifest/3000.m3u8
+
+PBS World,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+PBS America,https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
+People TV,https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
+People TV,https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
+People TV,https://peopletv-oo.akamaized.net/playlist720p.m3u8
+People TV,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-peopletv-samsungtv-us/playlist.m3u8
+
+Real Life,https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+Real Life,https://lds-realfamilies-plex.amagi.tv/playlist1080p.m3u8
+Real Stories,https://lds-realstories-plex.amagi.tv/playlist.m3u8
+
+Smithsonian Channel,https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+Smithsonian Channel,https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+
+Samsung Wild Life,https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8
+
+So...Real,https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
+
+Tastemade,https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+Tastemade Australia,https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+Tastemade Australia,https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+Tastemade Travel,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
+
+Time Line,https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+Time Line,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+
+Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+Trace Sport Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+Trace Urban,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+Travelxp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+Travelxp,https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
+
+Voyager Documentaries,https://bit.ly/3mAWlc5?/playlist720p.m3u8
+
+WaterBear,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+WaterBear,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
+
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=Z_BZA_yssxyqid8AaAg5&channelId=60d4edddb2fdec002c141135&uid=1g1307rds-llbl-i9g-wijf-7pf81nv305a/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8
+
+Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+Wild Planet,https://wildearth-roku.amagi.tv/master.m3u8
+
+Wild Stories,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/88b835fe-818e-11eb-908d-533d39655269/0/master.m3u8
+
+Wonder,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+Wonder,https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+
+Xplore,https://xplore-roku.amagi.tv/playlist.m3u8
+Xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
+Xplore,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8
+Xplore,https://xplore-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=EzEGy3aT4zydHG9xwDJa&channelId=5ff71b7e9298ba002e437eac&uid=1g09f8a2n-i8go-mmg-xt76-yov2gtlfm6b/hls/amagi_hls_data_plexAAAAA-litton-xplore-plex/CDN/playlist.m3u8
+Xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
