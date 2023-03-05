@@ -980,7 +980,7 @@ CCTV 兵器科技,http://nas.tuyuannet.cn:8800/rtp/239.37.0.084:5540
 CCTV 电视指南,http://nas.tuyuannet.cn:8800/rtp/239.37.0.115:5540
 CCTV 高尔夫网球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540
 CCTV 风云剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.114:5540
-CCTV 台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540
+CCTV 央视台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540
 
 港澳频道,#genre#
 凤凰中文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
