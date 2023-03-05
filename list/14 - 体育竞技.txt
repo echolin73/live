@@ -1,0 +1,234 @@
+体育竞技,#genre#
+CCTV-5 体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8
+CCTV-5+ 体育赛事,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+CCTV-5+ 体育赛事,rtsp://183.252.176.54/PLTV/88888888/224/3221226714/40417236.smil
+CCTV-5 体育,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
+CCTV-5+ 体育赛事,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
+CCTV-5+ 体育赛事,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
+CCTV-5+ 体育赛事,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226919/index.m3u8?servicetype=1
+CCTV-5 体育,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
+CCTV-5+ 体育赛事,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
+CCTV-5+ 体育赛事,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
+CCTV-5+ 体育赛事,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226919/index.m3u8?servicetype=1
+CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226395/index.m3u8
+CCTV-5+ 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226221/index.m3u8
+CCTV-5 体育,http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
+CCTV-5+ 体育赛事,http://39.135.55.105:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
+CCTV-5+ 体育赛事,http://39.135.55.105:6610/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
+CCTV-5+ 体育赛事,http://39.135.55.105:6610/PLTV/88888888/224/3221226919/index.m3u8?servicetype=1
+CCTV-5 体育,http://112.50.243.8/PLTV/88888888/224/3221227170/1.m3u8
+CCTV-5+ 体育赛事,http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
+CCTV-5+ 体育赛事,http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
+CCTV-5+ 体育赛事,http://112.50.243.8/PLTV/88888888/224/3221226919/1.m3u8
+CCTV-16 奥林匹克,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+CCTV-16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221228127/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.js.chinamobile.com/PLTV/4/224/3221228127/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228127/index.m3u8
+CCTV-16 奥林匹克,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
+CCTV-16 奥林匹克,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+CCTV-16 奥林匹克,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
+CCTV-16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV-16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+CCTV-16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+CCTV-16 奥林匹克,http://39.135.7.132:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+
+CCTV 风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+CCTV 高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+CCTV 央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+CCTV 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+CCTV 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+CCTV 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+CCTV 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+CCTV 高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+CCTV 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+CCTV 风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 高尔夫网球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
+CCTV 高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+CCTV 央视台球,http://218.17.216.102:9901/tsfile/live/1066_1.m3u8
+CCTV 风云足球,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
+CCTV 高尔夫网球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
+CCTV 央视台球,http://baidu.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
+
+新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+足球频道,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
+
+新视觉,http://117.184.239.106/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+魅力足球,http://117.184.239.106/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+劲爆体育,http://117.184.239.106/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+五星体育,http://117.184.239.106/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+足球频道,http://117.184.239.106/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+
+广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/1300.m3u8
+广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+新视觉,http://112.25.48.69/live/program/live/xsjhd/4000000/mnf.m3u8
+魅力足球,http://112.25.48.69/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+BesTV超级体育,http://117.184.239.106/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+BesTV超级体育,http://117.184.239.165/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+
+NewTV超级体育,http://117.169.121.162:6610/PLTV/88888910/224/3221225622/index.m3u8
+NewTV超级体育,http://117.169.121.162:6610/PLTV/88888910/224/3221225767/index.m3u8
+NewTV超级体育,http://gslbserv.itv.cmvideo.cn:80/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
+NewTV超级体育,http://gslbserv.itv.cmvideo.cn:80/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+NewTV超级体育,http://gslbserv.itv.cmvideo.cn:80/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
+NewTV精品体育,http://117.169.121.162:6610/PLTV/88888910/224/3221225648/index.m3u8
+NewTV精品体育,http://117.169.121.162:6610/PLTV/88888910/224/3221225709/index.m3u8
+NewTV精品体育,http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
+NewTV精品体育,http://gslbserv.itv.cmvideo.cn:80/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+
+NewTV精品体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
+咪咕 精彩足球,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8
+咪咕 综合体育,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
+先锋乒羽,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
+
+NewTV精品体育,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225886/index.m3u8?servicetype=1
+咪咕 精彩足球,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1
+咪咕 综合体育,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
+先锋乒羽,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1
+
+NewTV精品体育,http://39.135.55.105:6610/PLTV/88888888/224/3221225886/index.m3u8?servicetype=1
+咪咕 精彩足球,http://39.135.55.105:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1
+咪咕 综合体育,http://39.135.55.105:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1
+先锋乒羽,http://39.135.55.105:6610/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1
+
+纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+博斯高球台,http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
+博斯高球台,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
+
+博斯运动1台,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
+博斯运动2台,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+博斯运动2台,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+博斯无限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+博斯网球台,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+博斯网球台,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯网球台,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+爱尔达体育1台,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+爱尔达体育1台,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+爱尔达体育1台,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+ELEVEN 1 体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+ELEVEN 1 体育,http://50.7.238.114:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+ELEVEN 1 体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+ELEVEN 2 体育,http://50.7.238.114:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+ELEVEN 2 体育,http://61.221.81.93:8078/hls/26/80/esport2.m3u8ELEVEN 2 体育,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+
+爱尔达体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
+爱尔达体育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
+爱尔达体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
+爱尔达体育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
+
+Bein Sports Xtra,https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+
+BeiN Sports English,http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+BeiN Sports Premium 1,http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+BeiN Sports Premium 2,http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+BeiN Sports Premium 3,http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test
+
+BeiN Sports English,http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+BeiN Sports Premium 1,http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+BeiN Sports Premium 2,http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+BeiN Sports Premium 3,http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+
+BeiN Sports English,http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
+
+BeiN Sports,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39499&extension=ts&play_token=TQ6cftyhX8
+BeiN Sports,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39500&extension=ts&play_token=TQ6cftyhX8
+BeiN Sports,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39501&extension=ts&play_token=TQ6cftyhX8
+BeiN Sports,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39502&extension=ts&play_token=TQ6cftyhX8
+BeiN Sports,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39503&extension=ts&play_token=TQ6cftyhX8
+BeiN Sports N,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39504&extension=ts&play_token=TQ6cftyhX8
+BeiN Sports HD,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39506&extension=ts&play_token=TQ6cftyhX8
+BT Sport 1,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9850&extension=ts&play_token=TQ6cftyhX8
+BT Sport 1,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9851&extension=ts&play_token=TQ6cftyhX8
+BT Sport 2,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9849&extension=ts&play_token=TQ6cftyhX8
+BT Sport 2,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9848&extension=ts&play_token=TQ6cftyhX8
+BT Sport 3,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9847&extension=ts&play_token=TQ6cftyhX8
+BT Sport 3,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9846&extension=ts&play_token=TQ6cftyhX8
+BT Sport 4,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=23657&extension=ts&play_token=TQ6cftyhX8
+CBS Sports Network,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=71839&extension=ts&play_token=TQ6cftyhX8
+Eurosport 1,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=8339&extension=ts&play_token=TQ6cftyhX8
+Eurosport 1,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
+Eurosport 2,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9852&extension=ts&play_token=TQ6cftyhX8
+Eurosport 2,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=117729&extension=ts&play_token=TQ6cftyhX8
+FOX Soccer Plus,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9661&extension=ts&play_token=TQ6cftyhX8
+Golf Channel,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=42901&extension=ts&play_token=TQ6cftyhX8
+HUB PREMIER 1,http://31.220.3.170:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=zpHQS3jtnW
+HUB PREMIER 2,http://31.220.3.170:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348098&extension=ts&play_token=zpHQS3jtnW
+HUB PREMIER 3,http://31.220.3.170:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348099&extension=ts&play_token=zpHQS3jtnW
+HUB PREMIER 4,http://31.220.3.170:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348100&extension=ts&play_token=zpHQS3jtnW
+HUB PREMIER 5,http://31.220.3.170:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348101&extension=ts&play_token=zpHQS3jtnW
+HUB PREMIER 6,http://31.220.3.170:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348102&extension=ts&play_token=zpHQS3jtnW
+HUB PREMIER 6,http://31.220.3.170:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348103&extension=ts&play_token=zpHQS3jtnW
+MLB Network,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=15009&extension=ts&play_token=TQ6cftyhX8
+NBC Sports Network,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=22896&extension=ts&play_token=TQ6cftyhX8
+Racing TV,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39793&extension=ts&play_token=TQ6cftyhX8
+Sky Sports Football,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=11659&extension=ts&play_token=TQ6cftyhX8
+Sky Sports Premier League,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=37069&extension=ts&play_token=TQ6cftyhX8
+Sky Sports Arena,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=11655&extension=ts&play_token=TQ6cftyhX8
+Sky Sports Arena,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=11656&extension=ts&play_token=TQ6cftyhX8
+Sky Sports F1,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=37068&extension=ts&play_token=TQ6cftyhX8
+Sky Sports Cricket,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=37072&extension=ts&play_token=TQ6cftyhX8
+Sky Sports Golf,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=37070&extension=ts&play_token=TQ6cftyhX8
+Sky Sports Main Event,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=37073&extension=ts&play_token=TQ6cftyhX8
+Sky Sports Mix,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=8336&extension=ts&play_token=TQ6cftyhX8
+Sky Sports News,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=18362&extension=ts&play_token=TQ6cftyhX8
+Sky Sports NFL,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=37071&extension=ts&play_token=TQ6cftyhX8
+Super Sport Action,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39520&extension=ts&play_token=TQ6cftyhX8
+Super Sport Blitz,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39519&extension=ts&play_token=TQ6cftyhX8
+Super Sport Football,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39413&extension=ts&play_token=TQ6cftyhX8
+Super Sport Grandstand,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39409&extension=ts&play_token=TQ6cftyhX8
+Super Sport La Liga,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
+Super Sport Live In,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39407&extension=ts&play_token=TQ6cftyhX8
+Super Sport Motorsport,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39412&extension=ts&play_token=TQ6cftyhX8
+Super Sport Premier League,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39408&extension=ts&play_token=TQ6cftyhX8
+Super Sport Rugby,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39416&extension=ts&play_token=TQ6cftyhX8
+Super Sport Variety 1,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39411&extension=ts&play_token=TQ6cftyhX8
+Super Sport Variety 2,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39410&extension=ts&play_token=TQ6cftyhX8
+Super Sport Variety 3,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39415&extension=ts&play_token=TQ6cftyhX8
+Super Sport Variety 4,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=39414&extension=ts&play_token=TQ6cftyhX8
+
+EuroSport,http://175.107.244.52:4455/play/a013/index.m3u8
+
+Sky Sports Football,http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
+Sky Sports Football,http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
+Sky Sports Premier League,http://tvpanel.one:80/live/den9179/611carc/586761.m3u8
+Sky Sports Premier League,http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
+
+Astro Supersport 1,http://50.7.238.114:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+Astro Supersport 3,http://50.7.238.114:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
+BT Sport 1,http://50.7.238.114:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
+BT Sport 2,http://50.7.238.114:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
+BT Sport 3,http://50.7.238.114:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
+Sky Sports Arena,http://50.7.238.114:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
+Sky Sports Cricket,http://50.7.238.114:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
+Sky Sports F1,http://50.7.238.114:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
+
+CBS Sports Network,https://cbsshg09-cbsshg09-ms.global.ssl.fastly.net/cbss54g2/master/cbss54g2_7.m3u8
+
+Tennis Channel,https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+Tennis Channel,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-tennischannel-international-samsung-uk/playlist.m3u8
+
+WPT (1),https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+WPT (1),https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+WPT (2),https://a6d08ba9925348b882686654b1a38165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_WorldPokerTour/playlist.m3u8
+WPT (3),https://a715bb95172a428d8e61e9fe68822ab6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_WorldPokerTour/playlist.m3u8
+
+YES Network,http://31.220.3.170/play/live.php?mac=00:1A:79:70:39:2a&stream=9688&extension=ts&play_token=TQ6cftyhX8

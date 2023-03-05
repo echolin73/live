@@ -1,0 +1,143 @@
+纪录频道,#genre#
+求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+
+求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+求索科学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+求索纪录,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+求索生活,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+求索科学,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+求索纪录,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
+求索生活,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
+求索科学,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
+求索动物,http://39.135.126.226:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
+求索纪录,http://39.135.126.231:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
+求索生活,http://39.135.126.231:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
+求索科学,http://39.135.126.231:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
+求索动物,http://39.135.126.231:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
+求索纪录,http://vl15191373.imwork.net:8880/udp/239.93.42.24:5140
+求索纪录,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032344&livemode=1&stbId=10&channel-id=wasusyt
+求索生活,http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000003382&livemode=1&stbId=10&channel-id=wasusyt
+求索科学,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032344&livemode=1&stbId=10&channel-id=wasusyt
+求索动物,http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000010046&livemode=1&stbId=10&channel-id=wasusyt
+
+BBC Earth,http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
+动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+动物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+国家地理,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+国家地理,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+国家地理,http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
+国家地理 野生频道,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
+国家地理 野生频道,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
+国家地理 野生频道,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+探索频道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+探索频道,http://50.7.238.114:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+探索频道,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+探索频道,http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
+探索亚洲,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+探索科学,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+探索科学,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+探索科学,http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+探索动力,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+探索动力,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+探索动力,http://50.7.238.114:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+
+影迷纪实台,http://www.best336699.com:1935/blocksix/4gtv-live023.stream/playlist.m3u8
+
+Discovery,http://185.59.223.102:8080/discovery/index.m3u8
+National Geographic,http://185.59.223.102:8080/natgeo/index.m3u8
+Nat Geo Wild,http://185.59.223.102:8080/natgeowild/index.m3u8
+History,http://185.59.223.102:8080/history/index.m3u8
+
+Smithsonian Channel,https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+Smithsonian Channel,https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+
+CGTN纪录,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
+CGTN纪录,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
+
+CCTV-9 纪录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
+CCTV-9 纪录,rtsp://183.252.176.54/PLTV/88888888/224/3221226637/40417257.smil
+CCTV-9 纪录,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1
+CCTV-9 纪录,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8?servicetype=1
+CCTV-9 纪录,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8?servicetype=1
+CCTV-9 纪录,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1
+CCTV-9 纪录,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225929/index.m3u8?servicetype=1
+CCTV-9 纪录,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226923/index.m3u8?servicetype=1
+CCTV-9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226197/index.m3u8
+CCTV-9 纪录,http://39.135.55.105:6610/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1
+CCTV-9 纪录,http://39.135.55.105:6610/PLTV/88888888/224/3221226923/index.m3u8?servicetype=1
+CCTV-9 纪录,http://39.135.55.105:6610/PLTV/88888888/224/3221225929/index.m3u8?servicetype=1
+CCTV-9 纪录,http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-9 纪录,http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+CCTV-9 纪录,http://112.50.243.8/PLTV/88888888/224/3221226923/1.m3u8
+
+CCTV 世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+CCTV 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+CCTV 世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+CCTV 世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV 世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
+
+北京纪实,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
+纪实人文,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
+金鹰纪实,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
+
+北京纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
+纪实人文,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
+金鹰纪实,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
+
+纪实人文,rtsp://183.252.176.54/PLTV/88888888/224/3221226762/45278478.smil
+金鹰纪实,rtsp://183.252.176.54/PLTV/88888888/224/3221226815/57526488.smil
+
+纪实人文,http://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+金鹰纪实,http://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
+看天下精选,http://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
+
+纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+金鹰纪实,http://183.207.255.188/live/program/live/jyjs8m/8000000/mnf.m3u8
+看天下精选,http://183.207.255.188/live/program/live/ktxjx8m/8000000/mnf.m3u8
+
+纪实人文,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+金鹰纪实,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+看天下精选,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
+
+精品纪录,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
+精品纪录,http://39.135.55.105:6610/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
+精品纪录,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
+精品纪录,http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+精品纪录,http://117.169.121.162:6610/PLTV/88888910/224/3221225710/index.m3u8
+精品纪录,http://gslbserv.itv.cmvideo.cn:80/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
+
+爱探索,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+爱解密,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
+爱科学,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+爱猎奇,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
+
+爱探索,http://39.135.126.231:6610/000000001001/1/index.m3u8?Contentid=6000000006000300630&livemode=1&stbId=10&channel-id=wasusyt
+爱解密,http://39.135.126.231:6610/000000001001/1/index.m3u8?Contentid=6000000006000200630&livemode=1&stbId=10&channel-id=wasusyt
+爱科学,http://39.135.126.231:6610/000000001001/1/index.m3u8?Contentid=6000000006000160630&livemode=1&stbId=10&channel-id=wasusyt
+爱猎奇,http://39.135.126.231:6610/000000001001/1/index.m3u8?Contentid=6000000006000190630&livemode=1&stbId=10&channel-id=wasusyt
+
+爱探索,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000300630&livemode=1&stbId=10&channel-id=wasusyt
+爱解密,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000200630&livemode=1&stbId=10&channel-id=wasusyt
+爱科学,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000160630&livemode=1&stbId=10&channel-id=wasusyt
+爱猎奇,http://39.135.126.226:6610/000000001001/1/index.m3u8?Contentid=6000000006000190630&livemode=1&stbId=10&channel-id=wasusyt
+
+自然地理,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
+经典纪实,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_220_600_t10/c56_lb_220_600_t10.m3u8?key
+科学探索,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8?key
+历史秘闻,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key
+军事观察,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8?key
+
+斗鱼纪录片,http://epg.112114.xyz/douyu/3485629

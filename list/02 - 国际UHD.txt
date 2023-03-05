@@ -1,0 +1,88 @@
+国际UHD,#genre#
+Astro Super Sport 4K,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
+Astro Super Sport 4K,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
+Astro Super Sport 4K,http://nordicstream.xyz:2095/xMsGHAzQ/kYuckAK/348094
+Astro Super Sport 4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484698
+Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
+Astro Super Sport 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
+Astro Super Sport 4K,http://193.107.202.221:81/live/Kirk123/Kirk123/1552951.ts
+
+Bein Sport 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+Bein Sport 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=100891&extension=ts&play_token=ou2Un6sNC5
+Bein Sport 4K,http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
+
+Hub Premier Sport 4K,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348096
+Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+Hub Premier Sport 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+
+Now Sports 4K,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
+Now Sports 4K,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
+Now Sports 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension=ts&play_token=AbdVvv7KCM
+Now Sports 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension=ts&play_token=AbdVvv7KCM
+
+Sport5 4K,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/59033
+Sport5 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
+Sport5 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
+
+Viaplay Sports UHD,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
+Viaplay Sports UHD,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/35891
+Viaplay Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+Viaplay Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=31644&extension=ts&play_token=Z1hXUmbsiM
+Viaplay Sports UHD,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
+Viaplay Sports UHD,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=31644&extension=ts&play_token=Z1hXUmbsiM
+
+1MV 4K,http://136.243.42.146:1499
+
+Bloomberg TV UHD,https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV UHD,https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV UHD,https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV UHD,https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
+
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8
+Clarity 4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+Clarity 4K,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8
+
+DAZN F1,http://tribaliptv.com:8080/Gustavo/123456/4930
+
+DIGI 4K,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/90814
+DIGI 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
+DIGI 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
+
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Fashion 4K,http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+
+Home 4K,http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=24cce35b06aecc51433333
+Home 4K,http://de1cdn.plusx.tv:8880/316/mono.m3u8?token=24cce35b06aecc51433333
+Home 4K,http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
+
+Insight UHD,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
+Insight UHD,http://de1cdn.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
+Insight UHD,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=cb776083b1e1b6f9bb2222
+Insight UHD,http://de1cdn.plusx.tv:8880/InsightUHD11/mono.m3u8?token=a6a4830189b90926652222
+
+Heritage 4K,http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=24cce35b06aecc51433333
+Heritage 4K,http://de1cdn.plusx.tv:8880/Heritage/mono.m3u8?token=24cce35b06aecc51433333
+Heritage 4K,http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
+
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
+Museum 4K,http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=24cce35b06aecc51433333
+Museum 4K,http://de1cdn.plusx.tv:8880/Museum/mono.m3u8?token=24cce35b06aecc51433333
+Museum 4K,http://cdnx1.plusx.tv:8880/Museum/mono.m3u8?token=cb776083b1e1b6f9bb2222
+
+MUZZIK 4K,,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+
+NASA 4K,http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
+NASA 4K,http://de1cdn.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
+NASA 4K,http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=cb776083b1e1b6f9bb2222
+
+ODISEA 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
+
+TravelXP 4K,http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
+TravelXP 4K,http://de1cdn.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
+
+Ultra Nature 4K,http://185.236.229.31:9981/play/a01d
