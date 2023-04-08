@@ -216,6 +216,10 @@ rtsp://183.252.176.54/PLTV/88888888/224/3221226762/45278478.smil
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/jinyingjishi.png" group-title="纪录频道",金鹰纪实
 rtsp://183.252.176.54/PLTV/88888888/224/3221226815/57526488.smil
 #http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="纪录频道",看天下精选 (1)
+http://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000/.m3u8
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="纪录频道",看天下精选 (2)
+http://tv.fanmingming.com/api/v4.php?id=ktxjx8m/8000000
 
 #国际频道
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/ABC_us.png" group-title="国际频道",ABC News US (1)
