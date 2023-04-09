@@ -70,33 +70,33 @@ http://185.236.229.31:9981/play/a01d
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 
 
-#纪录频道
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索纪录 (1)
+#纪录纪实
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索纪录 (1)
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索纪录 (2)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索纪录 (2)
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索纪录 (3)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索纪录 (3)
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索生活 (1)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索生活 (1)
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索生活 (2)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索生活 (2)
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索生活 (3)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索生活 (3)
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索科学 (1)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索科学 (1)
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索科学 (2)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索科学 (2)
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索科学 (3)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索科学 (3)
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索动物 (1)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索动物 (1)
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索动物 (2)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索动物 (2)
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录频道",求索动物 (3)
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索动物 (3)
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/CCTV9.png" group-title="纪录纪实",CCTV-9 纪录
@@ -105,18 +105,18 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8
 #EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/CCTVshijiedili.png" group-title="纪录纪实",CCTV 世界地理
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/cgtn_doc.png" group-title="纪录频道",CGTN纪录
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/cgtn_doc.png" group-title="纪录纪实",CGTN纪录
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/jishirenwen.png" group-title="纪录频道",纪实人文
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/jishirenwen.png" group-title="纪录纪实",纪实人文
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227213/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/tv_beijing.png" group-title="纪录频道",北京纪实
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/tv_beijing.png" group-title="纪录纪实",北京纪实
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225944/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/jinyingjishi.png" group-title="纪录频道",金鹰纪实
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/jinyingjishi.png" group-title="纪录纪实",金鹰纪实
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226975/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="纪录频道",看天下精选
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="纪录纪实",看天下精选
 http://tv.fanmingming.com/api/v4.php?id=ktxjx8m/8000000
 #http://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000/.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/wasu.png" group-title="纪录频道",Hot漫游世界
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/wasu.png" group-title="纪录纪实",Hot漫游世界
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000017/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000017&livemode=1&stbId=3
 
 
