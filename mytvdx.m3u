@@ -385,8 +385,6 @@ http://27.148.240.138/PLTV/88888888/224/3221226950/1.m3u8
 #rtsp://27.148.219.129:554/live/ch19040410203183192171.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch19040410203183192171&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uZ421LHJBtTvM6b5Xw3TkrPDISKIz6d7fNIZUmI02eKztcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://echolin73.github.io/logo/tvg-logo/tv_zhejiang.png" group-title="纪录频道",之江纪录
 http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/bestv.png" group-title="纪录纪实",看天下精选
-http://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000/.m3u8
 
 
 #体育竞技
