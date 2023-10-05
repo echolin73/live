@@ -89,8 +89,8 @@ CCTV-16 奥林匹克 4K, http://angtv.cc/test/as.php?id=cctv16_4k
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4K,http://1972762459.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=BIkAALgYonIlwd4W&secondToken=secondToken%3AcTyp88QdsudhnnmwHbpfH9Dg7k8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 
-CCTV 4K,https://cntv.sbs/tv?auth=230927&id=cctv4k
-CCTV-16 奥林匹克 4K,https://cntv.sbs/tv?auth=230927&id=cctv164k
+CCTV 4K,https://cntv.sbs/tv?auth=231005&id=cctv4k
+CCTV-16 奥林匹克 4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
 
 欢笑剧场 4K,http://api.52tb.xyz/info?id=155&token=20221117katecolove
 CCTV-16 奥林匹克 4K,http://api.52tb.xyz/info?id=156&token=20221117katecolove
@@ -383,7 +383,7 @@ CGTN纪录,http://angtv.cc/test/as.php?id=cgtnjl
 漫游世界,http://39.134.136.161:6610/000000001000/2000000004000000017/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000017&livemode=1&stbId=3$ITV
 漫游世界,http://39.134.136.161:6610/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3$ITV
 
-看天下精选,https://cntv.sbs/tv?auth=230927&id=ktxjx
+看天下精选,https://cntv.sbs/tv?auth=231005&id=ktxjx
 
 Smithsonian Channel,https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 Smithsonian Channel,https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
@@ -1563,10 +1563,10 @@ HOY 资讯台,http://sc2022.stream-link.org/tv2306.php?id=h17
 凤凰香港,http://sc2022.stream-link.org/tv2306.php?id=h20
 无线星河台,http://sc2022.stream-link.org/tv2306.php?id=h23
 
-无线翡翠台,https://pi.0472.org/tv/fct.php?auth=230927
-无线明珠台,https://pi.0472.org/tv/mzt.php?auth=230927
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=230927
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=230927
+无线翡翠台,https://pi.0472.org/tv/fct.php?auth=231005
+无线明珠台,https://pi.0472.org/tv/mzt.php?auth=231005
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=231005
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231005
 
 
 
@@ -2600,10 +2600,10 @@ CCTV 高尔夫网球,http://home.111818.xyz:8888/udp/239.76.254.62:9000
 五星体育,http://221.181.100.64/gslbserv.itv.cmvideo.cn:80/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,https://udpxycu.stefanluo.xyz:8443/rtp/239.45.3.210:5140
 
-新视觉,https://cntv.sbs/tv?auth=230927&id=xsj
-五星体育,https://cntv.sbs/tv?auth=230927&id=wxty
-劲爆体育,https://cntv.sbs/tv?auth=230927&id=jbty
-魅力足球,https://cntv.sbs/tv?auth=230927&id=mlzq
+新视觉,https://cntv.sbs/tv?auth=231005&id=xsj
+五星体育,https://cntv.sbs/tv?auth=231005&id=wxty
+劲爆体育,https://cntv.sbs/tv?auth=231005&id=jbty
+魅力足球,https://cntv.sbs/tv?auth=231005&id=mlzq
 
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
