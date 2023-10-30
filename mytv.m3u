@@ -68,7 +68,7 @@ http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 
 #纪录纪实
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索纪录 (1)
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3#http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032052&livemode=1&stbId=10&channel-id=wasusyt#http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索纪录 (2)
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索纪录 (3)
