@@ -150,7 +150,7 @@ https://sc2022.stream-link.org/tv2306.php?id=t27
 
 
 #体育
-#EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="NOW 体育台" tvg-logo="https://www.stream-link.org/tv_logo/now_630.png" group-title="体育 ",NOW 体育台
+#EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="NOW 体育台" tvg-logo="https://www.stream-link.org/tv_logo/now_630.png" group-title="体育",NOW 体育台
 https://sc2022.stream-link.org/tv2306.php?id=s01
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://www.stream-link.org/tv_logo/great_sports.png" group-title="体育",五星体育
 https://sc2022.stream-link.org/tv2306.php?id=s02
