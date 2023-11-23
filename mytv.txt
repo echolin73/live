@@ -920,7 +920,9 @@ HISTORY,https://sc2022.stream-link.org/tv2306.php?id=t35
 Love Nature,https://sc2022.stream-link.org/tv2306.php?id=t39
 MTV,https://sc2022.stream-link.org/tv2306.php?id=t34
 Asia Food Network,https://sc2022.stream-link.org/tv2306.php?id=c01
-Cartoon Network,https://sc2022.stream-link.org/tv2306.php?id=c02央视频道,#genre#
+Cartoon Network,https://sc2022.stream-link.org/tv2306.php?id=c02
+
+央视频道,#genre#
 CCTV-1 综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 CCTV-1 综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
 CCTV-1 综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226995/index.m3u8
