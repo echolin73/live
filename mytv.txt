@@ -2518,10 +2518,12 @@ Astro 爱奇艺,http://abcnew.site:8880/48msk050022/92297813/71038
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
 山西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227258/index.m3u8?servicetype=1
-陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+陕西卫视,http://61.136.67.238:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://123.138.216.44:9902/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://219.145.93.74:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227221/index.m3u8?servicetype=1
 甘肃卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1
-宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宁夏卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227254/index.m3u8?servicetype=1
 青海卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227119/index.m3u8?servicetype=1
@@ -2532,7 +2534,6 @@ Astro 爱奇艺,http://abcnew.site:8880/48msk050022/92297813/71038
 新疆卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001047/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 新疆卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227248/index.m3u8?servicetype=1
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-内蒙古卫视,http://api2.52tb.xyz/info?id=44&token=20230305eptdaz
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 内蒙古卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 内蒙古卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227244/index.m3u8?servicetype=1
@@ -2547,6 +2548,7 @@ Astro 爱奇艺,http://abcnew.site:8880/48msk050022/92297813/71038
 深圳卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227242/index.m3u8?servicetype=1
 厦门卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 三沙卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1
+兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8
 兵团卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 延边卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227330/index.m3u8?servicetype=1
