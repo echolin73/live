@@ -2550,7 +2550,7 @@ Astro 爱奇艺,http://abcnew.site:8880/48msk050022/92297813/71038
 三沙卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8
 兵团卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1
-延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227330/index.m3u8?servicetype=1
 
 北京卫视,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1
