@@ -564,6 +564,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227176/index.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/jsxt.png" group-title="生活娱乐",金色学堂
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227208/index.m3u8
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/qicaixiju.png" group-title="生活娱乐",七彩戏剧
+http://39.134.136.196:6610/000000001000/2000000002000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/youxi_fengyun.png" group-title="生活娱乐",游戏风云
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227075/index.m3u8
 
