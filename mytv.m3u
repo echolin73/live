@@ -45,23 +45,34 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #纪录纪实
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/bbc_earth.png" group-title="纪录纪实",BBC地球
 http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
-#http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/bbc_earth.png" group-title="纪录纪实",BBC地球
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/bbc_lifestyle.png" group-title="纪录纪实",BBC生活
 http://50.7.238.114:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/animal_planet.png" group-title="纪录纪实",动物星球
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/animal_planet.png" group-title="纪录纪实",动物星球
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
-#http://61.221.215.25:8800/hls/57/index.m3u8
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/45
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/animal_planet.png" group-title="纪录纪实",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/discovery.png" group-title="纪录纪实",探索频道
 http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
-#http://61.221.215.25:8800/hls/1/index.m3u8
 #http://gmlive.ddns.net:5000/kun5g/kun5g2024/46
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/discovery.png" group-title="纪录纪实",探索频道
+http://50.7.238.114:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/discovery.png" group-title="纪录纪实",探索频道
+http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/discovery_asia.png" group-title="纪录纪实",探索亚洲
 http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-#http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/discovery_asia.png" group-title="纪录纪实",探索亚洲
+http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/discovery_asia.png" group-title="纪录纪实",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/CI.png" group-title="纪录纪实",罪案侦缉
 http://50.7.238.114:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-#http://50.7.238.114:8278/ci_twn/playlist.m3u8?tid=MDED2146129621461296&ct=18392&tsum=5d3635ae16593892965af78a8a1c402c
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/CI.png" group-title="纪录纪实",罪案侦缉
+http://50.7.238.114:8278/ci_twn/playlist.m3u8?tid=MDED2146129621461296&ct=18392&tsum=5d3635ae16593892965af78a8a1c402c
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/qiusuo_logo.png" group-title="纪录纪实",求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
