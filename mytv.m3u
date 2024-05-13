@@ -389,10 +389,10 @@ http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/ind
 
 #港澳频道
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/phoenix_chinese.png" group-title="港澳频道",凤凰中文
-http://www.terrykang.cn:5678/fjgd.php?id=fhzw
+http://43.141.130.33/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/phoenix_infonews.png" group-title="港澳频道",凤凰资讯
-http://www.terrykang.cn:5678/fjgd.php?id=fhzx
+http://43.141.130.33/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo/phoenix_hk.png" group-title="港澳频道",凤凰香港
 http://43.141.130.33/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
