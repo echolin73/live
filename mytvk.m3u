@@ -263,8 +263,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/fj_jiaoyu.png" group-title="福建频道",福建教育
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/fztv.png" group-title="福建频道",福州一套 新闻频道
-rtsp://183.252.176.54/PLTV/88888888/224/3221226720/45553071.smil
-#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/fztv.png" group-title="福建频道",福州一套 新闻频道
 http://171.8.33.157:5678/fjgd.php?id=fz1
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/fztv.png" group-title="福建频道",福州二套 影视频道
 http://171.8.33.157:5678/fjgd.php?id=fz2
