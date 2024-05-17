@@ -451,7 +451,8 @@ http://bziyunshao.synology.me:8889/bysid/96
 https://raw.githubusercontent.com/echolin73/utlive/YTlive/ctvnews.m3u8
 #https://youtube.livednow.com/stream/TCnaIE_SAtM
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/cts.png" group-title="台湾频道",华视新闻
-https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
+http://172.233.67.137:5000/4gtv/34
+#https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
 #EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/ttv.png" group-title="台湾频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #https://raw.githubusercontent.com/echolin73/utlive/YTlive/ttvnews.m3u8
