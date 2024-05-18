@@ -24,17 +24,15 @@
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 
-BBC地球,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
 BBC地球,mitv://generationnexxxt.com:19806/17826db977f04f8fa679d438d6c51700
+BBC地球,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
 BBC生活,mitv://generationnexxxt.com:19806/5955951f08424fd49e21d90e882e5228
 BBC生活,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 动物星球,mitv://generationnexxxt.com:19806/ff4ce945b27940f89712c63366f0454d
 动物星球,mitv://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
 国家地理,mitv://generationnexxxt.com:19806/37a44d0af7634364a91f2fb8d9b9cf9b
-探索频道,mitv://generationnexxxt.com:19806/202aafe50f8947eeac67a09b828f8c40
 探索频道,mitv://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
-探索亚洲,mitv://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
-探索亚洲,mitv://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
+探索亚洲,mitv://generationnexxxt.com:19806/202aafe50f8947eeac67a09b828f8c40
 探索科学,mitv://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
 探索动力,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
 历史频道,mitv://generationnexxxt.com:19806/63e740392c4641cc9dab02d98b74782f
@@ -55,17 +53,15 @@ EYETV旅游,mitv://generationnexxxt.com:19806/055ce8e749c1425c87950f93d0bf9bcd
 TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec03679804
 达文西频道,mitv://generationnexxxt.com:19806/65939a080006919098d4bd6914a733d2
 
-BBC地球,P2p://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
 BBC地球,P2p://generationnexxxt.com:19806/17826db977f04f8fa679d438d6c51700
+BBC地球,P2p://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
 BBC生活,P2p://generationnexxxt.com:19806/5955951f08424fd49e21d90e882e5228
 BBC生活,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 动物星球,P2p://generationnexxxt.com:19806/ff4ce945b27940f89712c63366f0454d
 动物星球,P2p://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
 国家地理,P2p://generationnexxxt.com:19806/37a44d0af7634364a91f2fb8d9b9cf9b
-探索频道,P2p://generationnexxxt.com:19806/202aafe50f8947eeac67a09b828f8c40
 探索频道,P2p://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
-探索亚洲,P2p://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
-探索亚洲,P2p://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
+探索亚洲,P2p://generationnexxxt.com:19806/202aafe50f8947eeac67a09b828f8c40
 探索科学,P2p://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
 探索动力,P2p://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
 历史频道,P2p://generationnexxxt.com:19806/63e740392c4641cc9dab02d98b74782f
