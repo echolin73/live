@@ -2322,6 +2322,7 @@ CatchPlay电影,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4
 霹雳台湾台,mitv://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
 
 天映频道,mitv://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
+天映频道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
 天映经典,mitv://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
 澳门莲花,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b
 澳门莲花,mitv://generationnexxxt.com:19806/35abc186b6194a4ca97a6d9f9d59e501
@@ -2468,6 +2469,7 @@ CatchPlay电影,P2p://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a
 霹雳台湾台,P2p://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
 
 天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
+天映频道,P2p://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
 天映经典,P2p://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
 澳门莲花,P2p://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b
 澳门莲花,P2p://generationnexxxt.com:19806/35abc186b6194a4ca97a6d9f9d59e501
@@ -2529,12 +2531,10 @@ Tech Storm,P2p://generationnexxxt.com:19806/994876c6aadc4234ba73441f18d36602
 
 临时频道,#genre#
 探索亚洲,mitv://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
-东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 八大第一,mitv://generationnexxxt.com:19806/097da20dd18c4fe39495cbed3910a7d8
 八大综合,mitv://generationnexxxt.com:19806/6aea35c056e84f11bdc282d8096413ae
 八大戏剧,mitv://generationnexxxt.com:19806/098f02d6d36d4ac88e89e0be6d838a94
-天映频道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
 
 测试频道,#genre#
 动漫秀场,mitv://generationnexxxt.com:19806/b04bd3e03b1747aab44579ca81c664c8
