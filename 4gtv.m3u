@@ -1,0 +1,676 @@
+#EXTM3U
+#国际频道#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10107.png"group-title="国际频道",Al Jazeera
+http://live.9528.eu.org/4gtv.php?channel=85
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10018.png"group-title="国际频道",Arirang
+http://live.9528.eu.org/4gtv.php?channel=189
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10031.png"group-title="国际频道",Bloomberg
+http://live.9528.eu.org/4gtv.php?channel=283
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10109.png"group-title="国际频道",CNBC Asia
+http://live.9528.eu.org/4gtv.php?channel=235
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10110.png"group-title="国际频道",DW
+http://live.9528.eu.org/4gtv.php?channel=226
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10108.png"group-title="国际频道",VOA
+http://live.9528.eu.org/4gtv.php?channel=86
+
+#纪录纪实#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10086.png"group-title="纪录纪实",自然频道
+http://live.9528.eu.org/4gtv.php?channel=139
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10068.png"group-title="纪录纪实",历史频道
+http://live.9528.eu.org/4gtv.php?channel=214
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10083.png"group-title="纪录纪实",罪案侦缉
+http://live.9528.eu.org/4gtv.php?channel=215
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10047.png"group-title="纪录纪实",宠物频道
+http://live.9528.eu.org/4gtv.php?channel=182
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10050.png"group-title="纪录纪实",达文西频道
+http://live.9528.eu.org/4gtv.php?channel=11
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10079.png"group-title="纪录纪实",车迷TV
+http://live.9528.eu.org/4gtv.php?channel=160
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10096.png"group-title="纪录纪实",幸福空间居家台
+http://live.9528.eu.org/4gtv.php?channel=168
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10070.png"group-title="纪录纪实",影迷数位纪实台
+http://live.9528.eu.org/4gtv.php?channel=212
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10075.png"group-title="纪录纪实",视纳华仁纪实
+http://live.9528.eu.org/4gtv.php?channel=38
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10092.png"group-title="纪录纪实",民视旅游
+http://live.9528.eu.org/4gtv.php?channel=61
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10074.png"group-title="纪录纪实",亚洲旅游
+http://live.9528.eu.org/4gtv.php?channel=250
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10074.png"group-title="纪录纪实",亚洲旅游
+http://live.9528.eu.org/4gtv.php?channel=261
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10102.png"group-title="纪录纪实",爱尔达生活旅游
+http://live.9528.eu.org/4gtv.php?channel=237
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10084.png"group-title="纪录纪实",Globetrotter
+http://live.9528.eu.org/4gtv.php?channel=288
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10020.png"group-title="纪录纪实",Global Trekker
+http://live.9528.eu.org/4gtv.php?channel=252
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10054.png"group-title="纪录纪实",滚动力rollor
+http://live.9528.eu.org/4gtv.php?channel=249
+
+#港澳频道#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/phoenix_chinese.png" group-title="港澳频道",凤凰中文
+http://www.terrykang.cn:5678/fjgd.php?id=fhzw
+#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/phoenix_infonews.png" group-title="港澳频道",凤凰资讯
+http://www.terrykang.cn:5678/fjgd.php?id=fhzx
+#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/phoenix_hk.png" group-title="港澳频道",凤凰香港
+http://103.95.24.37:880/fhxgt.m3u8
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/phoenix_hk.png" group-title="港澳频道",凤凰香港
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/phoenix_hk.png" group-title="港澳频道",凤凰香港
+http://50.7.216.178:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/tvbnews.png" group-title="港澳频道",无线新闻台
+http://50.7.216.178:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/tvbnews.png" group-title="港澳频道",无线新闻台
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/tvbjade.png" group-title="港澳频道",无线翡翠台
+http://50.7.216.178:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/tvbpearl.png" group-title="港澳频道",无线明珠台
+http://50.7.216.178:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/tvbxinghe.png" group-title="港澳频道",无线星河台
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#http://50.7.216.178:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/tvbent.png" group-title="港澳频道",无线娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#http://abcnew.site:8880/3ca7123n11/ewfr543ds/71043
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/tvbplus.png" group-title="港澳频道",无线Plus
+http://50.7.216.178:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/hoy.png" group-title="港澳频道",HOY 76
+https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8
+#http://bziyunshao.synology.me:8891/bysid/76
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/hoy.png" group-title="港澳频道",HOY 77
+https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
+#http://bziyunshao.synology.me:8891/bysid/77
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/hoy.png" group-title="港澳频道",HOY 78
+https://z88.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
+#http://bziyunshao.synology.me:8891/bysid/78
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/rthk31.png" group-title="港澳频道",RTHK 31
+http://50.7.216.178:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094
+#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/rthk32.png" group-title="港澳频道",RTHK 32
+http://50.7.216.178:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/viu.png" group-title="港澳频道",ViuTV
+http://50.7.216.178:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/viu6.png" group-title="港澳频道",ViuTV 6
+http://50.7.216.178:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+
+#台湾频道#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10033.png"group-title="台湾频道",中视新闻
+http://live.9528.eu.org/4gtv.php?channel=33
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10033.png"group-title="台湾频道",中视新闻
+http://live.9528.eu.org/4gtv.php?channel=258
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10066.png"group-title="台湾频道",华视新闻
+http://live.9528.eu.org/4gtv.php?channel=34
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10066.png"group-title="台湾频道",华视新闻
+http://live.9528.eu.org/4gtv.php?channel=256
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/ttvnews.png" group-title="台湾频道",台视新闻
+https://raw.githubusercontent.com/echolin73/utlive/YTlive/ttvnews.m3u8
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/ttvnews.png" group-title="台湾频道",台视新闻
+http://50.7.216.178:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10042.png"group-title="台湾频道",民视新闻
+http://live.9528.eu.org/4gtv.php?channel=31
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10042.png"group-title="台湾频道",民视新闻
+http://live.9528.eu.org/4gtv.php?channel=257
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10030.png"group-title="台湾频道",TVBS新闻
+http://live.9528.eu.org/4gtv.php?channel=291
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10015.png"group-title="台湾频道",东森新闻
+http://live.9528.eu.org/4gtv.php?channel=292
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10044.png"group-title="台湾频道",东森财经
+http://live.9528.eu.org/4gtv.php?channel=293
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10043.png"group-title="台湾频道",寰宇新闻
+http://live.9528.eu.org/4gtv.php?channel=36
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10043.png"group-title="台湾频道",寰宇新闻
+http://live.9528.eu.org/4gtv.php?channel=262
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10023.png"group-title="台湾频道",寰宇财经
+http://live.9528.eu.org/4gtv.php?channel=281
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10053.png"group-title="台湾频道",三立iNews
+http://live.9528.eu.org/4gtv.php?channel=229
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10060.png"group-title="台湾频道",中天新闻
+http://live.9528.eu.org/4gtv.php?channel=30
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10060.png"group-title="台湾频道",中天新闻
+http://live.9528.eu.org/4gtv.php?channel=260
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10051.png"group-title="台湾频道",靖天资讯
+http://live.9528.eu.org/4gtv.php?channel=88
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10025.png"group-title="台湾频道",镜新闻
+http://live.9528.eu.org/4gtv.php?channel=268
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10022.png"group-title="台湾频道",新唐人亚太
+http://live.9528.eu.org/4gtv.php?channel=223
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10034.png"group-title="台湾频道",SBN全球财经
+http://live.9528.eu.org/4gtv.php?channel=224
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10123.png"group-title="台湾频道",国会频道1
+http://live.9528.eu.org/4gtv.php?channel=170
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10111.png"group-title="台湾频道",国会频道2
+http://live.9528.eu.org/4gtv.php?channel=171
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10006.png"group-title="台湾频道",中视
+http://live.9528.eu.org/4gtv.php?channel=4
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10032.png"group-title="台湾频道",华视
+http://live.9528.eu.org/4gtv.php?channel=6
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/ttv.png" group-title="台湾频道",台视
+http://50.7.216.178:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/ttv.png" group-title="台湾频道",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10004.png"group-title="台湾频道",民视
+http://live.9528.eu.org/4gtv.php?channel=3
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10004.png"group-title="台湾频道",民视
+http://live.9528.eu.org/4gtv.php?channel=246
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10007.png"group-title="台湾频道",中视经典
+http://live.9528.eu.org/4gtv.php?channel=124
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10008.png"group-title="台湾频道",中视菁采
+http://live.9528.eu.org/4gtv.php?channel=123
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10002.png"group-title="台湾频道",民视第一
+http://live.9528.eu.org/4gtv.php?channel=1
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10002.png"group-title="台湾频道",民视第一
+http://live.9528.eu.org/4gtv.php?channel=254
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10003.png"group-title="台湾频道",民视台湾
+http://live.9528.eu.org/4gtv.php?channel=2
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10003.png"group-title="台湾频道",民视台湾
+http://live.9528.eu.org/4gtv.php?channel=255
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10029.png"group-title="台湾频道",民视综艺
+http://live.9528.eu.org/4gtv.php?channel=16
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10035.png"group-title="台湾频道",TVBS HD
+http://live.9528.eu.org/4gtv.php?channel=183
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10046.png"group-title="台湾频道",TVBS欢乐
+http://live.9528.eu.org/4gtv.php?channel=184
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10021.png"group-title="台湾频道",TVBS精采
+http://live.9528.eu.org/4gtv.php?channel=227
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10120.png"group-title="台湾频道",TVBS综艺
+http://live.9528.eu.org/4gtv.php?channel=284
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10010.png"group-title="台湾频道",八大综艺
+http://live.9528.eu.org/4gtv.php?channel=114
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10010.png"group-title="台湾频道",八大综艺
+http://live.9528.eu.org/4gtv.php?channel=276
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10085.png"group-title="台湾频道",八大精彩
+http://live.9528.eu.org/4gtv.php?channel=172
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10101.png"group-title="台湾频道",寰宇台湾
+http://live.9528.eu.org/4gtv.php?channel=280
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10009.png"group-title="台湾频道",三立综合
+http://live.9528.eu.org/4gtv.php?channel=169
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10011.png"group-title="台湾频道",靖天综合
+http://live.9528.eu.org/4gtv.php?channel=21
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10081.png"group-title="台湾频道",靖天国际
+http://live.9528.eu.org/4gtv.php?channel=84
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10104.png"group-title="台湾频道",靖天日本
+http://live.9528.eu.org/4gtv.php?channel=22
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10038.png"group-title="台湾频道",靖天育乐
+http://live.9528.eu.org/4gtv.php?channel=83
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10061.png"group-title="台湾频道",靖天欢乐
+http://live.9528.eu.org/4gtv.php?channel=119
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10048.png"group-title="台湾频道",爱尔达娱乐
+http://live.9528.eu.org/4gtv.php?channel=19
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10024.png"group-title="台湾频道",爱尔达英语
+http://live.9528.eu.org/4gtv.php?channel=106
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10026.png"group-title="台湾频道",原住民电视
+http://live.9528.eu.org/4gtv.php?channel=273
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10012.png"group-title="台湾频道",客家电视
+http://live.9528.eu.org/4gtv.php?channel=10
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10041.png"group-title="台湾频道",MOMO亲子
+http://live.9528.eu.org/4gtv.php?channel=231
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10106.png"group-title="台湾频道",人间卫视
+http://live.9528.eu.org/4gtv.php?channel=210
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10005.png"group-title="台湾频道",大爱
+http://live.9528.eu.org/4gtv.php?channel=209
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10105.png"group-title="台湾频道",大爱2
+http://live.9528.eu.org/4gtv.php?channel=230
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10098.png"group-title="台湾频道",好消息
+http://live.9528.eu.org/4gtv.php?channel=9
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10099.png"group-title="台湾频道",好消息2
+http://live.9528.eu.org/4gtv.php?channel=8
+
+
+#体育竞技#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10073.png"group-title="体育竞技",博斯运动1台
+http://live.9528.eu.org/4gtv.php?channel=50
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10073.png"group-title="体育竞技",博斯运动1台
+http://live.9528.eu.org/4gtv.php?channel=265
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10055.png"group-title="体育竞技",博斯无限台
+http://live.9528.eu.org/4gtv.php?channel=266
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10055.png"group-title="体育竞技",博斯无限台
+http://live.9528.eu.org/4gtv.php?channel=51
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10064.png"group-title="体育竞技",博斯高球台
+http://live.9528.eu.org/4gtv.php?channel=48
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10064.png"group-title="体育竞技",博斯高球台
+http://live.9528.eu.org/4gtv.php?channel=264
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10049.png"group-title="体育竞技",博斯网球台
+http://live.9528.eu.org/4gtv.php?channel=52
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10049.png"group-title="体育竞技",博斯网球台
+http://live.9528.eu.org/4gtv.php?channel=267
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10069.png"group-title="体育竞技",智林体育台
+http://live.9528.eu.org/4gtv.php?channel=58
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10063.png"group-title="体育竞技",TRACE Sport Star
+http://live.9528.eu.org/4gtv.php?channel=57
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10058.png"group-title="体育竞技",时尚运动X
+http://live.9528.eu.org/4gtv.php?channel=69
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10058.png"group-title="体育竞技",时尚运动X
+http://live.9528.eu.org/4gtv.php?channel=277
+
+
+#影视频道#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10095.png"group-title="影视频道",amc电影
+http://live.9528.eu.org/4gtv.php?channel=39
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10072.png"group-title="影视频道",Cinema World
+http://live.9528.eu.org/4gtv.php?channel=225
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10088.png"group-title="影视频道",HITS
+http://live.9528.eu.org/4gtv.php?channel=186
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10028.png"group-title="影视频道",Lifetime
+http://live.9528.eu.org/4gtv.php?channel=217
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10080.png"group-title="影视频道",MCE欧洲电影
+http://live.9528.eu.org/4gtv.php?channel=176
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10089.png"group-title="影视频道",ROCK Action
+http://live.9528.eu.org/4gtv.php?channel=180
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10087.png"group-title="影视频道",民视影剧
+http://live.9528.eu.org/4gtv.php?channel=24
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10077.png"group-title="影视频道",公视戏剧
+http://live.9528.eu.org/4gtv.php?channel=7
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10121.png"group-title="影视频道",TVBS台剧
+http://live.9528.eu.org/4gtv.php?channel=285
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10091.png"group-title="影视频道",龙华电影
+http://live.9528.eu.org/4gtv.php?channel=121
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10078.png"group-title="影视频道",龙华日韩
+http://live.9528.eu.org/4gtv.php?channel=28
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10100.png"group-title="影视频道",龙华戏剧
+http://live.9528.eu.org/4gtv.php?channel=23
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10094.png"group-title="影视频道",靖天电影
+http://live.9528.eu.org/4gtv.php?channel=82
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10097.png"group-title="影视频道",靖天映画
+http://live.9528.eu.org/4gtv.php?channel=42
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10076.png"group-title="影视频道",靖天戏剧
+http://live.9528.eu.org/4gtv.php?channel=116
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10056.png"group-title="影视频道",靖洋戏剧
+http://live.9528.eu.org/4gtv.php?channel=118
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10093.png"group-title="影视频道",采昌影剧
+http://live.9528.eu.org/4gtv.php?channel=25
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10082.png"group-title="影视频道",影迷数位电影
+http://live.9528.eu.org/4gtv.php?channel=40
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10122.png"group-title="影视频道",经典电影台
+http://live.9528.eu.org/4gtv.php?channel=201
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10116.png"group-title="影视频道",电影免费看2台
+http://live.9528.eu.org/4gtv.php?channel=245
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10115.png"group-title="影视频道",戏剧免费看1台
+http://live.9528.eu.org/4gtv.php?channel=270
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10119.png"group-title="影视频道",戏剧免费看2台
+http://live.9528.eu.org/4gtv.php?channel=244
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10118.png"group-title="影视频道",超人力霸王整套看
+http://live.9528.eu.org/4gtv.php?channel=278
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10117.png"group-title="影视频道",花系列经典剧场
+http://live.9528.eu.org/4gtv.php?channel=279
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10057.png"group-title="影视频道",金光布袋戏
+http://live.9528.eu.org/4gtv.php?channel=236
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10027.png"group-title="影视频道",DreamWorks
+http://live.9528.eu.org/4gtv.php?channel=282
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10013.png"group-title="影视频道",Nick Jr.
+http://live.9528.eu.org/4gtv.php?channel=219
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10014.png"group-title="影视频道",Nikelodeon
+http://live.9528.eu.org/4gtv.php?channel=185
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10017.png"group-title="影视频道",靖天卡通
+http://live.9528.eu.org/4gtv.php?channel=15
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10037.png"group-title="影视频道",靖洋卡通
+http://live.9528.eu.org/4gtv.php?channel=59
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10016.png"group-title="影视频道",i-Fun动漫
+http://live.9528.eu.org/4gtv.php?channel=60
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10113.png"group-title="影视频道",经典卡通台
+http://live.9528.eu.org/4gtv.php?channel=202
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10114.png"group-title="影视频道",精选动漫台
+http://live.9528.eu.org/4gtv.php?channel=204
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10112.png"group-title="影视频道",儿童卡通台
+http://live.9528.eu.org/4gtv.php?channel=269
+
+
+#娱乐频道#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/mtvlive.png"group-title="娱乐频道",MTV Live
+http://live.9528.eu.org/4gtv.php?channel=213
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10040.png"group-title="娱乐频道",Classica 古典音乐
+http://live.9528.eu.org/4gtv.php?channel=80
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10065.png"group-title="娱乐频道",Stingray CMusic
+http://live.9528.eu.org/4gtv.php?channel=218
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10071.png"group-title="娱乐频道",Stingray Festival
+http://live.9528.eu.org/4gtv.php?channel=274
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10036.png"group-title="娱乐频道",LiveABC互动英语
+http://live.9528.eu.org/4gtv.php?channel=188
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10090.png"group-title="娱乐频道",Luxe TV
+http://live.9528.eu.org/4gtv.php?channel=175
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10052.png"group-title="娱乐频道",Mezzo Live
+http://live.9528.eu.org/4gtv.php?channel=79
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10103.png"group-title="娱乐频道",ROCK Entertainment
+http://live.9528.eu.org/4gtv.php?channel=275
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10059.png"group-title="娱乐频道",Tech Storm
+http://live.9528.eu.org/4gtv.php?channel=181
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10045.png"group-title="娱乐频道",Trace Urban
+http://live.9528.eu.org/4gtv.php?channel=78
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10062.png"group-title="娱乐频道",TV5MONDE STYLE
+http://live.9528.eu.org/4gtv.php?channel=178
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10067.png"group-title="娱乐频道",GINX Esports
+http://live.9528.eu.org/4gtv.php?channel=179
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10039.png"group-title="娱乐频道",猪哥亮哥厂秀
+http://live.9528.eu.org/4gtv.php?channel=113
+
+
+#直击频道#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10001.png"group-title="直击频道",凤梨直击台
+http://live.9528.eu.org/4gtv.php?channel=93
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10001.png"group-title="直击频道",香蕉直击台
+http://live.9528.eu.org/4gtv.php?channel=94
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10001.png"group-title="直击频道",西红柿直击台
+http://live.9528.eu.org/4gtv.php?channel=289
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10001.png"group-title="直击频道",番石榴直击台
+http://live.9528.eu.org/4gtv.php?channel=290
+
+
+#购物频道#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10019.png"group-title="购物频道",东森购物1台
+http://live.9528.eu.org/4gtv.php?channel=173
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10019.png"group-title="购物频道",东森购物2台
+http://live.9528.eu.org/4gtv.php?channel=174
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10019.png"group-title="购物频道",东森购物3台
+http://live.9528.eu.org/4gtv.php?channel=287
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10019.png"group-title="购物频道",东森购物4台
+http://live.9528.eu.org/4gtv.php?channel=286
+
+
+#后备频道#
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10107.png"group-title="后备频道",Al Jazeera
+http://123.108.70.221:5000/4gtv/85
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10018.png"group-title="后备频道",Arirang
+http://123.108.70.221:5000/4gtv/189
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10031.png"group-title="后备频道",Bloomberg
+http://123.108.70.221:5000/4gtv/283
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10109.png"group-title="后备频道",CNBC Asia
+http://123.108.70.221:5000/4gtv/235
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10110.png"group-title="后备频道",DW
+http://123.108.70.221:5000/4gtv/226
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10108.png"group-title="后备频道",VOA
+http://123.108.70.221:5000/4gtv/86
+
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10086.png"group-title="后备频道",自然频道
+http://123.108.70.221:5000/4gtv/139
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10068.png"group-title="后备频道",历史频道
+http://123.108.70.221:5000/4gtv/214
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10083.png"group-title="后备频道",罪案侦缉
+http://123.108.70.221:5000/4gtv/215
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10047.png"group-title="后备频道",宠物频道
+http://123.108.70.221:5000/4gtv/182
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10050.png"group-title="后备频道",达文西频道
+http://123.108.70.221:5000/4gtv/11
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10079.png"group-title="后备频道",车迷TV
+http://123.108.70.221:5000/4gtv/160
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10096.png"group-title="后备频道",幸福空间居家台
+http://123.108.70.221:5000/4gtv/168
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10070.png"group-title="后备频道",影迷数位纪实台
+http://123.108.70.221:5000/4gtv/212
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10075.png"group-title="后备频道",视纳华仁纪实
+http://123.108.70.221:5000/4gtv/38
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10092.png"group-title="后备频道",民视旅游
+http://123.108.70.221:5000/4gtv/61
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10074.png"group-title="后备频道",亚洲旅游
+http://123.108.70.221:5000/4gtv/250
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10074.png"group-title="后备频道",亚洲旅游
+http://123.108.70.221:5000/4gtv/261
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10102.png"group-title="后备频道",爱尔达生活旅游
+http://123.108.70.221:5000/4gtv/237
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10084.png"group-title="后备频道",Globetrotter
+http://123.108.70.221:5000/4gtv/288
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10020.png"group-title="后备频道",Global Trekker
+http://123.108.70.221:5000/4gtv/252
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10054.png"group-title="后备频道",滚动力rollor
+http://123.108.70.221:5000/4gtv/249
+
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10033.png"group-title="后备频道",中视新闻
+http://123.108.70.221:5000/4gtv/33
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10033.png"group-title="后备频道",中视新闻
+http://123.108.70.221:5000/4gtv/258
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10066.png"group-title="后备频道",华视新闻
+http://123.108.70.221:5000/4gtv/34
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10066.png"group-title="后备频道",华视新闻
+http://123.108.70.221:5000/4gtv/256
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10042.png"group-title="后备频道",民视新闻
+http://123.108.70.221:5000/4gtv/31
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10042.png"group-title="后备频道",民视新闻
+http://123.108.70.221:5000/4gtv/257
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10030.png"group-title="后备频道",TVBS新闻
+http://123.108.70.221:5000/4gtv/291
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10015.png"group-title="后备频道",东森新闻
+http://123.108.70.221:5000/4gtv/292
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10044.png"group-title="后备频道",东森财经
+http://123.108.70.221:5000/4gtv/293
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10043.png"group-title="后备频道",寰宇新闻
+http://123.108.70.221:5000/4gtv/36
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10043.png"group-title="后备频道",寰宇新闻
+http://123.108.70.221:5000/4gtv/262
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10023.png"group-title="后备频道",寰宇财经
+http://123.108.70.221:5000/4gtv/281
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10053.png"group-title="后备频道",三立iNews
+http://123.108.70.221:5000/4gtv/229
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10060.png"group-title="后备频道",中天新闻
+http://123.108.70.221:5000/4gtv/30
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10060.png"group-title="后备频道",中天新闻
+http://123.108.70.221:5000/4gtv/260
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10051.png"group-title="后备频道",靖天资讯
+http://123.108.70.221:5000/4gtv/88
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10025.png"group-title="后备频道",镜新闻
+http://123.108.70.221:5000/4gtv/268
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10022.png"group-title="后备频道",新唐人亚太
+http://123.108.70.221:5000/4gtv/223
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10034.png"group-title="后备频道",SBN全球财经
+http://123.108.70.221:5000/4gtv/224
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10123.png"group-title="后备频道",国会频道1
+http://123.108.70.221:5000/4gtv/170
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10111.png"group-title="后备频道",国会频道2
+http://123.108.70.221:5000/4gtv/171
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10006.png"group-title="后备频道",中视
+http://123.108.70.221:5000/4gtv/4
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10032.png"group-title="后备频道",华视
+http://123.108.70.221:5000/4gtv/6
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10004.png"group-title="后备频道",民视
+http://123.108.70.221:5000/4gtv/3
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10004.png"group-title="后备频道",民视
+http://123.108.70.221:5000/4gtv/246
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10007.png"group-title="后备频道",中视经典
+http://123.108.70.221:5000/4gtv/124
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10008.png"group-title="后备频道",中视菁采
+http://123.108.70.221:5000/4gtv/123
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10002.png"group-title="后备频道",民视第一
+http://123.108.70.221:5000/4gtv/1
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10002.png"group-title="后备频道",民视第一
+http://123.108.70.221:5000/4gtv/254
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10003.png"group-title="后备频道",民视台湾
+http://123.108.70.221:5000/4gtv/2
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10003.png"group-title="后备频道",民视台湾
+http://123.108.70.221:5000/4gtv/255
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10029.png"group-title="后备频道",民视综艺
+http://123.108.70.221:5000/4gtv/16
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10035.png"group-title="后备频道",TVBS HD
+http://123.108.70.221:5000/4gtv/183
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10046.png"group-title="后备频道",TVBS欢乐
+http://123.108.70.221:5000/4gtv/184
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10021.png"group-title="后备频道",TVBS精采
+http://123.108.70.221:5000/4gtv/227
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10120.png"group-title="后备频道",TVBS综艺
+http://123.108.70.221:5000/4gtv/284
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10010.png"group-title="后备频道",八大综艺
+http://123.108.70.221:5000/4gtv/114
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10010.png"group-title="后备频道",八大综艺
+http://123.108.70.221:5000/4gtv/276
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10085.png"group-title="后备频道",八大精彩
+http://123.108.70.221:5000/4gtv/172
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10101.png"group-title="后备频道",寰宇台湾
+http://123.108.70.221:5000/4gtv/280
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10009.png"group-title="后备频道",三立综合
+http://123.108.70.221:5000/4gtv/169
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10011.png"group-title="后备频道",靖天综合
+http://123.108.70.221:5000/4gtv/21
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10081.png"group-title="后备频道",靖天国际
+http://123.108.70.221:5000/4gtv/84
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10104.png"group-title="后备频道",靖天日本
+http://123.108.70.221:5000/4gtv/22
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10038.png"group-title="后备频道",靖天育乐
+http://123.108.70.221:5000/4gtv/83
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10061.png"group-title="后备频道",靖天欢乐
+http://123.108.70.221:5000/4gtv/119
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10048.png"group-title="后备频道",爱尔达娱乐
+http://123.108.70.221:5000/4gtv/19
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10024.png"group-title="后备频道",爱尔达英语
+http://123.108.70.221:5000/4gtv/106
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10026.png"group-title="后备频道",原住民电视
+http://123.108.70.221:5000/4gtv/273
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10012.png"group-title="后备频道",客家电视
+http://123.108.70.221:5000/4gtv/10
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10041.png"group-title="后备频道",MOMO亲子
+http://123.108.70.221:5000/4gtv/231
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10106.png"group-title="后备频道",人间卫视
+http://123.108.70.221:5000/4gtv/210
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10005.png"group-title="后备频道",大爱
+http://123.108.70.221:5000/4gtv/209
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10105.png"group-title="后备频道",大爱2
+http://123.108.70.221:5000/4gtv/230
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10098.png"group-title="后备频道",好消息
+http://123.108.70.221:5000/4gtv/9
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10099.png"group-title="后备频道",好消息2
+http://123.108.70.221:5000/4gtv/8
+
+
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10073.png"group-title="后备频道",博斯运动1台
+http://123.108.70.221:5000/4gtv/50
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10073.png"group-title="后备频道",博斯运动1台
+http://123.108.70.221:5000/4gtv/265
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10055.png"group-title="后备频道",博斯无限台
+http://123.108.70.221:5000/4gtv/266
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10055.png"group-title="后备频道",博斯无限台
+http://123.108.70.221:5000/4gtv/51
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10064.png"group-title="后备频道",博斯高球台
+http://123.108.70.221:5000/4gtv/48
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10064.png"group-title="后备频道",博斯高球台
+http://123.108.70.221:5000/4gtv/264
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10049.png"group-title="后备频道",博斯网球台
+http://123.108.70.221:5000/4gtv/52
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10049.png"group-title="后备频道",博斯网球台
+http://123.108.70.221:5000/4gtv/267
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10069.png"group-title="后备频道",智林体育台
+http://123.108.70.221:5000/4gtv/58
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10063.png"group-title="后备频道",TRACE Sport Star
+http://123.108.70.221:5000/4gtv/57
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10058.png"group-title="后备频道",时尚运动X
+http://123.108.70.221:5000/4gtv/69
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10058.png"group-title="后备频道",时尚运动X
+http://123.108.70.221:5000/4gtv/277
+
+
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10095.png"group-title="后备频道",amc电影
+http://123.108.70.221:5000/4gtv/39
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10072.png"group-title="后备频道",Cinema World
+http://123.108.70.221:5000/4gtv/225
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10088.png"group-title="后备频道",HITS
+http://123.108.70.221:5000/4gtv/186
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10028.png"group-title="后备频道",Lifetime
+http://123.108.70.221:5000/4gtv/217
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10080.png"group-title="后备频道",MCE欧洲电影
+http://123.108.70.221:5000/4gtv/176
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10089.png"group-title="后备频道",ROCK Action
+http://123.108.70.221:5000/4gtv/180
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10087.png"group-title="后备频道",民视影剧
+http://123.108.70.221:5000/4gtv/24
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10077.png"group-title="后备频道",公视戏剧
+http://123.108.70.221:5000/4gtv/7
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10121.png"group-title="后备频道",TVBS台剧
+http://123.108.70.221:5000/4gtv/285
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10091.png"group-title="后备频道",龙华电影
+http://123.108.70.221:5000/4gtv/121
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10078.png"group-title="后备频道",龙华日韩
+http://123.108.70.221:5000/4gtv/28
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10100.png"group-title="后备频道",龙华戏剧
+http://123.108.70.221:5000/4gtv/23
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10094.png"group-title="后备频道",靖天电影
+http://123.108.70.221:5000/4gtv/82
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10097.png"group-title="后备频道",靖天映画
+http://123.108.70.221:5000/4gtv/42
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10076.png"group-title="后备频道",靖天戏剧
+http://123.108.70.221:5000/4gtv/116
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10056.png"group-title="后备频道",靖洋戏剧
+http://123.108.70.221:5000/4gtv/118
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10093.png"group-title="后备频道",采昌影剧
+http://123.108.70.221:5000/4gtv/25
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10082.png"group-title="后备频道",影迷数位电影
+http://123.108.70.221:5000/4gtv/40
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10122.png"group-title="后备频道",经典电影台
+http://123.108.70.221:5000/4gtv/201
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10116.png"group-title="后备频道",电影免费看2台
+http://123.108.70.221:5000/4gtv/245
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10115.png"group-title="后备频道",戏剧免费看1台
+http://123.108.70.221:5000/4gtv/270
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10119.png"group-title="后备频道",戏剧免费看2台
+http://123.108.70.221:5000/4gtv/244
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10118.png"group-title="后备频道",超人力霸王整套看
+http://123.108.70.221:5000/4gtv/278
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10117.png"group-title="后备频道",花系列经典剧场
+http://123.108.70.221:5000/4gtv/279
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10057.png"group-title="后备频道",金光布袋戏
+http://123.108.70.221:5000/4gtv/236
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10027.png"group-title="后备频道",DreamWorks
+http://123.108.70.221:5000/4gtv/282
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10013.png"group-title="后备频道",Nick Jr.
+http://123.108.70.221:5000/4gtv/219
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10014.png"group-title="后备频道",Nikelodeon
+http://123.108.70.221:5000/4gtv/185
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10017.png"group-title="后备频道",靖天卡通
+http://123.108.70.221:5000/4gtv/15
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10037.png"group-title="后备频道",靖洋卡通
+http://123.108.70.221:5000/4gtv/59
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10016.png"group-title="后备频道",i-Fun动漫
+http://123.108.70.221:5000/4gtv/60
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10113.png"group-title="后备频道",经典卡通台
+http://123.108.70.221:5000/4gtv/202
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10114.png"group-title="后备频道",精选动漫台
+http://123.108.70.221:5000/4gtv/204
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10112.png"group-title="后备频道",儿童卡通台
+http://123.108.70.221:5000/4gtv/269
+
+
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/mtvlive.png"group-title="后备频道",MTV Live
+http://123.108.70.221:5000/4gtv/213
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10040.png"group-title="后备频道",Classica 古典音乐
+http://123.108.70.221:5000/4gtv/80
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10065.png"group-title="后备频道",Stingray CMusic
+http://123.108.70.221:5000/4gtv/218
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10071.png"group-title="后备频道",Stingray Festival
+http://123.108.70.221:5000/4gtv/274
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10036.png"group-title="后备频道",LiveABC互动英语
+http://123.108.70.221:5000/4gtv/188
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10090.png"group-title="后备频道",Luxe TV
+http://123.108.70.221:5000/4gtv/175
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10052.png"group-title="后备频道",Mezzo Live
+http://123.108.70.221:5000/4gtv/79
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10103.png"group-title="后备频道",ROCK Entertainment
+http://123.108.70.221:5000/4gtv/275
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10059.png"group-title="后备频道",Tech Storm
+http://123.108.70.221:5000/4gtv/181
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10045.png"group-title="后备频道",Trace Urban
+http://123.108.70.221:5000/4gtv/78
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10062.png"group-title="后备频道",TV5MONDE STYLE
+http://123.108.70.221:5000/4gtv/178
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10067.png"group-title="后备频道",GINX Esports
+http://123.108.70.221:5000/4gtv/179
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10039.png"group-title="后备频道",猪哥亮哥厂秀
+http://123.108.70.221:5000/4gtv/113
+
+
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10001.png"group-title="后备频道",凤梨直击台
+http://123.108.70.221:5000/4gtv/93
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10001.png"group-title="后备频道",香蕉直击台
+http://123.108.70.221:5000/4gtv/94
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10001.png"group-title="后备频道",西红柿直击台
+http://123.108.70.221:5000/4gtv/289
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10001.png"group-title="后备频道",番石榴直击台
+http://123.108.70.221:5000/4gtv/290
+
+
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10019.png"group-title="后备频道",东森购物1台
+http://123.108.70.221:5000/4gtv/173
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10019.png"group-title="后备频道",东森购物2台
+http://123.108.70.221:5000/4gtv/174
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10019.png"group-title="后备频道",东森购物3台
+http://123.108.70.221:5000/4gtv/287
+#EXTINF:-1 tvg-name=""  tvg-logo="https://echolin73.github.io/logo/4gtv/10019.png"group-title="后备频道",东森购物4台
+http://123.108.70.221:5000/4gtv/286
+
