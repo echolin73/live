@@ -5982,8 +5982,8 @@ ViuTV,http://888.iptv543.com/Smartv.php?id=viu1_twn
 中视新闻,http://50.7.216.178:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中视新闻,http://50.7.216.178:8278/zhongshinews_twn/playlist.m3u8?tid=MECE2153391221533912&ct=19234&tsum=fe5df13ec0ca4298acf881a53128f2cd
 
-华视新闻,http://123.108.70.221:5000/4gtv/34
-华视新闻,http://123.108.70.221:5000/4gtv/256
+华视新闻,http://106.107.242.223:5000/4gtv/34
+华视新闻,http://106.107.242.223:5000/4gtv/256
 
 华视新闻,http://live.9528.eu.org/4gtv.php?channel=34
 华视新闻,http://live.9528.eu.org/4gtv.php?channel=256
@@ -6065,13 +6065,13 @@ TVBS HD,http://50.7.216.178:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=
 
 壹新闻,https://z88.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
 
-三立iNews,http://123.108.70.221:5000/4gtv/229
-寰宇新闻,http://123.108.70.221:5000/4gtv/36
-寰宇新闻,http://123.108.70.221:5000/4gtv/262
-寰宇财经,http://123.108.70.221:5000/4gtv/281
-寰宇台湾,http://123.108.70.221:5000/4gtv/280
-国会频道1,http://123.108.70.221:5000/4gtv/170
-国会频道2,http://123.108.70.221:5000/4gtv/171
+三立iNews,http://106.107.242.223:5000/4gtv/229
+寰宇新闻,http://106.107.242.223:5000/4gtv/36
+寰宇新闻,http://106.107.242.223:5000/4gtv/262
+寰宇财经,http://106.107.242.223:5000/4gtv/281
+寰宇台湾,http://106.107.242.223:5000/4gtv/280
+国会频道1,http://106.107.242.223:5000/4gtv/170
+国会频道2,http://106.107.242.223:5000/4gtv/171
 
 三立iNews,http://live.9528.eu.org/4gtv.php?channel=229
 寰宇新闻,http://live.9528.eu.org/4gtv.php?channel=36
@@ -6197,9 +6197,9 @@ TVBS精彩,http://51.89.21.73:27347/livehttpplay?channel_id=20136
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 纬来育乐,http://fsv4.yj011.net/sat/tv701.flv
 
-镜新闻,http://123.108.70.221:5000/4gtv/268
-原住民电视,http://123.108.70.221:5000/4gtv/273
-客家电视,http://123.108.70.221:5000/4gtv/10
+镜新闻,http://106.107.242.223:5000/4gtv/268
+原住民电视,http://106.107.242.223:5000/4gtv/273
+客家电视,http://106.107.242.223:5000/4gtv/10
 
 镜新闻,http://live.9528.eu.org/4gtv.php?channel=268
 原住民电视,http://live.9528.eu.org/4gtv.php?channel=273
