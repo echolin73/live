@@ -1,0 +1,96 @@
+name: Scan and Generate M3U8
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"  # 每8小时运行一次
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  scan-and-generate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+
+    - name: Scan IP and generate M3U8
+      run: |
+        mkdir -p channel
+
+        cat > scan.py << 'EOF'
+        import socket
+
+        # IP 段和端口
+        base_ip = "121.29.169."
+        port = 8888
+        
+        # 排除 IP 列表
+        excluded_ips = {"121.29.169.109", "121.29.169.150"}
+
+        # 要替换的 URL 列表
+        channels = [
+            ("cctv4a","http://serverip:8888/rtp/239.253.93.193:6371"),
+            ("cctv4o","http://serverip:8888/rtp/239.253.93.192:6370"),
+            ("cctvsjdl","http://serverip:8888/rtp/239.253.92.131:6113"),
+            ("cctvbqkj","http://serverip:8888/rtp/239.253.93.47:6435"),
+            ("cctvfyzq","http://serverip:8888/rtp/239.253.93.254:6432"),
+            ("cctvystq","http://serverip:8888/rtp/239.253.93.231:6409"),
+            ("cctvgqwq","http://serverip:8888/rtp/239.253.93.122:6465"),
+            ("cctvdyjc","http://serverip:8888/rtp/239.253.93.138:6428"),
+            ("cctvhjjc","http://serverip:8888/rtp/239.253.93.252:6430"),
+            ("cctvfyjc","http://serverip:8888/rtp/239.253.93.251:6429"),
+            ("cctvfyyy","http://serverip:8888/rtp/239.253.93.253:6431"),
+            ("cctvwhjp","http://serverip:8888/rtp/239.253.93.175:6439"),
+            ("cctvnxss","http://serverip:8888/rtp/239.253.92.144:6114"),
+            ("cctvdszn","http://serverip:8888/rtp/239.253.93.249:6427"),
+            ("cctvwsjk","http://serverip:8888/rtp/239.253.94.38:6636"),
+            ("cetvzqjy","http://serverip:8888/rtp/239.253.93.164:6440"),
+        ]
+
+        def find_first_ip():
+            for i in range(1, 256):
+                ip = base_ip + str(i)
+                sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                sock.settimeout(0.5)
+                try:
+                    if sock.connect_ex((ip, port)) == 0:
+                        return ip
+                except:
+                    pass
+                finally:
+                    sock.close()
+            return None
+
+        server_ip = find_first_ip()
+        if not server_ip:
+            print("No available IP found.")
+            exit(1)
+
+        print(f"Found available IP: {server_ip}")
+
+        for name, url in channels:
+            replaced_url = url.replace("serverip", server_ip)
+            m3u8_content = f"#EXTM3U\n#EXTINF:-1,{name}\n{replaced_url}\n"
+            with open(f"channel/{name}.m3u8", "w") as f:
+                f.write(m3u8_content)
+
+        EOF
+
+        python scan.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add channel/*.m3u8
+        git commit -m "Update M3U8 files with latest server IP" || echo "No changes to commit"
+        git push
