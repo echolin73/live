@@ -1,0 +1,54 @@
+name: Scan Hebei IP
+
+on:
+  schedule:
+    - cron: "0 */4 * * *" # 每 4 小时执行一次
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Run scan script
+        run: |
+          mkdir -p ip
+          php -r '
+          const SUBNET_PREFIX = "121.29.169.";
+          const PORT = 8888;
+          const CONNECT_TIMEOUT = 0.5;
+          $ips = [];
+          for ($i = 1; $i <= 255; $i++) {
+              $ip = SUBNET_PREFIX . $i;
+              if (in_array($ip, ["121.29.169.109", "121.29.169.150"], true)) continue;
+              $conn = @stream_socket_client("tcp://{$ip}:" . PORT, $errno, $errstr, CONNECT_TIMEOUT);
+              if ($conn) {
+                  fclose($conn);
+                  $ips[] = $ip;
+              }
+          }
+          file_put_contents("ip/hebeiip.json", json_encode(["ips" => $ips, "ts" => time()], JSON_PRETTY_PRINT|JSON_UNESCAPED_UNICODE));
+          '
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ip/hebeiip.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update Hebei IP list [skip ci]"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
