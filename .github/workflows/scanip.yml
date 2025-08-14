@@ -2,7 +2,7 @@ name: Scan Hebei IP
 
 on:
   schedule:
-    - cron: "0 */4 * * *" # 每 4 小时执行一次
+    - cron: "0 */2 * * *" # 每 2 小时执行一次
   workflow_dispatch: # 允许手动触发
 
 jobs:
@@ -52,3 +52,4 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
