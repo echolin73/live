@@ -29,7 +29,6 @@ jobs:
           $ips = [];
           for ($i = 1; $i <= 255; $i++) {
               $ip = SUBNET_PREFIX . $i;
-              if (in_array($ip, ["121.29.169.13", "121.29.169.21", "121.29.169.109"], true)) continue;
               $conn = @stream_socket_client("tcp://{$ip}:" . PORT, $errno, $errstr, CONNECT_TIMEOUT);
               if ($conn) {
                   fclose($conn);
@@ -52,5 +51,6 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
