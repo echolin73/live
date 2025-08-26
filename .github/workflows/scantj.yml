@@ -32,10 +32,10 @@ jobs:
           set -euo pipefail
           # 生成 111.162.200.0-111.162.207.255 全量 IP 列表
           python3 - <<'PY' > all_ips.txt
-import ipaddress
-for ip in ipaddress.IPv4Network("111.162.200.0/21"):
-    print(str(ip))
-PY
+          import ipaddress
+          for ip in ipaddress.IPv4Network("111.162.200.0/21"):
+              print(str(ip))
+          PY
           # 并行尝试建立TCP连接，开放则输出IP
           # -n 禁 DNS，-z 仅探测，-w1 1秒超时；并发 256
           grep -E '^[0-9]+\.' all_ips.txt | \
