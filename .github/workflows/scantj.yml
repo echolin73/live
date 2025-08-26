@@ -1,0 +1,37 @@
+name: Scan Tianjin IP
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # 每4小时执行一次
+  workflow_dispatch:        # 允许手动触发
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install nmap & jq
+        run: sudo apt-get update && sudo apt-get install -y nmap jq
+
+      - name: Scan IPs
+        run: |
+          mkdir -p IP
+          # 扫描 111.162.200.0-111.162.207.255 的8686端口
+          nmap -p 8686 --open 111.162.200.0-111.162.207.255 -oG - | \
+            awk '/8686\/open/ {print $2}' > live_ips.txt
+
+          # 生成 JSON
+          TS=$(date +%s)
+          jq -n --argjson ts "$TS" --argjson ips "$(jq -R -s -c 'split("\n")[:-1]' live_ips.txt)" \
+            '{ips: $ips, ts: $ts}' > IP/tianjinip.json
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add IP/tianjinip.json
+          git commit -m "Update scanned IPs [skip ci]" || echo "No changes to commit"
+          git push
