@@ -3,7 +3,6 @@ name: YouTube Live Link Check
 on:
   schedule:
     - cron: "0 */1 * * *"
-  workflow_dispatch:
   workflow_dispatch:      # Allows manual run
 
 jobs:
