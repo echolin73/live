@@ -2,7 +2,7 @@ name: Scan Tianjin IP
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # 每 6 小时执行一次
+    - cron: "0 */8 * * *" # 每 8 小时执行一次
   workflow_dispatch: # 允许手动触发
 
 jobs:
@@ -54,4 +54,5 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
