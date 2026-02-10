@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 4
-https://modistreams.org/embed/olympics/2026-02-10/gold-zone-day-4-1770728400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7624f5df336c7a52e7f6c9cf1199bbad-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Short (Venue Feed)
-https://modistreams.org/embed/olympics/2026-02-10/figure-skating/mens-short-venue-feed-1770744600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ee3766e096740c4d3af273a79e70236c-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. USA (Women's Group A)
-https://modistreams.org/embed/olympics/2026-02-10/hockey/canada-vs-usa-womens-group-a-1770750600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/777aa6aa4b57f441d0268d18ca8284ca-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Switzerland (Women's Group A)
 https://modistreams.org/embed/olympics/2026-02-10/hockey/finland-vs-switzerland-womens-group-a-1770754200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a30b27639c5350d05cb42b8840aef0ac-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. New York Knicks
@@ -23,12 +17,6 @@ https://modistreams.org/embed/oktagon-84-german
 https://modistreams.org/embed/oktagon-84-czech
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
 https://modistreams.org/embed/premierleague/goal-rush
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9c6b926d63e43b7b995717ad818cfd6d-thumbnail.jpg" group-title="Football",Chelsea vs. Leeds United
-https://modistreams.org/embed/premierleague/2026-02-10/che-lee
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ab9d80cf1d6743e8a466baa7f6424ab-thumbnail.jpg" group-title="Football",Everton vs. AFC Bournemouth
-https://modistreams.org/embed/premierleague/2026-02-10/eve-bou
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a43deef6fe0753f6a7192267668116d3-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Newcastle United
-https://modistreams.org/embed/premierleague/2026-02-10/tot-new
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/39a0ab5ce32700b3ee8449ec8794d55c-thumbnail.jpg" group-title="Football",West Ham United vs. Manchester United
 https://modistreams.org/embed/premierleague/2026-02-10/whu-man
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e05a2f8606136cbf06e01b519f4cbecc-thumbnail.jpg" group-title="Football",Aston Villa vs. Brighton & Hove Albion
