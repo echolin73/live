@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80283c59fc5175190ed580a81dd91c48-thumbnail.jpg" group-title="2026 Winter Olympics",Figure Skating: Training
-https://abc.com/stream?uri=olympics/2026-02-10/figure-skating-training-1770721200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 4
 https://abc.com/stream?uri=olympics/2026-02-10/gold-zone-day-4-1770728400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c07e3a55186fe292fd5e0e74be1cad7d-thumbnail.jpg" group-title="2026 Winter Olympics",Mixed Team Normal Hill
-https://abc.com/stream?uri=olympics/2026-02-10/ski-jumping/mixed-team-normal-hill-1770741000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. USA (Gold Medal Final)
-https://abc.com/stream?uri=olympics/2026-02-10/curling/sweden-vs-usa-gold-medal-final-1770743100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7624f5df336c7a52e7f6c9cf1199bbad-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Short (Venue Feed)
 https://abc.com/stream?uri=olympics/2026-02-10/figure-skating/mens-short-venue-feed-1770744600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ee3766e096740c4d3af273a79e70236c-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. USA (Women's Group A)
