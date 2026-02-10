@@ -1,0 +1,46 @@
+name: Update PPV M3U
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 拉取仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行脚本
+        run: python a.py
+
+      # ★ 新增：保存一份原始文件
+      - name: 备份原始M3U
+        run: |
+          cp PPV_IFRAME.m3u8 ppv.m3u8
+
+      # ★ 修改地址
+      - name: 替换 embed 地址
+        run: |
+          sed -i 's|https://modistreams.org/embed/|https://abc.com/stream?uri=|g' PPV_IFRAME.m3u8
+
+      - name: 提交文件
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add PPV_IFRAME.m3u8 ppv.m3u8
+          git commit -m "Auto update PPV M3U" || echo "No changes"
+          git push
