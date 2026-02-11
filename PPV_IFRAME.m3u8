@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3d6a4bde2bdcc75bac350137a49e8510-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Snowboard Halfpipe: Qualifying
 https://abc.com/stream?uri=olympics/2026-02-11/snowboarding/womens-snowboard-halfpipe-qualifying-1770802200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e54231356373b827153a727018768c59-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Moguls: Qualifying Round 2
-https://abc.com/stream?uri=olympics/2026-02-11/freestyle-skiing/womens-moguls-qualifying-round-2-1770804000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dcca19abf877684a699f5ccd26ec2731-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Super-G
 https://abc.com/stream?uri=olympics/2026-02-11/alpine-skiing/mens-super-g-1770805800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80283c59fc5175190ed580a81dd91c48-thumbnail.jpg" group-title="2026 Winter Olympics",Figure Skating: Training
