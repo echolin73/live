@@ -47,12 +47,6 @@ https://modistreams.org/embed/olympics/2026-02-11/snowboarding/mens-snowboard-ha
 https://modistreams.org/embed/olympics/2026-02-11/snowboarding/mens-snowboard-halfpipe-qualifying-1770835200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32e210a600723474dd74916edbff2143-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Italy (Men's Group B)
 https://modistreams.org/embed/olympics/2026-02-11/hockey/sweden-vs-italy-mens-group-b-1770840600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f44e933a2398849a2612407d5934f55b-thumbnail.jpg" group-title="Basketball",LA Clippers vs. Houston Rockets
-https://modistreams.org/embed/nba/2026-02-10/lac-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d4062512ca7447445c1d63a2c1c3f6da-thumbnail.jpg" group-title="Basketball",Wisconsin Badgers vs. Illinois Fighting Illini
-https://modistreams.org/embed/cbb/6674/6674-ill
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/790ce6c346199e549956ea49c22434c2-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Phoenix Suns
-https://modistreams.org/embed/nba/2026-02-10/dal-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80cee6a7549603bc66e0d06cbf06592a-thumbnail.jpg" group-title="Basketball",Houston Cougars vs. Utah Utes
 https://modistreams.org/embed/cbb/3203/3203-utah
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c54f6eb3c1f5de37e83c1fdb13127eb9-thumbnail.jpg" group-title="Basketball",Duke Blue Devils vs. Pittsburgh Panthers
@@ -65,6 +59,34 @@ https://modistreams.org/embed/cbb/4836/4836-lsu
 https://modistreams.org/embed/nba/2026-02-10/sa-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/70e7875a9d83b8ba17b4c5c3b1fc57b1-thumbnail.jpg" group-title="Basketball",Washington State Cougars vs. Gonzaga Bulldogs
 https://modistreams.org/embed/cbb/2005/2005-gonz
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9c1e23f0870d93a2b8a4e490a9d02850-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Charlotte Hornets
+https://modistreams.org/embed/nba/2026-02-11/atl-cha
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/14ec98849502c633db04f51570b691d1-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Cleveland Cavaliers
+https://modistreams.org/embed/nba/2026-02-11/wsh-cle
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0284707a111d06785e8b73442c54d738-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Orlando Magic
+https://modistreams.org/embed/nba/2026-02-11/mil-orl
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1dfaf169644c6dcccc70b0aa0681c86e-thumbnail.jpg" group-title="Basketball",Chicago Bulls vs. Boston Celtics
+https://modistreams.org/embed/nba/2026-02-11/chi-bos
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d753e2ffd4b9e59e22bc5a0628bda037-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. Brooklyn Nets
+https://modistreams.org/embed/nba/2026-02-11/ind-bkn
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bd2f66767d050fd3ee9377f5b23974bc-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Philadelphia 76ers
+https://modistreams.org/embed/nba/2026-02-11/ny-phi
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b39543887e67a32e58bc40960ab00aff-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. Toronto Raptors
+https://modistreams.org/embed/nba/2026-02-11/det-tor
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f44e933a2398849a2612407d5934f55b-thumbnail.jpg" group-title="Basketball",LA Clippers vs. Houston Rockets
+https://modistreams.org/embed/nba/2026-02-11/lac-hou
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c2d73afe73480c10202afebb645361b9-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Minnesota Timberwolves
+https://modistreams.org/embed/nba/2026-02-11/por-min
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fc99f9ea0c5262c9b539b140b9fbfb3a-thumbnail.jpg" group-title="Basketball",Miami Heat vs. New Orleans Pelicans
+https://modistreams.org/embed/nba/2026-02-11/mia-no
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02d64c4ebc77e7f52bdcabd8af39dfa6-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. Phoenix Suns
+https://modistreams.org/embed/nba/2026-02-11/okc-phx
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/553ba77347846cfadc3f1f4626cb7304-thumbnail.jpg" group-title="Basketball",Sacramento Kings vs. Utah Jazz
+https://modistreams.org/embed/nba/2026-02-11/sac-utah
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/46ceeac3aa59cb7546c14f77f4802ce7-thumbnail.jpg" group-title="Basketball",Memphis Grizzlies vs. Denver Nuggets
+https://modistreams.org/embed/nba/2026-02-11/mem-den
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c3ad9605c8dcb194f9de750829ed6c2a-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Golden State Warriors
+https://modistreams.org/embed/nba/2026-02-11/sa-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (English)
 https://modistreams.org/embed/oktagon-84-english
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (German)
@@ -165,8 +187,6 @@ https://modistreams.org/embed/f1/2026/pre-season-testing-1/fp1
 https://modistreams.org/embed/f1/2026/pre-season-testing-1/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eafbe8b7240e00eec640bb7370e5166d-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
 https://modistreams.org/embed/f1/2026/pre-season-testing-1/fp3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
-https://modistreams.org/embed/wwe/nxt/2026-02-10
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
 https://modistreams.org/embed/aew/dynamite/2026-02-11
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
