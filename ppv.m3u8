@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32e210a600723474dd74916edbff2143-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Italy (Men's Group B)
-https://modistreams.org/embed/olympics/2026-02-11/hockey/sweden-vs-italy-mens-group-b-1770840600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9c1e23f0870d93a2b8a4e490a9d02850-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Charlotte Hornets
 https://modistreams.org/embed/nba/2026-02-11/atl-cha
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/14ec98849502c633db04f51570b691d1-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Cleveland Cavaliers
@@ -37,8 +35,6 @@ https://modistreams.org/embed/oktagon-84-german
 https://modistreams.org/embed/oktagon-84-czech
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
 https://modistreams.org/embed/premierleague/goal-rush
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8c664718599d9b3f4dec97d2776e6b43-thumbnail.jpg" group-title="Football",Sunderland vs. Liverpool
-https://modistreams.org/embed/premierleague/2026-02-11/sun-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/99940b7acd320931fc51c39d0dc2adf3-thumbnail.jpg" group-title="Football",Brentford vs. Arsenal
 https://modistreams.org/embed/premierleague/2026-02-12/bre-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e28ecfc3604776cad005170411505633-thumbnail.jpg" group-title="Football",Stade Rennais vs. Paris Saint-Germain
