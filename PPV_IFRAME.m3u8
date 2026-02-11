@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 5
 https://abc.com/stream?uri=olympics/2026-02-11/gold-zone-day-5-1770814800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3d1732788ce1cb6b0bf6169a17fa12d4-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Germany (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-11/curling/canada-vs-germany-m-round-robin-1770833100
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ff0a413f700bf2ca59b0c4958c7d79e-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Great Britain (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-11/curling/china-vs-great-britain-m-round-robin-1770833100
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a2b787a350dfacac915933990ceb7c23-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. USA (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-11/curling/czechia-vs-usa-m-round-robin-1770833100
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/27cd8fa84941ceb2407f82458b03fb7d-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Italy (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-11/curling/sweden-vs-italy-m-round-robin-1770833100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9793dc91cc55b7fc1c798767602e6ffb-thumbnail.jpg" group-title="2026 Winter Olympics",Free Dance (Venue Feed)
 https://abc.com/stream?uri=olympics/2026-02-11/figure-skating/free-dance-venue-feed-1770834600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32e210a600723474dd74916edbff2143-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Italy (Men's Group B)
