@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ed9dcb25be08fca89b92ee8ffe9b07e0-thumbnail.jpg" group-title="2026 Winter Olympics",Primetime In Milan (February 10)
-https://modistreams.org/embed/olympics/2026-02-11/alpine-skiing/primetime-in-milan-february-10-1770782400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1f602051c347fedb22fee973c8a3241d-thumbnail.jpg" group-title="2026 Winter Olympics",Olympic Late Night (February 10)
-https://modistreams.org/embed/olympics/2026-02-11/olympic-late-night-february-10-1770795300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/75fd3274e65009704929fec3a7a62667-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Normal Hill: Ski Jump
 https://modistreams.org/embed/olympics/2026-02-11/nordic-combined/mens-normal-hill-ski-jump-1770797400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3d6a4bde2bdcc75bac350137a49e8510-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Snowboard Halfpipe: Qualifying
@@ -33,8 +29,6 @@ https://modistreams.org/embed/olympics/2026-02-11/freestyle-skiing/womens-moguls
 https://modistreams.org/embed/olympics/2026-02-11/speed-skating/mens-1000m-1770831000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1000m
 https://modistreams.org/embed/olympics/2026-02-11/speed-skating/mens-1000m-1770831000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f7ad09f15e1c72d2c04167108a0487af-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Doubles Luge: Run 2
-https://modistreams.org/embed/olympics/2026-02-11/luge/womens-doubles-luge-run-2-1770832500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3d1732788ce1cb6b0bf6169a17fa12d4-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Germany (M Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-11/curling/canada-vs-germany-m-round-robin-1770833100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ff0a413f700bf2ca59b0c4958c7d79e-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Great Britain (M Round-Robin)
@@ -51,22 +45,8 @@ https://modistreams.org/embed/olympics/2026-02-11/figure-skating/free-dance-venu
 https://modistreams.org/embed/olympics/2026-02-11/snowboarding/mens-snowboard-halfpipe-qualifying-1770834600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0b175a078bfa88994715090b277dc921-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Halfpipe: Qualifying
 https://modistreams.org/embed/olympics/2026-02-11/snowboarding/mens-snowboard-halfpipe-qualifying-1770835200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9793dc91cc55b7fc1c798767602e6ffb-thumbnail.jpg" group-title="2026 Winter Olympics",NBC: Free Dance (Part 2)
-https://modistreams.org/embed/olympics/2026-02-11/figure-skating/nbc-free-dance-part-2-1770837300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32e210a600723474dd74916edbff2143-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Italy (Men's Group B)
 https://modistreams.org/embed/olympics/2026-02-11/hockey/sweden-vs-italy-mens-group-b-1770840600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9c226f9aee697491390cff2b6593a483-thumbnail.jpg" group-title="Basketball",Purdue Boilermakers vs. Nebraska Cornhuskers
-https://modistreams.org/embed/cbb/6614/6614-neb
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2cfd4578e359fa2c811dea02ea1d9595-thumbnail.jpg" group-title="Basketball",North Carolina Tar Heels vs. Miami Hurricanes
-https://modistreams.org/embed/cbb/6018/6018-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c3255ed5b2507a5ce6bbc9111818531a-thumbnail.jpg" group-title="Basketball",Virginia Cavaliers vs. Florida State Seminoles
-https://modistreams.org/embed/cbb/2001/2001-fsu
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8dc0836919f83c757c77377a2a4d3b93-thumbnail.jpg" group-title="Basketball",Vanderbilt Commodores vs. Auburn Tigers
-https://modistreams.org/embed/cbb/1388/1388-aub
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d532d7ce4ab8cd4f7f371fae41ef5f44-thumbnail.jpg" group-title="Basketball",BYU Cougars vs. Baylor Bears
-https://modistreams.org/embed/cbb/2324/2324-bay
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a30b27639c5350d05cb42b8840aef0ac-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. New York Knicks
-https://modistreams.org/embed/nba/2026-02-10/ind-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f44e933a2398849a2612407d5934f55b-thumbnail.jpg" group-title="Basketball",LA Clippers vs. Houston Rockets
 https://modistreams.org/embed/nba/2026-02-10/lac-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d4062512ca7447445c1d63a2c1c3f6da-thumbnail.jpg" group-title="Basketball",Wisconsin Badgers vs. Illinois Fighting Illini
