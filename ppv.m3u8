@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 5
 https://modistreams.org/embed/olympics/2026-02-11/gold-zone-day-5-1770814800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f8a75c4bbdc9a5a23a741f2ef6ac62cf-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Doubles Luge
-https://modistreams.org/embed/olympics/2026-02-11/luge/mens--womens-doubles-luge-1770825600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3d1732788ce1cb6b0bf6169a17fa12d4-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Germany (M Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-11/curling/canada-vs-germany-m-round-robin-1770833100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ff0a413f700bf2ca59b0c4958c7d79e-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Great Britain (M Round-Robin)
@@ -13,8 +11,6 @@ https://modistreams.org/embed/olympics/2026-02-11/curling/czechia-vs-usa-m-round
 https://modistreams.org/embed/olympics/2026-02-11/curling/sweden-vs-italy-m-round-robin-1770833100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9793dc91cc55b7fc1c798767602e6ffb-thumbnail.jpg" group-title="2026 Winter Olympics",Free Dance (Venue Feed)
 https://modistreams.org/embed/olympics/2026-02-11/figure-skating/free-dance-venue-feed-1770834600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2347e9c5919269d6f1d9db1e44706cf9-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Halfpipe: Qualifying
-https://modistreams.org/embed/olympics/2026-02-11/snowboarding/mens-snowboard-halfpipe-qualifying-1770834600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32e210a600723474dd74916edbff2143-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Italy (Men's Group B)
 https://modistreams.org/embed/olympics/2026-02-11/hockey/sweden-vs-italy-mens-group-b-1770840600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9c1e23f0870d93a2b8a4e490a9d02850-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Charlotte Hornets
