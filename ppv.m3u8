@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80283c59fc5175190ed580a81dd91c48-thumbnail.jpg" group-title="2026 Winter Olympics",Figure Skating: Training
-https://modistreams.org/embed/olympics/2026-02-11/figure-skating/figure-skating-training-1770808800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 5
 https://modistreams.org/embed/olympics/2026-02-11/gold-zone-day-5-1770814800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f8a75c4bbdc9a5a23a741f2ef6ac62cf-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Doubles Luge
 https://modistreams.org/embed/olympics/2026-02-11/luge/mens--womens-doubles-luge-1770825600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1000m
-https://modistreams.org/embed/olympics/2026-02-11/speed-skating/mens-1000m-1770831000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3d1732788ce1cb6b0bf6169a17fa12d4-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Germany (M Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-11/curling/canada-vs-germany-m-round-robin-1770833100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ff0a413f700bf2ca59b0c4958c7d79e-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Great Britain (M Round-Robin)
@@ -15,14 +11,10 @@ https://modistreams.org/embed/olympics/2026-02-11/curling/china-vs-great-britain
 https://modistreams.org/embed/olympics/2026-02-11/curling/czechia-vs-usa-m-round-robin-1770833100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/27cd8fa84941ceb2407f82458b03fb7d-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Italy (M Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-11/curling/sweden-vs-italy-m-round-robin-1770833100
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1000m
-https://modistreams.org/embed/olympics/2026-02-11/speed-skating/mens-1000m-1770833700
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9793dc91cc55b7fc1c798767602e6ffb-thumbnail.jpg" group-title="2026 Winter Olympics",Free Dance (Venue Feed)
 https://modistreams.org/embed/olympics/2026-02-11/figure-skating/free-dance-venue-feed-1770834600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2347e9c5919269d6f1d9db1e44706cf9-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Halfpipe: Qualifying
 https://modistreams.org/embed/olympics/2026-02-11/snowboarding/mens-snowboard-halfpipe-qualifying-1770834600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0b175a078bfa88994715090b277dc921-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Halfpipe: Qualifying
-https://modistreams.org/embed/olympics/2026-02-11/snowboarding/mens-snowboard-halfpipe-qualifying-1770835200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32e210a600723474dd74916edbff2143-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Italy (Men's Group B)
 https://modistreams.org/embed/olympics/2026-02-11/hockey/sweden-vs-italy-mens-group-b-1770840600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9c1e23f0870d93a2b8a4e490a9d02850-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Charlotte Hornets
@@ -59,6 +51,8 @@ https://modistreams.org/embed/oktagon-84-english
 https://modistreams.org/embed/oktagon-84-german
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (Czech)
 https://modistreams.org/embed/oktagon-84-czech
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
+https://modistreams.org/embed/premierleague/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e05a2f8606136cbf06e01b519f4cbecc-thumbnail.jpg" group-title="Football",Aston Villa vs. Brighton & Hove Albion
 https://modistreams.org/embed/premierleague/2026-02-11/avl-bha
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3b7a58628fc3381abf608d74efd6617e-thumbnail.jpg" group-title="Football",Crystal Palace vs. Burnley
