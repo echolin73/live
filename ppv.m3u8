@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80283c59fc5175190ed580a81dd91c48-thumbnail.jpg" group-title="2026 Winter Olympics",Figure Skating: Training
 https://modistreams.org/embed/olympics/2026-02-11/figure-skating/figure-skating-training-1770808800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ddf1dda90a0a92eea721bd2bde949421-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Normal Hill: 10km Race
-https://modistreams.org/embed/olympics/2026-02-11/nordic-combined/mens-normal-hill-10km-race-1770813900
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 5
 https://modistreams.org/embed/olympics/2026-02-11/gold-zone-day-5-1770814800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c7944a1cb8b9b589f86f3cf91d53d9f9-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 15km Individual
