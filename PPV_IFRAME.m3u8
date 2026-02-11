@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 5
-https://abc.com/stream?uri=olympics/2026-02-11/gold-zone-day-5-1770814800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9793dc91cc55b7fc1c798767602e6ffb-thumbnail.jpg" group-title="2026 Winter Olympics",Free Dance (Venue Feed)
-https://abc.com/stream?uri=olympics/2026-02-11/figure-skating/free-dance-venue-feed-1770834600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32e210a600723474dd74916edbff2143-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Italy (Men's Group B)
 https://abc.com/stream?uri=olympics/2026-02-11/hockey/sweden-vs-italy-mens-group-b-1770840600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9c1e23f0870d93a2b8a4e490a9d02850-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Charlotte Hornets
@@ -41,14 +37,6 @@ https://abc.com/stream?uri=oktagon-84-german
 https://abc.com/stream?uri=oktagon-84-czech
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
 https://abc.com/stream?uri=premierleague/goal-rush
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e05a2f8606136cbf06e01b519f4cbecc-thumbnail.jpg" group-title="Football",Aston Villa vs. Brighton & Hove Albion
-https://abc.com/stream?uri=premierleague/2026-02-11/avl-bha
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3b7a58628fc3381abf608d74efd6617e-thumbnail.jpg" group-title="Football",Crystal Palace vs. Burnley
-https://abc.com/stream?uri=premierleague/2026-02-11/cry-bur
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eea93b6d7f2be404011f7a832fbcd622-thumbnail.jpg" group-title="Football",Manchester City vs. Fulham
-https://abc.com/stream?uri=premierleague/2026-02-11/mnc-ful
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab19821c2f216adca3869f9dcb60a36c-thumbnail.jpg" group-title="Football",Nottingham Forest vs. Wolverhampton Wanderers
-https://abc.com/stream?uri=premierleague/2026-02-11/nfo-wol
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8c664718599d9b3f4dec97d2776e6b43-thumbnail.jpg" group-title="Football",Sunderland vs. Liverpool
 https://abc.com/stream?uri=premierleague/2026-02-11/sun-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/99940b7acd320931fc51c39d0dc2adf3-thumbnail.jpg" group-title="Football",Brentford vs. Arsenal
