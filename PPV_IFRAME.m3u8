@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c2579993b09f0fd834797cb4525d17bd-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. France (Men's Group A)
-https://abc.com/stream?uri=olympics/2026-02-12/hockey/switzerland-vs-france-mens-group-a-1770894600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d6f9ec27bfab5d83e41cf5b5d93121d6-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 10km Free
-https://abc.com/stream?uri=olympics/2026-02-12/cross-country-skiing/womens-10km-free-1770897600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc7b8925df775fc650368e49372c8e83-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Cross: Finals
 https://abc.com/stream?uri=olympics/2026-02-12/snowboarding/mens-snowboard-cross-finals-1770900300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 6
