@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 6
 https://abc.com/stream?uri=olympics/2026-02-12/gold-zone-day-6-1770901200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02eff8b79af5cb46f60fe51884b9dc9f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 5000m
-https://abc.com/stream?uri=olympics/2026-02-12/speed-skating/womens-5000m-1770910200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bd3e70ad6b53c7032a536f7539e039b0-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Canada (Men's Group A)
-https://abc.com/stream?uri=olympics/2026-02-12/hockey/czechia-vs-canada-mens-group-a-1770910800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/88b13eeee5ad5d051ae3958144a6a897-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Moguls: Final
-https://abc.com/stream?uri=olympics/2026-02-12/freestyle-skiing/mens-moguls-final-1770915600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f3fa3172188090c168db40e6dd077f01-thumbnail.jpg" group-title="2026 Winter Olympics",Luge Team Relay
-https://abc.com/stream?uri=olympics/2026-02-12/luge/luge-team-relay-1770917400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ff0a413f700bf2ca59b0c4958c7d79e-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Great Britain (W Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-12/curling/china-vs-great-britain-w-round-robin-1770919500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0d0dd654b5909a502a01dcda47d05914-thumbnail.jpg" group-title="2026 Winter Olympics",Denmark vs. Japan (W Round-Robin)
@@ -37,8 +29,12 @@ https://abc.com/stream?uri=oktagon-84-english
 https://abc.com/stream?uri=oktagon-84-german
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (Czech)
 https://abc.com/stream?uri=oktagon-84-czech
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 2
+https://abc.com/stream?uri=premier-league-darts-night-2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/99940b7acd320931fc51c39d0dc2adf3-thumbnail.jpg" group-title="Football",Brentford vs. Arsenal
 https://abc.com/stream?uri=premierleague/2026-02-12/bre-ars
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f3cadc363f5164d2fed0dcc9ac43e75a-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Barcelona
+https://abc.com/stream?uri=copa-del-rey/2026-02-12/atm-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e28ecfc3604776cad005170411505633-thumbnail.jpg" group-title="Football",Stade Rennais vs. Paris Saint-Germain
 https://abc.com/stream?uri=ligue1/2026-02-13/ren-psg
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/33368cf038418a49e28a217365e70117-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. Mainz
@@ -115,8 +111,6 @@ https://abc.com/stream?uri=laliga/2026-02-15/mll-bet
 https://abc.com/stream?uri=seriea/2026-02-16/cag-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab1535147003838a3f4d399316ba9dda-thumbnail.jpg" group-title="Football",Girona vs. Barcelona
 https://abc.com/stream?uri=laliga/2026-02-16/gir-bar
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7e60a3fda1e80b223c9bb0a488c36fb6-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 2
-https://abc.com/stream?uri=f1/2026/pre-season-testing-1/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eafbe8b7240e00eec640bb7370e5166d-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
 https://abc.com/stream?uri=f1/2026/pre-season-testing-1/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
