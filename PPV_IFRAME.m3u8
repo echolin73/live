@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 6
-https://abc.com/stream?uri=olympics/2026-02-12/gold-zone-day-6-1770901200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cd777f3c782fb9bb9e011b0f3e008039-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. Denmark (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-12/hockey/germany-vs-denmark-mens-group-c-1770927000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/af03e3669120db333109d579f1f1f06e-thumbnail.jpg" group-title="2026 Winter Olympics",Latvia vs. USA (Men's Group C)
-https://abc.com/stream?uri=olympics/2026-02-12/hockey/latvia-vs-usa-mens-group-c-1770927000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a015c8c826a8aeafc6d800292693d252-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Oklahoma City Thunder
 https://abc.com/stream?uri=nba/2026-02-12/mil-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2a1e858cf3f66c06654c299bef72bea0-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Utah Jazz
@@ -17,8 +13,6 @@ https://abc.com/stream?uri=oktagon-84-english
 https://abc.com/stream?uri=oktagon-84-german
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (Czech)
 https://abc.com/stream?uri=oktagon-84-czech
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 2
-https://abc.com/stream?uri=premier-league-darts-night-2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 1
 https://abc.com/stream?uri=2026-players-championship-3---board-1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 2
@@ -35,10 +29,6 @@ https://abc.com/stream?uri=2026-players-championship-4---board-2
 https://abc.com/stream?uri=2026-players-championship-4---board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 4
 https://abc.com/stream?uri=2026-players-championship-4---board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/99940b7acd320931fc51c39d0dc2adf3-thumbnail.jpg" group-title="Football",Brentford vs. Arsenal
-https://abc.com/stream?uri=premierleague/2026-02-12/bre-ars
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f3cadc363f5164d2fed0dcc9ac43e75a-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Barcelona
-https://abc.com/stream?uri=copa-del-rey/2026-02-12/atm-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e28ecfc3604776cad005170411505633-thumbnail.jpg" group-title="Football",Stade Rennais vs. Paris Saint-Germain
 https://abc.com/stream?uri=ligue1/2026-02-13/ren-psg
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/33368cf038418a49e28a217365e70117-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. Mainz
