@@ -29,6 +29,22 @@ https://abc.com/stream?uri=oktagon-84-german
 https://abc.com/stream?uri=oktagon-84-czech
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 2
 https://abc.com/stream?uri=premier-league-darts-night-2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 1
+https://abc.com/stream?uri=2026-players-championship-3---board-1
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 2
+https://abc.com/stream?uri=2026-players-championship-3---board-2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 3
+https://abc.com/stream?uri=2026-players-championship-3---board-3
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 4
+https://abc.com/stream?uri=2026-players-championship-3---board-4
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 1
+https://abc.com/stream?uri=2026-players-championship-4---board-1
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 2
+https://abc.com/stream?uri=2026-players-championship-4---board-2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 3
+https://abc.com/stream?uri=2026-players-championship-4---board-3
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 4
+https://abc.com/stream?uri=2026-players-championship-4---board-4
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/99940b7acd320931fc51c39d0dc2adf3-thumbnail.jpg" group-title="Football",Brentford vs. Arsenal
 https://abc.com/stream?uri=premierleague/2026-02-12/bre-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f3cadc363f5164d2fed0dcc9ac43e75a-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Barcelona
