@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dd4b54bd630a763ab49ea9b85a2a6894-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Super-G
-https://modistreams.org/embed/olympics/2026-02-12/alpine-skiing/womens-super-g-1770892200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c2579993b09f0fd834797cb4525d17bd-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. France (Men's Group A)
 https://modistreams.org/embed/olympics/2026-02-12/hockey/switzerland-vs-france-mens-group-a-1770894600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/88b13eeee5ad5d051ae3958144a6a897-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Moguls: Final
-https://modistreams.org/embed/olympics/2026-02-12/freestyle-skiing/mens-moguls-final-1770894900
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d6f9ec27bfab5d83e41cf5b5d93121d6-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 10km Free
 https://modistreams.org/embed/olympics/2026-02-12/cross-country-skiing/womens-10km-free-1770897600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc7b8925df775fc650368e49372c8e83-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Cross: Finals
