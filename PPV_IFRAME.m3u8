@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc7b8925df775fc650368e49372c8e83-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Cross: Finals
-https://abc.com/stream?uri=olympics/2026-02-12/snowboarding/mens-snowboard-cross-finals-1770900300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 6
 https://abc.com/stream?uri=olympics/2026-02-12/gold-zone-day-6-1770901200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5572e39a01082c141459b021529d7bb0-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Sweden (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-12/curling/great-britain-vs-sweden-m-round-robin-1770901500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b30785ecd7d1eade252cc52785d738ad-thumbnail.jpg" group-title="2026 Winter Olympics",Norway vs. Germany (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-12/curling/norway-vs-germany-m-round-robin-1770901500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5d66fd0550f1dc652d9da1c5a749b08a-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Switzerland (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-12/curling/usa-vs-switzerland-m-round-robin-1770901500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/40ada4fca8cd54ec6581139581237687-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Canada (Women's Group A)
-https://abc.com/stream?uri=olympics/2026-02-12/hockey/finland-vs-canada-womens-group-a-1770902400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02eff8b79af5cb46f60fe51884b9dc9f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 5000m
 https://abc.com/stream?uri=olympics/2026-02-12/speed-skating/womens-5000m-1770910200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bd3e70ad6b53c7032a536f7539e039b0-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Canada (Men's Group A)
