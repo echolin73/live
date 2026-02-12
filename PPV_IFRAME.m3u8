@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 6
 https://abc.com/stream?uri=olympics/2026-02-12/gold-zone-day-6-1770901200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ff0a413f700bf2ca59b0c4958c7d79e-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Great Britain (W Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-12/curling/china-vs-great-britain-w-round-robin-1770919500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0d0dd654b5909a502a01dcda47d05914-thumbnail.jpg" group-title="2026 Winter Olympics",Denmark vs. Japan (W Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-12/curling/denmark-vs-japan-w-round-robin-1770919500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0c22ebf24c16a86f0e7a436f6c7d9486-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. South Korea (W Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-12/curling/italy-vs-south-korea-w-round-robin-1770919500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1c2d3d75a552c95d8bea5dbc2cb20bad-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. USA (W Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-12/curling/sweden-vs-usa-w-round-robin-1770919500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5520d5fb91d8f2f142b4a7f46543df5f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 500m & Men's 1000m Finals
-https://abc.com/stream?uri=olympics/2026-02-12/short-track/womens-500m--mens-1000m-finals-1770923700
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cd777f3c782fb9bb9e011b0f3e008039-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. Denmark (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-12/hockey/germany-vs-denmark-mens-group-c-1770927000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/af03e3669120db333109d579f1f1f06e-thumbnail.jpg" group-title="2026 Winter Olympics",Latvia vs. USA (Men's Group C)
