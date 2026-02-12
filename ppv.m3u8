@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/736acce5d4cbc49b50c243c119fd0efb-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Denmark (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-12/curling/canada-vs-denmark-w-round-robin-1770883500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/977baa41976f01847f3caefdb649b3fb-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Switzerland (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-12/curling/italy-vs-switzerland-w-round-robin-1770883500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/19e5b1015d581af3fd138250f5b63535-thumbnail.jpg" group-title="2026 Winter Olympics",Japan vs. Sweden (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-12/curling/japan-vs-sweden-w-round-robin-1770883500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fba340e6a6ea187018e90ead6f4b3f4e-thumbnail.jpg" group-title="2026 Winter Olympics",South Korea vs. USA (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-12/curling/south-korea-vs-usa-w-round-robin-1770883500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0567d8ce74e4908a2af2df48b0e98db7-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Skeleton: Run 2
-https://modistreams.org/embed/olympics/2026-02-12/skeleton/mens-skeleton-run-2-1770890700
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dd4b54bd630a763ab49ea9b85a2a6894-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Super-G
 https://modistreams.org/embed/olympics/2026-02-12/alpine-skiing/womens-super-g-1770892200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c2579993b09f0fd834797cb4525d17bd-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. France (Men's Group A)
