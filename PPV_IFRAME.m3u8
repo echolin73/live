@@ -1,10 +1,90 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4d79329ecf8fdcb4f90ff8347bbd29e1-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (Men's Group A)
-https://abc.com/stream?uri=olympics/2026-02-13/hockey/canada-vs-switzerland-mens-group-a-1771013400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Italy (W Quarterfinal)
-https://abc.com/stream?uri=olympics/2026-02-13/hockey/usa-vs-italy-w-quarterfinal-1771013400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/93168c3f00fc4c7198aed434c492848d-thumbnail.jpg" group-title="Baseball",Michigan State Spartans vs. Louisville Cardinals
-https://abc.com/stream?uri=college-baseball/2339/2339-2339-2339
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/daf244f97945f1878437cfc395568385-thumbnail.jpg" group-title="2026 Winter Olympics",Primetime In Milan (February 13)
+https://abc.com/stream?uri=olympics/2026-02-14/snowboarding/primetime-in-milan-february-13-1771041600
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1f602051c347fedb22fee973c8a3241d-thumbnail.jpg" group-title="2026 Winter Olympics",Olympic Late Night (February 13)
+https://abc.com/stream?uri=olympics/2026-02-14/biathlon/olympic-late-night-february-13-1771054500
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6dfa23fca06cf9a301dff5fb55cf84ed-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Canada (W Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/great-britain-vs-canada-w-round-robin-1771056300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8dee720992df9bef77d9e012452b36eb-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. China (W Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/italy-vs-china-w-round-robin-1771056300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/63b431de9de3d96450e97def6900d873-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Japan (W Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/switzerland-vs-japan-w-round-robin-1771056300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f700b225cafaa4bf9ad7431b1a68864f-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Giant Slalom: Run 1
+https://abc.com/stream?uri=olympics/2026-02-14/alpine-skiing/mens-giant-slalom-run-1-1771059600
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4631e627cb1a92d4b98fcef61cd3be77-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Dual Moguls: Finals
+https://abc.com/stream?uri=olympics/2026-02-14/freestyle-skiing/womens-dual-moguls-finals-1771061400
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/953ad08f769458b3ed262d558848a9c0-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 4x7.5km Relay
+https://abc.com/stream?uri=olympics/2026-02-14/biathlon/womens-4x75km-relay-1771066800
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6fee1c84b2a8a056206991bdd4487ebe-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. Latvia (Men's Group C)
+https://abc.com/stream?uri=olympics/2026-02-14/hockey/germany-vs-latvia-mens-group-c-1771067400
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eb0946e6b218de8abc73eb5274dcd2ee-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Slovakia (Men's Group B)
+https://abc.com/stream?uri=olympics/2026-02-14/hockey/sweden-vs-slovakia-mens-group-b-1771067400
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/953ad08f769458b3ed262d558848a9c0-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 4x7.5km Relay
+https://abc.com/stream?uri=olympics/2026-02-14/biathlon/womens-4x75km-relay-1771070400
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f700b225cafaa4bf9ad7431b1a68864f-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Giant Slalom: Run 2
+https://abc.com/stream?uri=olympics/2026-02-14/alpine-skiing/mens-giant-slalom-run-2-1771071600
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f700b225cafaa4bf9ad7431b1a68864f-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Giant Slalom: Run 2
+https://abc.com/stream?uri=olympics/2026-02-14/alpine-skiing/mens-giant-slalom-run-2-1771072200
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 8
+https://abc.com/stream?uri=olympics/2026-02-14/gold-zone-day-8-1771074000
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/38a555f81059d47179648027f26a7d54-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Great Britain (M Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/czechia-vs-great-britain-m-round-robin-1771074300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e0cf7b3261bb8233c481fad997747582-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. USA (M Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/germany-vs-usa-m-round-robin-1771074300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32c8d4180c52575da35725dbeb63379e-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. China (M Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/sweden-vs-china-m-round-robin-1771074300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5af445857e526651b0e279593481e684-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Canada (M Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/switzerland-vs-canada-m-round-robin-1771074300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a39e2830f1018535eef89ae49717fa18-thumbnail.jpg" group-title="2026 Winter Olympics",2026 Winter Olympics Coverage
+https://abc.com/stream?uri=olympics/2026-02-14/2026-winter-olympics-coverage-1771075800
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7a6be099da56490ec05d719ae5b18b76-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 7.5km Sprint
+https://abc.com/stream?uri=olympics/2026-02-14/biathlon/womens-75km-sprint-1771076700
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7a6be099da56490ec05d719ae5b18b76-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 7.5km Sprint
+https://abc.com/stream?uri=olympics/2026-02-14/biathlon/womens-75km-sprint-1771076700
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4631e627cb1a92d4b98fcef61cd3be77-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Dual Moguls: Finals
+https://abc.com/stream?uri=olympics/2026-02-14/freestyle-skiing/womens-dual-moguls-finals-1771081200
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e7350409d57f3fad48a002df2fa7c83-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Team Pursuit Qual.
+https://abc.com/stream?uri=olympics/2026-02-14/speed-skating/womens-team-pursuit-qual-1771081200
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d91ddb7ba60bde87bd1a2d1ad7823ec4-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Germany (W Quarterfinal)
+https://abc.com/stream?uri=olympics/2026-02-14/hockey/canada-vs-germany-w-quarterfinal-1771083600
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/191b3dec4a92ebda7feaa6f3b6c2d326-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Italy (Men's Group B)
+https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-italy-mens-group-b-1771083600
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26df7d23542999ad4702b5d77a252c5a-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 500m
+https://abc.com/stream?uri=olympics/2026-02-14/speed-skating/mens-500m-1771084800
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26df7d23542999ad4702b5d77a252c5a-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 500m
+https://abc.com/stream?uri=olympics/2026-02-14/speed-skating/mens-500m-1771084800
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7229f9dbc28266abcaa6942d471d0458-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Large Hill
+https://abc.com/stream?uri=olympics/2026-02-14/ski-jumping/mens-large-hill-1771086600
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a39e2830f1018535eef89ae49717fa18-thumbnail.jpg" group-title="2026 Winter Olympics",2026 Winter Olympics Coverage
+https://abc.com/stream?uri=olympics/2026-02-14/2026-winter-olympics-coverage-1771087500
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26cc39957c27d0fbe85760cd335a37e9-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Skeleton: Run 3
+https://abc.com/stream?uri=olympics/2026-02-14/skeleton/womens-skeleton-run-3-1771088400
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26cc39957c27d0fbe85760cd335a37e9-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Skeleton: Run 3
+https://abc.com/stream?uri=olympics/2026-02-14/skeleton/womens-skeleton-run-3-1771088400
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/953ad08f769458b3ed262d558848a9c0-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 4x7.5km Relay
+https://abc.com/stream?uri=olympics/2026-02-14/biathlon/womens-4x75km-relay-1771090200
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f4f58d749291f562d9cc21d22d94d436-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (W Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/canada-vs-switzerland-w-round-robin-1771092300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/87ce3a4490b67aedc27770c12eed2c57-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Sweden (W Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/italy-vs-sweden-w-round-robin-1771092300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9a0574bf767565292d75453965bf2ac6-thumbnail.jpg" group-title="2026 Winter Olympics",Japan vs. USA (W Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/japan-vs-usa-w-round-robin-1771092300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/349703ce85505ad739c2439432891e65-thumbnail.jpg" group-title="2026 Winter Olympics",South Korea vs. Denmark (W Round-Robin)
+https://abc.com/stream?uri=olympics/2026-02-14/curling/south-korea-vs-denmark-w-round-robin-1771092300
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a39e2830f1018535eef89ae49717fa18-thumbnail.jpg" group-title="2026 Winter Olympics",Freeski & Skeleton
+https://abc.com/stream?uri=olympics/2026-02-14/freestyle-skiing/freeski--skeleton-1771093800
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/084a5ee4762fb452a7fd95852f9942c8-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Freeski Big Air: Qualifying
+https://abc.com/stream?uri=olympics/2026-02-14/freestyle-skiing/womens-freeski-big-air-qualifying-1771093800
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26cc39957c27d0fbe85760cd335a37e9-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Skeleton: Final Run
+https://abc.com/stream?uri=olympics/2026-02-14/skeleton/womens-skeleton-final-run-1771094100
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1059adade2d7cef707b2d3c776c6b1cf-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1500m Finals & More
+https://abc.com/stream?uri=olympics/2026-02-14/short-track/mens-1500m-finals--more-1771096500
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/777aa6aa4b57f441d0268d18ca8284ca-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Switzerland (W Quarterfinal)
+https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-switzerland-w-quarterfinal-1771099800
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dcb9fe9f12057527ae310dc9e964791f-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Denmark (Men's Group C)
+https://abc.com/stream?uri=olympics/2026-02-14/hockey/usa-vs-denmark-mens-group-c-1771099800
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26df7d23542999ad4702b5d77a252c5a-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 500m
+https://abc.com/stream?uri=olympics/2026-02-14/speed-skating/mens-500m-1771104600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b80bcde4e12e0d8b8dae46baf96fef7d-thumbnail.jpg" group-title="Baseball",Milwaukee Panthers vs. LSU Tigers
 https://abc.com/stream?uri=college-baseball/1413/1413-1413-1413
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8bd6924c52589e1fd154689f8d146676-thumbnail.jpg" group-title="Baseball",Wright State Raiders vs. Georgia Bulldogs
@@ -65,26 +145,14 @@ https://abc.com/stream?uri=oktagon-84-english
 https://abc.com/stream?uri=oktagon-84-german
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (Czech)
 https://abc.com/stream?uri=oktagon-84-czech
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 1
-https://abc.com/stream?uri=2026-players-championship-3---board-1
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 2
-https://abc.com/stream?uri=2026-players-championship-3---board-2
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 3
-https://abc.com/stream?uri=2026-players-championship-3---board-3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 3 - Board 4
-https://abc.com/stream?uri=2026-players-championship-3---board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 1
-https://abc.com/stream?uri=2026-players-championship-4---board-1
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 2
-https://abc.com/stream?uri=2026-players-championship-4---board-2
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 3
-https://abc.com/stream?uri=2026-players-championship-4---board-3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 4
-https://abc.com/stream?uri=2026-players-championship-4---board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/876b1d72dbf12eebba0a60f6a7d058a5-thumbnail.jpg" group-title="Football",Elche vs. Osasuna
-https://abc.com/stream?uri=laliga/2026-02-13/elc-osa
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b09ee800d1b96f62a9ac41d7248a9c85-thumbnail.jpg" group-title="Football",AS Monaco vs. Nantes
-https://abc.com/stream?uri=ligue1/2026-02-13/mon-nan
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 1
+https://abc.com/stream?uri=players-championship-board-1
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 2
+https://abc.com/stream?uri=players-championship-board-2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 3
+https://abc.com/stream?uri=players-championship-board-3
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
+https://abc.com/stream?uri=players-championship-board-4
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a62315553eede23a9a2b505eabf57d29-thumbnail.jpg" group-title="Football",Burton Albion vs. West Ham United
 https://abc.com/stream?uri=english-fa-cup/2026-02-14/brt-whu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1cf6aa508cc325664209e92aded300e9-thumbnail.jpg" group-title="Football",Espanyol vs. Celta Vigo
