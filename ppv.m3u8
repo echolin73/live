@@ -1,24 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 7
 https://modistreams.org/embed/olympics/2026-02-13/gold-zone-day-7-1770987600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9f70dc55031965dbb41c327de9214d6b-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Sweden (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-13/curling/canada-vs-sweden-m-round-robin-1771005900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c4dcd813006ae5088b7e0c2b925b9598-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Norway (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-13/curling/czechia-vs-norway-m-round-robin-1771005900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3572fb8fd2bf851b7b8f2aa60b2d4ffa-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. Italy (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-13/curling/germany-vs-italy-m-round-robin-1771005900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3e3c0a51e8ba702d93436413ce7abf3d-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. China (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-13/curling/switzerland-vs-china-m-round-robin-1771005900
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e8faad329f10ff1da577bda772bceda6-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Free
 https://modistreams.org/embed/olympics/2026-02-13/figure-skating/mens-free-curated-feed-1771012800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8009434bb5b5d4531c63de6adebd3e40-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Skeleton: Final Run
-https://modistreams.org/embed/olympics/2026-02-13/skeleton/mens-skeleton-final-run-1771013100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4d79329ecf8fdcb4f90ff8347bbd29e1-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (Men's Group A)
 https://modistreams.org/embed/olympics/2026-02-13/hockey/canada-vs-switzerland-mens-group-a-1771013400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Italy (W Quarterfinal)
 https://modistreams.org/embed/olympics/2026-02-13/hockey/usa-vs-italy-w-quarterfinal-1771013400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ea7e6d755d43cfb3c63da6b511fd604-thumbnail.jpg" group-title="Baseball",Oklahoma vs Texas Tech
-https://modistreams.org/embed/oklahoma-vs-texas-tech
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/93168c3f00fc4c7198aed434c492848d-thumbnail.jpg" group-title="Baseball",Michigan State Spartans vs. Louisville Cardinals
 https://modistreams.org/embed/college-baseball/2339/2339-2339-2339
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b80bcde4e12e0d8b8dae46baf96fef7d-thumbnail.jpg" group-title="Baseball",Milwaukee Panthers vs. LSU Tigers
@@ -65,8 +53,14 @@ https://modistreams.org/embed/college-baseball/6836/6836-6836-6836
 https://modistreams.org/embed/college-baseball/8953/8953-8953-8953
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/525b9d573222c6876d78051c047a9dba-thumbnail.jpg" group-title="Basketball",2026 All-Star Celebrity Game
 https://modistreams.org/embed/2026-all-star-celebrity-game
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/943abdacab306761d560fba15b2cc27a-thumbnail.jpg" group-title="Basketball",Michigan State Spartans vs. Wisconsin Badgers
+https://modistreams.org/embed/cbb/2027/2027-wis
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/55e659fdb67357e1d00cacf2f87873ba-thumbnail.jpg" group-title="Basketball",Saint Louis Billikens vs. Loyola Chicago Ramblers
+https://modistreams.org/embed/cbb/2244/2244-luc
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4fafe3e90e2ee4108dafb05712edcc22-thumbnail.jpg" group-title="Basketball",2026 Rising Stars
 https://modistreams.org/embed/2026-rising-stars
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d56e62b1e67160731e91688fb762a6e3-thumbnail.jpg" group-title="Basketball",Ohio Bobcats vs. Miami (OH) RedHawks
+https://modistreams.org/embed/cbb/5645/5645-m-oh
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/179b49286aa14af091e98cce7af75619-thumbnail.jpg" group-title="Basketball",2026 HBCU Classic
 https://modistreams.org/embed/2026-hbcu-classic
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (English)
