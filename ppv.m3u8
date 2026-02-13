@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 7
 https://modistreams.org/embed/olympics/2026-02-13/gold-zone-day-7-1770987600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8780f05b39692079203f1119ba8e546d-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Switzerland (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-13/curling/china-vs-switzerland-w-round-robin-1770987900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c8e47b75110f1710a6266039e898af61-thumbnail.jpg" group-title="2026 Winter Olympics",Denmark vs. Sweden (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-13/curling/denmark-vs-sweden-w-round-robin-1770987900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2728380fce63aacaa5d0fb1347a15570-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. South Korea (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-13/curling/great-britain-vs-south-korea-w-round-robin-1770987900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/117f3b2c9f8c225665f5c6c6b1f86a05-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Canada (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-13/curling/usa-vs-canada-w-round-robin-1770987900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/de7ae31f16fff7e8c9ac0121e6af63e7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Skeleton: Run 1
-https://modistreams.org/embed/olympics/2026-02-13/skeleton/womens-skeleton-run-1-1770994800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9dc69180992e4bd6a0abf21007a94349-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 10,000m
 https://modistreams.org/embed/olympics/2026-02-13/speed-skating/mens-10000m-1770994800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Sweden (W Quarterfinal)
@@ -49,6 +39,8 @@ https://modistreams.org/embed/olympics/2026-02-13/hockey/canada-vs-switzerland-m
 https://modistreams.org/embed/olympics/2026-02-13/hockey/usa-vs-italy-w-quarterfinal-1771013400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/92f45cbf803c42c64aba7e051dd154ef-thumbnail.jpg" group-title="Baseball",Houston Cougars vs. Wake Forest Demon Deacons
 https://modistreams.org/embed/college-baseball/4641/4641-4641-4641
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ea7e6d755d43cfb3c63da6b511fd604-thumbnail.jpg" group-title="Baseball",Oklahoma vs Texas Tech
+https://modistreams.org/embed/oklahoma-vs-texas-tech
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/93168c3f00fc4c7198aed434c492848d-thumbnail.jpg" group-title="Baseball",Michigan State Spartans vs. Louisville Cardinals
 https://modistreams.org/embed/college-baseball/2339/2339-2339-2339
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/abc30b31649ab39cee0db26002f367a7-thumbnail.jpg" group-title="Baseball",NC State Wolfpack vs. Washington Huskies
