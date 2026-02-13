@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/411b07d606bd47166e16f7642fda598f-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. USA (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-13/curling/canada-vs-usa-m-round-robin-1770969900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d3a82d116721fd9deeef838314a7831a-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Norway (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-13/curling/china-vs-norway-m-round-robin-1770969900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/28fd4be5b4c907018225a05265bddfba-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Italy (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-13/curling/great-britain-vs-italy-m-round-robin-1770969900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2ffdef4ee83d97ea6c659ae9cd651fb8-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Czechia (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-13/curling/switzerland-vs-czechia-m-round-robin-1770969900
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/18ce94ce30db7befaec4d0f9b9e56d9f-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 10km Free
 https://abc.com/stream?uri=olympics/2026-02-13/cross-country-skiing/mens-10km-free-1770979500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/244c49cdedd13e2f65a4fcaea2e47f02-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Sweden (Men's Group B)
