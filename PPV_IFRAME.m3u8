@@ -85,10 +85,6 @@ https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-switzerland-w-q
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/usa-vs-denmark-mens-group-c-1771099800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26df7d23542999ad4702b5d77a252c5a-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 500m
 https://abc.com/stream?uri=olympics/2026-02-14/speed-skating/mens-500m-1771104600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b80bcde4e12e0d8b8dae46baf96fef7d-thumbnail.jpg" group-title="Baseball",Milwaukee Panthers vs. LSU Tigers
-https://abc.com/stream?uri=college-baseball/1413/1413-1413-1413
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8bd6924c52589e1fd154689f8d146676-thumbnail.jpg" group-title="Baseball",Wright State Raiders vs. Georgia Bulldogs
-https://abc.com/stream?uri=college-baseball/4384/4384-4384-4384
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/92f98f14aac2f8e407ce6041725330c6-thumbnail.jpg" group-title="Baseball",Bowling Green Falcons vs. Georgia Tech Yellow Jackets
 https://abc.com/stream?uri=college-baseball/9724/9724-9724-9724
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/46c0c87727965cea86f06bc92acb4d7b-thumbnail.jpg" group-title="Baseball",Fairfield Stags vs. Coastal Carolina Chanticleers
