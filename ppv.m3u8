@@ -11,8 +11,6 @@ https://modistreams.org/embed/olympics/2026-02-13/curling/czechia-vs-norway-m-ro
 https://modistreams.org/embed/olympics/2026-02-13/curling/germany-vs-italy-m-round-robin-1771005900
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3e3c0a51e8ba702d93436413ce7abf3d-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. China (M Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-13/curling/switzerland-vs-china-m-round-robin-1771005900
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8009434bb5b5d4531c63de6adebd3e40-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Skeleton: Run 3
-https://modistreams.org/embed/olympics/2026-02-13/skeleton/mens-skeleton-run-3-1771007400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6cef841a3cf878ec92607686a3adc307-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Halfpipe: Final
 https://modistreams.org/embed/olympics/2026-02-13/snowboarding/mens-snowboard-halfpipe-final-1771007400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3c9980a74c65f5b5f01ec8e6dd745843-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Halfpipe: Final
@@ -201,6 +199,8 @@ https://modistreams.org/embed/english-fa-cup/2026-02-16/mfc-bre
 https://modistreams.org/embed/seriea/2026-02-16/cag-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab1535147003838a3f4d399316ba9dda-thumbnail.jpg" group-title="Football",Girona vs. Barcelona
 https://modistreams.org/embed/laliga/2026-02-16/gir-bar
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Seattle
+https://modistreams.org/embed/smx-wk6
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 https://modistreams.org/embed/wwe/smackdown/2026-02-13
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
