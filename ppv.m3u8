@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 7
-https://modistreams.org/embed/olympics/2026-02-13/gold-zone-day-7-1770987600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e8faad329f10ff1da577bda772bceda6-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Free
-https://modistreams.org/embed/olympics/2026-02-13/figure-skating/mens-free-curated-feed-1771012800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4d79329ecf8fdcb4f90ff8347bbd29e1-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (Men's Group A)
 https://modistreams.org/embed/olympics/2026-02-13/hockey/canada-vs-switzerland-mens-group-a-1771013400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Italy (W Quarterfinal)
@@ -85,12 +81,6 @@ https://modistreams.org/embed/2026-players-championship-4---board-2
 https://modistreams.org/embed/2026-players-championship-4---board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 4 - Board 4
 https://modistreams.org/embed/2026-players-championship-4---board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/33368cf038418a49e28a217365e70117-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. Mainz
-https://modistreams.org/embed/bundesliga/2026-02-13/dor-m05
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b39ef03e58ac9bacb7c345a8de058261-thumbnail.jpg" group-title="Football",Pisa vs. AC Milan
-https://modistreams.org/embed/seriea/2026-02-13/pis-mil
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d3df58fb99ee8f8f75e60c36a386cfea-thumbnail.jpg" group-title="Football",Hull City vs. Chelsea
-https://modistreams.org/embed/english-fa-cup/2026-02-13/hul-che
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/876b1d72dbf12eebba0a60f6a7d058a5-thumbnail.jpg" group-title="Football",Elche vs. Osasuna
 https://modistreams.org/embed/laliga/2026-02-13/elc-osa
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b09ee800d1b96f62a9ac41d7248a9c85-thumbnail.jpg" group-title="Football",AS Monaco vs. Nantes
