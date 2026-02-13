@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 7
 https://abc.com/stream?uri=olympics/2026-02-13/gold-zone-day-7-1770987600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9dc69180992e4bd6a0abf21007a94349-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 10,000m
-https://abc.com/stream?uri=olympics/2026-02-13/speed-skating/mens-10000m-1770994800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Sweden (W Quarterfinal)
 https://abc.com/stream?uri=olympics/2026-02-13/hockey/czechia-vs-sweden-w-quarterfinal-1770997200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bff0b8492d436427ac4f113bce21b4a6-thumbnail.jpg" group-title="2026 Winter Olympics",France vs. Czechia (Men's Group A)
 https://abc.com/stream?uri=olympics/2026-02-13/hockey/france-vs-czechia-mens-group-a-1770997200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e8faad329f10ff1da577bda772bceda6-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Free: Warm-Up
-https://abc.com/stream?uri=olympics/2026-02-13/figure-skating/mens-free-warm-up-1770997500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/de7ae31f16fff7e8c9ac0121e6af63e7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Skeleton: Run 2
 https://abc.com/stream?uri=olympics/2026-02-13/skeleton/womens-skeleton-run-2-1771001100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3c4369d360ceeb471bb6b0f2ed852b72-thumbnail.jpg" group-title="2026 Winter Olympics",Men's LH: Training
@@ -215,8 +211,6 @@ https://abc.com/stream?uri=english-fa-cup/2026-02-16/mfc-bre
 https://abc.com/stream?uri=seriea/2026-02-16/cag-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab1535147003838a3f4d399316ba9dda-thumbnail.jpg" group-title="Football",Girona vs. Barcelona
 https://abc.com/stream?uri=laliga/2026-02-16/gir-bar
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eafbe8b7240e00eec640bb7370e5166d-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
-https://abc.com/stream?uri=f1/2026/pre-season-testing-1/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 https://abc.com/stream?uri=wwe/smackdown/2026-02-13
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
