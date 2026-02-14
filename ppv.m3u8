@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 8
 https://modistreams.org/embed/olympics/2026-02-14/gold-zone-day-8-1771074000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f4f58d749291f562d9cc21d22d94d436-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-14/curling/canada-vs-switzerland-w-round-robin-1771092300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/87ce3a4490b67aedc27770c12eed2c57-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Sweden (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-14/curling/italy-vs-sweden-w-round-robin-1771092300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9a0574bf767565292d75453965bf2ac6-thumbnail.jpg" group-title="2026 Winter Olympics",Japan vs. USA (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-14/curling/japan-vs-usa-w-round-robin-1771092300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/349703ce85505ad739c2439432891e65-thumbnail.jpg" group-title="2026 Winter Olympics",South Korea vs. Denmark (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-14/curling/south-korea-vs-denmark-w-round-robin-1771092300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1059adade2d7cef707b2d3c776c6b1cf-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1500m Finals & More
 https://modistreams.org/embed/olympics/2026-02-14/short-track/mens-1500m-finals--more-1771096500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/777aa6aa4b57f441d0268d18ca8284ca-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Switzerland (W Quarterfinal)
@@ -67,8 +59,6 @@ https://modistreams.org/embed/college-baseball/2307/2307-2307-2307
 https://modistreams.org/embed/college-baseball/6052/6052-6052-6052
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5de9db5d7bb1739914769e54b7a6f853-thumbnail.jpg" group-title="Baseball",TCU Horned Frogs vs. Arkansas Razorbacks
 https://modistreams.org/embed/college-baseball/3024/3024-3024-3024
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6f97ea13f3e8882dedb81c34993c8dba-thumbnail.jpg" group-title="Basketball",UCLA Bruins vs. Michigan Wolverines
-https://modistreams.org/embed/cbb/5547/5547-mich
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4771d628ab1564525c8f643bad8d18d8-thumbnail.jpg" group-title="Basketball",Kansas Jayhawks vs. Iowa State Cyclones
 https://modistreams.org/embed/cbb/9435/9435-isu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/536c20860e9bde98506a71fb15d5ee54-thumbnail.jpg" group-title="Basketball",Northwestern Wildcats vs. Nebraska Cornhuskers
