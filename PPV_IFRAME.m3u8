@@ -5,8 +5,6 @@ https://abc.com/stream?uri=olympics/2026-02-14/gold-zone-day-8-1771074000
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/canada-vs-germany-w-quarterfinal-1771083600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/191b3dec4a92ebda7feaa6f3b6c2d326-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Italy (Men's Group B)
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-italy-mens-group-b-1771083600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26df7d23542999ad4702b5d77a252c5a-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 500m
-https://abc.com/stream?uri=olympics/2026-02-14/speed-skating/mens-500m-1771084800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7229f9dbc28266abcaa6942d471d0458-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Large Hill
 https://abc.com/stream?uri=olympics/2026-02-14/ski-jumping/mens-large-hill-1771086600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26cc39957c27d0fbe85760cd335a37e9-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Skeleton: Run 3
@@ -141,16 +139,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2c4ff2f9c154b0a09e5a503527b2d416-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. St. Pauli
-https://abc.com/stream?uri=bundesliga/2026-02-14/b04-stp
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c83f83c485f78c39df1e8bf4df7475d7-thumbnail.jpg" group-title="Football",Eintracht Frankfurt vs. Borussia Mönchengladbach
-https://abc.com/stream?uri=bundesliga/2026-02-14/sge-bmg
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8979b850ea21947c09e1957ff77bc674-thumbnail.jpg" group-title="Football",Hamburg SV vs. 1. FC Union Berlin
-https://abc.com/stream?uri=bundesliga/2026-02-14/hsv-fcu
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/054549410c7ee2169b9b27ca5566db48-thumbnail.jpg" group-title="Football",TSG Hoffenheim vs. SC Freiburg
-https://abc.com/stream?uri=bundesliga/2026-02-14/tsg-scf
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c109f6d613e08fb063239fc0b3087a5c-thumbnail.jpg" group-title="Football",Werder Bremen vs. Bayern Munich
-https://abc.com/stream?uri=bundesliga/2026-02-14/svw-mun
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2d650151fd2a15783dc0904a78da6532-thumbnail.jpg" group-title="Football",Burnley vs. Mansfield Town
 https://abc.com/stream?uri=english-fa-cup/2026-02-14/bur-mnf
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7e8419a0ac134601bf03e02d489ff507-thumbnail.jpg" group-title="Football",Manchester City vs. Salford City
