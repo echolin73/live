@@ -59,26 +59,12 @@ https://abc.com/stream?uri=olympics/2026-02-14/short-track/mens-1500m-finals--mo
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-switzerland-w-quarterfinal-1771099800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dcb9fe9f12057527ae310dc9e964791f-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Denmark (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/usa-vs-denmark-mens-group-c-1771099800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/495a35fa7ae463e8ace72897633c9088-thumbnail.jpg" group-title="Baseball",James Madison Dukes vs. Florida State Seminoles
-https://abc.com/stream?uri=college-baseball/8803/8803-8803-8803
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d7d15b53ea3dbefb781b611574152506-thumbnail.jpg" group-title="Baseball",Youngstown State Penguins vs. Auburn Tigers
-https://abc.com/stream?uri=college-baseball/6922/6922-6922-6922
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dc722b8ec1f41b52d10f6f04f178ed6c-thumbnail.jpg" group-title="Baseball",UAB Blazers vs. Florida Gators
-https://abc.com/stream?uri=college-baseball/4115/4115-4115-4115
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/83943155ebac5480fcd19f6a5037d158-thumbnail.jpg" group-title="Baseball",Lehigh Mountain Hawks vs. Miami Hurricanes
-https://abc.com/stream?uri=college-baseball/8768/8768-8768-8768
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/daf053624c08e2e0995f4d26f55a1b3f-thumbnail.jpg" group-title="Baseball",Tennessee Tech Golden Eagles vs. Texas A&M Aggies
-https://abc.com/stream?uri=college-baseball/3195/3195-3195-3195
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b9f46325101da5873d4244f50579c8f1-thumbnail.jpg" group-title="Baseball",UC Davis Aggies vs. Texas Longhorns
-https://abc.com/stream?uri=college-baseball/5434/5434-5434-5434
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/894d1ca688b6af3621251c065e0551c1-thumbnail.jpg" group-title="Baseball",UC San Diego Tritons vs. UCLA Bruins
 https://abc.com/stream?uri=college-baseball/7902/7902-7902-7902
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f8df7dd2609135641992b06521d88b0e-thumbnail.jpg" group-title="Baseball",Oklahoma State Cowboys vs. Arkansas Razorbacks
 https://abc.com/stream?uri=college-baseball/6836/6836-6836-6836
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d82394ac4c7f0df3968806b776a92c8c-thumbnail.jpg" group-title="Baseball",Arizona Wildcats vs. Stanford Cardinal
 https://abc.com/stream?uri=college-baseball/8953/8953-8953-8953
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/525b9d573222c6876d78051c047a9dba-thumbnail.jpg" group-title="Basketball",2026 All-Star Celebrity Game
-https://abc.com/stream?uri=2026-all-star-celebrity-game
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/943abdacab306761d560fba15b2cc27a-thumbnail.jpg" group-title="Basketball",Michigan State Spartans vs. Wisconsin Badgers
 https://abc.com/stream?uri=cbb/2027/2027-wis
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/55e659fdb67357e1d00cacf2f87873ba-thumbnail.jpg" group-title="Basketball",Saint Louis Billikens vs. Loyola Chicago Ramblers
@@ -195,8 +181,6 @@ https://abc.com/stream?uri=seriea/2026-02-16/cag-lec
 https://abc.com/stream?uri=laliga/2026-02-16/gir-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Seattle
 https://abc.com/stream?uri=smx-wk6
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
-https://abc.com/stream?uri=wwe/smackdown/2026-02-13
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://abc.com/stream?uri=aew/collision/2026-02-14
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
