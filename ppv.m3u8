@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6dfa23fca06cf9a301dff5fb55cf84ed-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Canada (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-14/curling/great-britain-vs-canada-w-round-robin-1771056300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8dee720992df9bef77d9e012452b36eb-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. China (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-14/curling/italy-vs-china-w-round-robin-1771056300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/63b431de9de3d96450e97def6900d873-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Japan (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-14/curling/switzerland-vs-japan-w-round-robin-1771056300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f700b225cafaa4bf9ad7431b1a68864f-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Giant Slalom: Run 1
-https://modistreams.org/embed/olympics/2026-02-14/alpine-skiing/mens-giant-slalom-run-1-1771059600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4631e627cb1a92d4b98fcef61cd3be77-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Dual Moguls: Finals
-https://modistreams.org/embed/olympics/2026-02-14/freestyle-skiing/womens-dual-moguls-finals-1771061400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/953ad08f769458b3ed262d558848a9c0-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 4x7.5km Relay
 https://modistreams.org/embed/olympics/2026-02-14/biathlon/womens-4x75km-relay-1771066800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6fee1c84b2a8a056206991bdd4487ebe-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. Latvia (Men's Group C)
