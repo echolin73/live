@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 8
 https://abc.com/stream?uri=olympics/2026-02-14/gold-zone-day-8-1771074000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/38a555f81059d47179648027f26a7d54-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Great Britain (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-14/curling/czechia-vs-great-britain-m-round-robin-1771074300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e0cf7b3261bb8233c481fad997747582-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. USA (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-14/curling/germany-vs-usa-m-round-robin-1771074300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32c8d4180c52575da35725dbeb63379e-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. China (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-14/curling/sweden-vs-china-m-round-robin-1771074300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5af445857e526651b0e279593481e684-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Canada (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-14/curling/switzerland-vs-canada-m-round-robin-1771074300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d91ddb7ba60bde87bd1a2d1ad7823ec4-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Germany (W Quarterfinal)
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/canada-vs-germany-w-quarterfinal-1771083600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/191b3dec4a92ebda7feaa6f3b6c2d326-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Italy (Men's Group B)
@@ -63,6 +55,8 @@ https://abc.com/stream?uri=college-baseball/3192/3192-3192-3192
 https://abc.com/stream?uri=college-baseball/2357/2357-2357-2357
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0f968300a05221e739624fdbf694c2a1-thumbnail.jpg" group-title="Baseball",UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles
 https://abc.com/stream?uri=college-baseball/1708/1708-1708-1708
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/34433531db2fdcd4cbd941c41f078456-thumbnail.jpg" group-title="Baseball",Nevada vs Ole Miss
+https://abc.com/stream?uri=college-baseball/895
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/534f5479e127a99ee8dc3f49c4902bf8-thumbnail.jpg" group-title="Baseball",Milwaukee Panthers vs. LSU Tigers
 https://abc.com/stream?uri=college-baseball/3779/3779-3779-3779
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6cd9be8364255179aad0fe6749543684-thumbnail.jpg" group-title="Baseball",Hofstra Pride vs. Mississippi State Bulldogs
@@ -99,6 +93,40 @@ https://abc.com/stream?uri=college-baseball/2307/2307-2307-2307
 https://abc.com/stream?uri=college-baseball/6052/6052-6052-6052
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5de9db5d7bb1739914769e54b7a6f853-thumbnail.jpg" group-title="Baseball",TCU Horned Frogs vs. Arkansas Razorbacks
 https://abc.com/stream?uri=college-baseball/3024/3024-3024-3024
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eea31f44346f15f11b48ea665786c155-thumbnail.jpg" group-title="Basketball",Clemson Tigers vs. Duke Blue Devils
+https://abc.com/stream?uri=cbb/3716/3716-duke
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6f97ea13f3e8882dedb81c34993c8dba-thumbnail.jpg" group-title="Basketball",UCLA Bruins vs. Michigan Wolverines
+https://abc.com/stream?uri=cbb/5547/5547-mich
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4771d628ab1564525c8f643bad8d18d8-thumbnail.jpg" group-title="Basketball",Kansas Jayhawks vs. Iowa State Cyclones
+https://abc.com/stream?uri=cbb/9435/9435-isu
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/536c20860e9bde98506a71fb15d5ee54-thumbnail.jpg" group-title="Basketball",Northwestern Wildcats vs. Nebraska Cornhuskers
+https://abc.com/stream?uri=cbb/8199/8199-neb
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b19050ac226b8a59580b656d2d0bb18-thumbnail.jpg" group-title="Basketball",St. John's Red Storm vs. Providence Friars
+https://abc.com/stream?uri=cbb/1620/1620-prov
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/afe73254cc1efe84a204b760f25978cd-thumbnail.jpg" group-title="Basketball",Texas A&M Aggies vs. Vanderbilt Commodores
+https://abc.com/stream?uri=cbb/3797/3797-van
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b1a285e733abe26c432ae9fa075c12fe-thumbnail.jpg" group-title="Basketball",Pittsburgh Panthers vs. North Carolina Tar Heels
+https://abc.com/stream?uri=cbb/2282/2282-unc
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b247340765c6c4dd8654fb36e6eba40a-thumbnail.jpg" group-title="Basketball",Kentucky Wildcats vs. Florida Gators
+https://abc.com/stream?uri=cbb/2886/2886-fla
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8b538a8ce6dd907355a728ccd40ecedf-thumbnail.jpg" group-title="Basketball",Kansas State Wildcats vs. Houston Cougars
+https://abc.com/stream?uri=cbb/6153/6153-hou
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f1f92b7e34b5060a946fe815a86565cd-thumbnail.jpg" group-title="Basketball",Colorado Buffaloes vs. BYU Cougars
+https://abc.com/stream?uri=cbb/8858/8858-byu
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/28982f62bfb92b9e102d9634fbe3e10c-thumbnail.jpg" group-title="Basketball",Louisville Cardinals vs. Baylor Bears
+https://abc.com/stream?uri=cbb/1562/1562-bay
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c02a6487b973d00f2ee5eea034783de0-thumbnail.jpg" group-title="Basketball",Purdue Boilermakers vs. Iowa Hawkeyes
+https://abc.com/stream?uri=cbb/2377/2377-iowa
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f54ecbcf34608927537c461d0f123503-thumbnail.jpg" group-title="Basketball",Texas Tech Red Raiders vs. Arizona Wildcats
+https://abc.com/stream?uri=cbb/7913/7913-ariz
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ed618486955da5f5fdf3c052de76058e-thumbnail.jpg" group-title="Basketball",Georgetown Hoyas vs. UConn Huskies
+https://abc.com/stream?uri=cbb/5813/5813-conn
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0e283a67a4383e6e27ae0c7521bce5e8-thumbnail.jpg" group-title="Basketball",Virginia Cavaliers vs. Ohio State Buckeyes
+https://abc.com/stream?uri=cbb/2215/2215-osu
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b0129d3d045163af629ab766b07ee013-thumbnail.jpg" group-title="Basketball",Auburn Tigers vs. Arkansas Razorbacks
+https://abc.com/stream?uri=cbb/7696/7696-ark
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/60b0f8e21df6c680bc4d3789678514a6-thumbnail.jpg" group-title="Basketball",Gonzaga Bulldogs vs. Santa Clara Broncos
+https://abc.com/stream?uri=cbb/4820/4820-scu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (English)
 https://abc.com/stream?uri=oktagon-84-english
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="Combat Sports",OKTAGON 84 (German)
