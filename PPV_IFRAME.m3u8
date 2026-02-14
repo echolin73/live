@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 8
 https://abc.com/stream?uri=olympics/2026-02-14/gold-zone-day-8-1771074000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7229f9dbc28266abcaa6942d471d0458-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Large Hill
-https://abc.com/stream?uri=olympics/2026-02-14/ski-jumping/mens-large-hill-1771086600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f4f58d749291f562d9cc21d22d94d436-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (W Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-14/curling/canada-vs-switzerland-w-round-robin-1771092300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/87ce3a4490b67aedc27770c12eed2c57-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Sweden (W Round-Robin)
@@ -13,8 +11,6 @@ https://abc.com/stream?uri=olympics/2026-02-14/curling/japan-vs-usa-w-round-robi
 https://abc.com/stream?uri=olympics/2026-02-14/curling/south-korea-vs-denmark-w-round-robin-1771092300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/084a5ee4762fb452a7fd95852f9942c8-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Freeski Big Air: Qualifying
 https://abc.com/stream?uri=olympics/2026-02-14/freestyle-skiing/womens-freeski-big-air-qualifying-1771093800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26cc39957c27d0fbe85760cd335a37e9-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Skeleton: Final Run
-https://abc.com/stream?uri=olympics/2026-02-14/skeleton/womens-skeleton-final-run-1771094100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1059adade2d7cef707b2d3c776c6b1cf-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1500m Finals & More
 https://abc.com/stream?uri=olympics/2026-02-14/short-track/mens-1500m-finals--more-1771096500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/777aa6aa4b57f441d0268d18ca8284ca-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Switzerland (W Quarterfinal)
@@ -105,6 +101,8 @@ https://abc.com/stream?uri=cbb/8858/8858-byu
 https://abc.com/stream?uri=cbb/1562/1562-bay
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c02a6487b973d00f2ee5eea034783de0-thumbnail.jpg" group-title="Basketball",Purdue Boilermakers vs. Iowa Hawkeyes
 https://abc.com/stream?uri=cbb/2377/2377-iowa
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/84cafaf67fa54deefce2fd3e8f74f28c-thumbnail.jpg" group-title="Basketball",NBA All-Star Saturday
+https://abc.com/stream?uri=nba/2026-02-14/all-star
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f54ecbcf34608927537c461d0f123503-thumbnail.jpg" group-title="Basketball",Texas Tech Red Raiders vs. Arizona Wildcats
 https://abc.com/stream?uri=cbb/7913/7913-ariz
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ed618486955da5f5fdf3c052de76058e-thumbnail.jpg" group-title="Basketball",Georgetown Hoyas vs. UConn Huskies
@@ -129,12 +127,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2c6e6b84dd5fc2df44fe31a52fbbfd3d-thumbnail.jpg" group-title="Football",Sevilla vs. Alavés
-https://abc.com/stream?uri=laliga/2026-02-14/sev-ala
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ce42405ef471520dedd5cc4df25164fc-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. FC Cologne
-https://abc.com/stream?uri=bundesliga/2026-02-14/vfb-koe
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eb1f4ce718e2c50e1c283ee19e2fdc45-thumbnail.jpg" group-title="Football",Aston Villa vs. Newcastle United
-https://abc.com/stream?uri=english-fa-cup/2026-02-14/avl-new
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2dafafe9607c03a1d71746309409ce22-thumbnail.jpg" group-title="Football",Lille vs. Brest
 https://abc.com/stream?uri=ligue1/2026-02-14/lill-bre
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e8dc5a792c4d9143a31e740ec5126b89-thumbnail.jpg" group-title="Football",Inter Milan vs. Juventus
