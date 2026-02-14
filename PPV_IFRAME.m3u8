@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/777aa6aa4b57f441d0268d18ca8284ca-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Switzerland (W Quarterfinal)
-https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-switzerland-w-quarterfinal-1771099800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dcb9fe9f12057527ae310dc9e964791f-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Denmark (Men's Group C)
-https://abc.com/stream?uri=olympics/2026-02-14/hockey/usa-vs-denmark-mens-group-c-1771099800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/534f5479e127a99ee8dc3f49c4902bf8-thumbnail.jpg" group-title="Baseball",Milwaukee Panthers vs. LSU Tigers
-https://abc.com/stream?uri=college-baseball/3779/3779-3779-3779
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6cd9be8364255179aad0fe6749543684-thumbnail.jpg" group-title="Baseball",Hofstra Pride vs. Mississippi State Bulldogs
-https://abc.com/stream?uri=college-baseball/6964/6964-6964-6964
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dc722b8ec1f41b52d10f6f04f178ed6c-thumbnail.jpg" group-title="Baseball",UAB Blazers vs. Florida Gators
-https://abc.com/stream?uri=college-baseball/4412/4412-4412-4412
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bf0fb8f2b8cff97017680da3878bcf92-thumbnail.jpg" group-title="Baseball",James Madison Dukes vs. Florida State Seminoles
-https://abc.com/stream?uri=college-baseball/4270/4270-4270-4270
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e242971f3dd7ed3140e6a8f2e6b901eb-thumbnail.jpg" group-title="Baseball",Indiana Hoosiers vs. North Carolina Tar Heels
 https://abc.com/stream?uri=college-baseball/9784/9784-9784-9784
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/377901c0dab5398b51a22ec05adb335c-thumbnail.jpg" group-title="Baseball",Arizona Wildcats vs. Oregon State Beavers
@@ -37,8 +25,6 @@ https://abc.com/stream?uri=college-baseball/2307/2307-2307-2307
 https://abc.com/stream?uri=college-baseball/6052/6052-6052-6052
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5de9db5d7bb1739914769e54b7a6f853-thumbnail.jpg" group-title="Baseball",TCU Horned Frogs vs. Arkansas Razorbacks
 https://abc.com/stream?uri=college-baseball/3024/3024-3024-3024
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b1a285e733abe26c432ae9fa075c12fe-thumbnail.jpg" group-title="Basketball",Pittsburgh Panthers vs. North Carolina Tar Heels
-https://abc.com/stream?uri=cbb/2282/2282-unc
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b247340765c6c4dd8654fb36e6eba40a-thumbnail.jpg" group-title="Basketball",Kentucky Wildcats vs. Florida Gators
 https://abc.com/stream?uri=cbb/2886/2886-fla
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8b538a8ce6dd907355a728ccd40ecedf-thumbnail.jpg" group-title="Basketball",Kansas State Wildcats vs. Houston Cougars
@@ -75,12 +61,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a4af316e27b456dc68bfb0f24e8448d2-thumbnail.jpg" group-title="Football",Real Madrid vs. Real Sociedad
-https://abc.com/stream?uri=laliga/2026-02-14/rma-rso
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d67a8ec69165f03eb74d53b1e72f5abe-thumbnail.jpg" group-title="Football",Liverpool vs. Brighton & Hove Albion
-https://abc.com/stream?uri=english-fa-cup/2026-02-14/liv-bha
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9c5639aea222aa0d6fa3c954153cb935-thumbnail.jpg" group-title="Football",Paris FC vs. Lens
-https://abc.com/stream?uri=ligue1/2026-02-14/par-rcl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2ffec89e07c9ce9fadf34bc5e05f088-thumbnail.jpg" group-title="Football",Udinese vs. Sassuolo
 https://abc.com/stream?uri=seriea/2026-02-15/udi-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4c55f036a58d846b57923b3d1cbdf708-thumbnail.jpg" group-title="Football",Birmingham City vs. Leeds United
