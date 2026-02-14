@@ -9,22 +9,12 @@ https://modistreams.org/embed/olympics/2026-02-14/curling/italy-vs-sweden-w-roun
 https://modistreams.org/embed/olympics/2026-02-14/curling/japan-vs-usa-w-round-robin-1771092300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/349703ce85505ad739c2439432891e65-thumbnail.jpg" group-title="2026 Winter Olympics",South Korea vs. Denmark (W Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-14/curling/south-korea-vs-denmark-w-round-robin-1771092300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/084a5ee4762fb452a7fd95852f9942c8-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Freeski Big Air: Qualifying
-https://modistreams.org/embed/olympics/2026-02-14/freestyle-skiing/womens-freeski-big-air-qualifying-1771093800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1059adade2d7cef707b2d3c776c6b1cf-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1500m Finals & More
 https://modistreams.org/embed/olympics/2026-02-14/short-track/mens-1500m-finals--more-1771096500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/777aa6aa4b57f441d0268d18ca8284ca-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Switzerland (W Quarterfinal)
 https://modistreams.org/embed/olympics/2026-02-14/hockey/finland-vs-switzerland-w-quarterfinal-1771099800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dcb9fe9f12057527ae310dc9e964791f-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Denmark (Men's Group C)
 https://modistreams.org/embed/olympics/2026-02-14/hockey/usa-vs-denmark-mens-group-c-1771099800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e242971f3dd7ed3140e6a8f2e6b901eb-thumbnail.jpg" group-title="Baseball",Indiana Hoosiers vs. North Carolina Tar Heels
-https://modistreams.org/embed/college-baseball/8007/8007-8007-8007
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3250e45e3b7bca173a362d37cd44e50a-thumbnail.jpg" group-title="Baseball",Army Black Knights vs. Clemson Tigers
-https://modistreams.org/embed/college-baseball/9167/9167-9167-9167
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/353ae27469340d9508e8d978ee23dadf-thumbnail.jpg" group-title="Baseball",Vanderbilt Commodores vs. Texas Tech Red Raiders
-https://modistreams.org/embed/college-baseball/5393/5393-5393-5393
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/017f0368b9fcc88ad91bd106ad8b0351-thumbnail.jpg" group-title="Baseball",Tennessee Tech Golden Eagles vs. Texas A&M Aggies
-https://modistreams.org/embed/college-baseball/3112/3112-3112-3112
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d9a3c32077e8a5ff653b2cb2423f8be1-thumbnail.jpg" group-title="Baseball",UC Davis Aggies vs. Texas Longhorns
 https://modistreams.org/embed/college-baseball/3939/3939-3939-3939
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/db6bdcb13ae8bb71b0741c94adef870e-thumbnail.jpg" group-title="Baseball",Bowling Green Falcons vs. Georgia Tech Yellow Jackets
@@ -77,8 +67,6 @@ https://modistreams.org/embed/college-baseball/2307/2307-2307-2307
 https://modistreams.org/embed/college-baseball/6052/6052-6052-6052
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5de9db5d7bb1739914769e54b7a6f853-thumbnail.jpg" group-title="Baseball",TCU Horned Frogs vs. Arkansas Razorbacks
 https://modistreams.org/embed/college-baseball/3024/3024-3024-3024
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eea31f44346f15f11b48ea665786c155-thumbnail.jpg" group-title="Basketball",Clemson Tigers vs. Duke Blue Devils
-https://modistreams.org/embed/cbb/3716/3716-duke
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6f97ea13f3e8882dedb81c34993c8dba-thumbnail.jpg" group-title="Basketball",UCLA Bruins vs. Michigan Wolverines
 https://modistreams.org/embed/cbb/5547/5547-mich
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4771d628ab1564525c8f643bad8d18d8-thumbnail.jpg" group-title="Basketball",Kansas Jayhawks vs. Iowa State Cyclones
@@ -127,8 +115,6 @@ https://modistreams.org/embed/players-championship-board-2
 https://modistreams.org/embed/players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://modistreams.org/embed/players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2dafafe9607c03a1d71746309409ce22-thumbnail.jpg" group-title="Football",Lille vs. Brest
-https://modistreams.org/embed/ligue1/2026-02-14/lill-bre
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e8dc5a792c4d9143a31e740ec5126b89-thumbnail.jpg" group-title="Football",Inter Milan vs. Juventus
 https://modistreams.org/embed/seriea/2026-02-14/int-juv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a4af316e27b456dc68bfb0f24e8448d2-thumbnail.jpg" group-title="Football",Real Madrid vs. Real Sociedad
