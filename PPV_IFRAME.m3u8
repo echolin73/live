@@ -7,8 +7,6 @@ https://abc.com/stream?uri=olympics/2026-02-14/hockey/canada-vs-germany-w-quarte
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-italy-mens-group-b-1771083600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7229f9dbc28266abcaa6942d471d0458-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Large Hill
 https://abc.com/stream?uri=olympics/2026-02-14/ski-jumping/mens-large-hill-1771086600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26cc39957c27d0fbe85760cd335a37e9-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Skeleton: Run 3
-https://abc.com/stream?uri=olympics/2026-02-14/skeleton/womens-skeleton-run-3-1771088400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f4f58d749291f562d9cc21d22d94d436-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (W Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-14/curling/canada-vs-switzerland-w-round-robin-1771092300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/87ce3a4490b67aedc27770c12eed2c57-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Sweden (W Round-Robin)
@@ -139,16 +137,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2d650151fd2a15783dc0904a78da6532-thumbnail.jpg" group-title="Football",Burnley vs. Mansfield Town
-https://abc.com/stream?uri=english-fa-cup/2026-02-14/bur-mnf
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7e8419a0ac134601bf03e02d489ff507-thumbnail.jpg" group-title="Football",Manchester City vs. Salford City
-https://abc.com/stream?uri=english-fa-cup/2026-02-14/mnc-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b208daa836e302c71628aeed80d5ac4-thumbnail.jpg" group-title="Football",Southampton vs. Leicester City
-https://abc.com/stream?uri=english-fa-cup/2026-02-14/sou-lei
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9d8d2decfe97eb2949fedc872c128a24-thumbnail.jpg" group-title="Football",FA Cup Goals Show
-https://abc.com/stream?uri=english-fa-cup/2026-02-14/goals-show
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/aaf250e4ffca4369286d3b20387997c7-thumbnail.jpg" group-title="Football",Getafe vs. Villarreal
-https://abc.com/stream?uri=laliga/2026-02-14/get-vil
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bea9bd852dac732ea57d1ea15e9f6b43-thumbnail.jpg" group-title="Football",Marseille vs. Strasbourg
 https://abc.com/stream?uri=ligue1/2026-02-14/olm-str
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9a6faadcec0d08ec551d6a52a421f502-thumbnail.jpg" group-title="Football",Lazio vs. Atalanta
