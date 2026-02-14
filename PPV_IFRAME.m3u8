@@ -141,8 +141,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2dd253bcd686ac6641b73f7d9e4519ab-thumbnail.jpg" group-title="Football",Como vs. Fiorentina
-https://abc.com/stream?uri=seriea/2026-02-14/como-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2c4ff2f9c154b0a09e5a503527b2d416-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. St. Pauli
 https://abc.com/stream?uri=bundesliga/2026-02-14/b04-stp
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c83f83c485f78c39df1e8bf4df7475d7-thumbnail.jpg" group-title="Football",Eintracht Frankfurt vs. Borussia Mönchengladbach
