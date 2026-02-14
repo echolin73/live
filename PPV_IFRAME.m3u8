@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f700b225cafaa4bf9ad7431b1a68864f-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Giant Slalom: Run 2
-https://abc.com/stream?uri=olympics/2026-02-14/alpine-skiing/mens-giant-slalom-run-2-1771071600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 8
 https://abc.com/stream?uri=olympics/2026-02-14/gold-zone-day-8-1771074000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/38a555f81059d47179648027f26a7d54-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Great Britain (M Round-Robin)
@@ -141,6 +139,8 @@ https://abc.com/stream?uri=english-fa-cup/2026-02-14/bur-mnf
 https://abc.com/stream?uri=english-fa-cup/2026-02-14/mnc-sal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b208daa836e302c71628aeed80d5ac4-thumbnail.jpg" group-title="Football",Southampton vs. Leicester City
 https://abc.com/stream?uri=english-fa-cup/2026-02-14/sou-lei
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9d8d2decfe97eb2949fedc872c128a24-thumbnail.jpg" group-title="Football",FA Cup Goals Show
+https://abc.com/stream?uri=english-fa-cup/2026-02-14/goals-show
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/aaf250e4ffca4369286d3b20387997c7-thumbnail.jpg" group-title="Football",Getafe vs. Villarreal
 https://abc.com/stream?uri=laliga/2026-02-14/get-vil
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bea9bd852dac732ea57d1ea15e9f6b43-thumbnail.jpg" group-title="Football",Marseille vs. Strasbourg
