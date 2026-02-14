@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 8
 https://abc.com/stream?uri=olympics/2026-02-14/gold-zone-day-8-1771074000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d91ddb7ba60bde87bd1a2d1ad7823ec4-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Germany (W Quarterfinal)
-https://abc.com/stream?uri=olympics/2026-02-14/hockey/canada-vs-germany-w-quarterfinal-1771083600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/191b3dec4a92ebda7feaa6f3b6c2d326-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Italy (Men's Group B)
-https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-italy-mens-group-b-1771083600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7229f9dbc28266abcaa6942d471d0458-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Large Hill
 https://abc.com/stream?uri=olympics/2026-02-14/ski-jumping/mens-large-hill-1771086600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f4f58d749291f562d9cc21d22d94d436-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (W Round-Robin)
@@ -25,8 +21,6 @@ https://abc.com/stream?uri=olympics/2026-02-14/short-track/mens-1500m-finals--mo
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-switzerland-w-quarterfinal-1771099800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dcb9fe9f12057527ae310dc9e964791f-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Denmark (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/usa-vs-denmark-mens-group-c-1771099800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0d9d0059e9f9a195c9795dacad95afdd-thumbnail.jpg" group-title="Baseball",NC State Wolfpack vs. Indiana State Sycamores
-https://abc.com/stream?uri=college-baseball/8383/8383-8383-8383
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e242971f3dd7ed3140e6a8f2e6b901eb-thumbnail.jpg" group-title="Baseball",Indiana Hoosiers vs. North Carolina Tar Heels
 https://abc.com/stream?uri=college-baseball/8007/8007-8007-8007
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3250e45e3b7bca173a362d37cd44e50a-thumbnail.jpg" group-title="Baseball",Army Black Knights vs. Clemson Tigers
@@ -47,8 +41,6 @@ https://abc.com/stream?uri=college-baseball/2590/2590-2590-2590
 https://abc.com/stream?uri=college-baseball/7462/7462-7462-7462
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/acefa5e7a294eb42c0773f6773f65283-thumbnail.jpg" group-title="Baseball",Wright State Raiders vs. Georgia Bulldogs
 https://abc.com/stream?uri=college-baseball/3192/3192-3192-3192
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7be0e4d6febba605df32fd9bcf86d31c-thumbnail.jpg" group-title="Baseball",Kentucky Wildcats vs. UNC Greensboro Spartans
-https://abc.com/stream?uri=college-baseball/2357/2357-2357-2357
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0f968300a05221e739624fdbf694c2a1-thumbnail.jpg" group-title="Baseball",UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles
 https://abc.com/stream?uri=college-baseball/1708/1708-1708-1708
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/34433531db2fdcd4cbd941c41f078456-thumbnail.jpg" group-title="Baseball",Nevada vs Ole Miss
