@@ -129,8 +129,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9a6faadcec0d08ec551d6a52a421f502-thumbnail.jpg" group-title="Football",Lazio vs. Atalanta
-https://abc.com/stream?uri=seriea/2026-02-14/laz-ata
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2c6e6b84dd5fc2df44fe31a52fbbfd3d-thumbnail.jpg" group-title="Football",Sevilla vs. Alavés
 https://abc.com/stream?uri=laliga/2026-02-14/sev-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ce42405ef471520dedd5cc4df25164fc-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. FC Cologne
@@ -195,6 +193,12 @@ https://abc.com/stream?uri=seriea/2026-02-16/cag-lec
 https://abc.com/stream?uri=laliga/2026-02-16/gir-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Seattle
 https://abc.com/stream?uri=smx-wk6
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1579f134cd9dd96fad9cc7e4be79cb16-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 1
+https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3f2d22d743f0cab5487804414979be16-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 2
+https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
+https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://abc.com/stream?uri=aew/collision/2026-02-14
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
