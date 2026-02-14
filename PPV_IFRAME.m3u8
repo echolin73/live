@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 8
-https://abc.com/stream?uri=olympics/2026-02-14/gold-zone-day-8-1771074000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1059adade2d7cef707b2d3c776c6b1cf-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1500m Finals & More
-https://abc.com/stream?uri=olympics/2026-02-14/short-track/mens-1500m-finals--more-1771096500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/777aa6aa4b57f441d0268d18ca8284ca-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Switzerland (W Quarterfinal)
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-switzerland-w-quarterfinal-1771099800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dcb9fe9f12057527ae310dc9e964791f-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Denmark (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/usa-vs-denmark-mens-group-c-1771099800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/34433531db2fdcd4cbd941c41f078456-thumbnail.jpg" group-title="Baseball",Nevada vs Ole Miss
-https://abc.com/stream?uri=college-baseball/895
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/534f5479e127a99ee8dc3f49c4902bf8-thumbnail.jpg" group-title="Baseball",Milwaukee Panthers vs. LSU Tigers
 https://abc.com/stream?uri=college-baseball/3779/3779-3779-3779
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6cd9be8364255179aad0fe6749543684-thumbnail.jpg" group-title="Baseball",Hofstra Pride vs. Mississippi State Bulldogs
@@ -33,8 +27,6 @@ https://abc.com/stream?uri=college-baseball/1295/1295-1295-1295
 https://abc.com/stream?uri=college-baseball/5313/5313-5313-5313
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/db6bdcb13ae8bb71b0741c94adef870e-thumbnail.jpg" group-title="Baseball",Bowling Green Falcons vs. Georgia Tech Yellow Jackets
 https://abc.com/stream?uri=college-baseball/4789/4789-4789-4789
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7be0e4d6febba605df32fd9bcf86d31c-thumbnail.jpg" group-title="Baseball",Kentucky Wildcats vs. UNC Greensboro Spartans
-https://abc.com/stream?uri=college-baseball/6098/6098-6098-6098
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dc722b8ec1f41b52d10f6f04f178ed6c-thumbnail.jpg" group-title="Baseball",UAB Blazers vs. Florida Gators
 https://abc.com/stream?uri=college-baseball/8146/8146-8146-8146
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d251549d7256c5788e132881a55f18c4-thumbnail.jpg" group-title="Baseball",Lehigh Mountain Hawks vs. Miami Hurricanes
@@ -83,8 +75,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e8dc5a792c4d9143a31e740ec5126b89-thumbnail.jpg" group-title="Football",Inter Milan vs. Juventus
-https://abc.com/stream?uri=seriea/2026-02-14/int-juv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a4af316e27b456dc68bfb0f24e8448d2-thumbnail.jpg" group-title="Football",Real Madrid vs. Real Sociedad
 https://abc.com/stream?uri=laliga/2026-02-14/rma-rso
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d67a8ec69165f03eb74d53b1e72f5abe-thumbnail.jpg" group-title="Football",Liverpool vs. Brighton & Hove Albion
