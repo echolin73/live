@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 9
 https://abc.com/stream?uri=olympics/2026-02-15/gold-zone-day-9-1771160400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80283c59fc5175190ed580a81dd91c48-thumbnail.jpg" group-title="2026 Winter Olympics",Figure Skating: Training
-https://abc.com/stream?uri=olympics/2026-02-15/figure-skating/figure-skating-training-1771168800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dfe7b870f0e0369c678690168fc53479-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Large Hill
 https://abc.com/stream?uri=olympics/2026-02-15/ski-jumping/womens-large-hill-1771173300
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f14c9607b40d0a8eaec31ee22873af47-thumbnail.jpg" group-title="2026 Winter Olympics",Skeleton Mixed Team Event
-https://abc.com/stream?uri=olympics/2026-02-15/skeleton/skeleton-mixed-team-event-1771174800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6f1a1a6a0026e7b15c84c75a562d91c2-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Canada (M Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-15/curling/china-vs-canada-m-round-robin-1771178700
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/48aa2d387ab7f8bea8586e0a08e27fcd-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Switzerland (M Round-Robin)
@@ -65,14 +61,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/49addc76c965115977b9a11aeb1b294a-thumbnail.jpg" group-title="Football",Lorient vs. Angers
-https://abc.com/stream?uri=ligue1/2026-02-15/lor-ang
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5177cd1fbd5c0c089082a2e509a20d9d-thumbnail.jpg" group-title="Football",Metz vs. AJ Auxerre
-https://abc.com/stream?uri=ligue1/2026-02-15/metz-aux
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ea1cff81d6245d0baecf484aa2ba7c57-thumbnail.jpg" group-title="Football",RB Leipzig vs. VfL Wolfsburg
-https://abc.com/stream?uri=bundesliga/2026-02-15/rbl-wob
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e0719e95f08b7c127d13a17bc6002072-thumbnail.jpg" group-title="Football",Arsenal vs. Wigan Athletic
-https://abc.com/stream?uri=english-fa-cup/2026-02-15/ars-wga
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dd01dddb7f4c7b581b0bc0b874111bec-thumbnail.jpg" group-title="Football",Torino vs. Bologna
 https://abc.com/stream?uri=seriea/2026-02-15/tor-bol
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3c55b2e09456c22c2a52e71b781ac113-thumbnail.jpg" group-title="Football",Levante vs. Valencia
