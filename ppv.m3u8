@@ -5,8 +5,6 @@ https://modistreams.org/embed/olympics/2026-02-15/gold-zone-day-9-1771160400
 https://modistreams.org/embed/olympics/2026-02-15/figure-skating/figure-skating-training-1771168800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a5317b1c892187d1435732d9b01abc24-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. France (Men's Group A)
 https://modistreams.org/embed/olympics/2026-02-15/hockey/canada-vs-france-mens-group-a-1771170000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1c37334d091be04eb5060f7df32f52ce-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 500m
-https://modistreams.org/embed/olympics/2026-02-15/speed-skating/womens-500m-1771171200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3ec703caa60836140fa11ba238274e50-thumbnail.jpg" group-title="2026 Winter Olympics",Pairs Short: Warm-Up
 https://modistreams.org/embed/olympics/2026-02-15/figure-skating/pairs-short-warm-up-1771172400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dfe7b870f0e0369c678690168fc53479-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Large Hill
@@ -71,16 +69,6 @@ https://modistreams.org/embed/players-championship-board-2
 https://modistreams.org/embed/players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://modistreams.org/embed/players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/147fa5a65f654e4eeb8c2b6d5337ff7c-thumbnail.jpg" group-title="Football",Cremonese vs. Genoa
-https://modistreams.org/embed/seriea/2026-02-15/cre-gen
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da416c5ab0f23cd4306ac98f50398ec1-thumbnail.jpg" group-title="Football",Parma vs. Hellas Verona
-https://modistreams.org/embed/seriea/2026-02-15/par-ver
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ca905e4545e3ac12345aed638ea86a41-thumbnail.jpg" group-title="Football",Le Havre AC vs. Toulouse
-https://modistreams.org/embed/ligue1/2026-02-15/hac-tou
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a4db067a8c247ac542df5eef475bfead-thumbnail.jpg" group-title="Football",Oxford United vs. Sunderland
-https://modistreams.org/embed/english-fa-cup/2026-02-15/oxf-sun
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d1ccf681a99d9ab7d492f6a1b2d3c6a7-thumbnail.jpg" group-title="Football",Stoke City vs. Fulham
-https://modistreams.org/embed/english-fa-cup/2026-02-15/stk-ful
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0dbfe61cf2a377045db6944861de3744-thumbnail.jpg" group-title="Football",FC Augsburg vs. 1. FC Heidenheim 1846
 https://modistreams.org/embed/bundesliga/2026-02-15/fca-hdh
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/989ade813a9e2128219cb9f70ba24ef8-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Atlético Madrid
