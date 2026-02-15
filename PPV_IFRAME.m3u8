@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 9
-https://abc.com/stream?uri=olympics/2026-02-15/gold-zone-day-9-1771160400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3ec703caa60836140fa11ba238274e50-thumbnail.jpg" group-title="2026 Winter Olympics",Pairs Short (Venue Feed)
-https://abc.com/stream?uri=olympics/2026-02-15/figure-skating/pairs-short-venue-feed-1771181100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a7353caee8faaace8f35765c7d3530df-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Germany (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-15/hockey/usa-vs-germany-mens-group-c-1771186200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/534f5479e127a99ee8dc3f49c4902bf8-thumbnail.jpg" group-title="Baseball",Milwaukee Panthers vs. LSU Tigers
@@ -33,10 +29,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c3fc2d6bef7189f5663e4e028629e81a-thumbnail.jpg" group-title="Football",Napoli vs. AS Roma
-https://abc.com/stream?uri=seriea/2026-02-15/nap-roma
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2f47ed367b5183ea015382d45fb32500-thumbnail.jpg" group-title="Football",Lyon vs. Nice
-https://abc.com/stream?uri=ligue1/2026-02-15/lyon-nice
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ea7c3887c2a8aba4d4f61b4e3df6f4d-thumbnail.jpg" group-title="Football",Mallorca vs. Real Betis
 https://abc.com/stream?uri=laliga/2026-02-15/mll-bet
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0399f8fce002a90910ea0684e5320eea-thumbnail.jpg" group-title="Football",Macclesfield FC vs. Brentford
