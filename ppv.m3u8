@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 9
 https://modistreams.org/embed/olympics/2026-02-15/gold-zone-day-9-1771160400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2471f111e599ad78de8b93231777a480-thumbnail.jpg" group-title="2026 Winter Olympics",Denmark vs. Italy (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-15/curling/denmark-vs-italy-w-round-robin-1771160700
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5572e39a01082c141459b021529d7bb0-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Sweden (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-15/curling/great-britain-vs-sweden-w-round-robin-1771160700
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5eddda3e358257d0972b87badccb6ef6-thumbnail.jpg" group-title="2026 Winter Olympics",Japan vs. South Korea (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-15/curling/japan-vs-south-korea-w-round-robin-1771160700
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5c52dd204475da45ed76f266a1770f49-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. China (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-15/curling/usa-vs-china-w-round-robin-1771160700
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80283c59fc5175190ed580a81dd91c48-thumbnail.jpg" group-title="2026 Winter Olympics",Figure Skating: Training
 https://modistreams.org/embed/olympics/2026-02-15/figure-skating/figure-skating-training-1771168800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a5317b1c892187d1435732d9b01abc24-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. France (Men's Group A)
@@ -79,8 +71,6 @@ https://modistreams.org/embed/players-championship-board-2
 https://modistreams.org/embed/players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://modistreams.org/embed/players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/174a3380e195a371da56aa31070f3213-thumbnail.jpg" group-title="Football",Grimsby Town vs. Wolverhampton Wanderers
-https://modistreams.org/embed/english-fa-cup/2026-02-15/gri-wol
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/147fa5a65f654e4eeb8c2b6d5337ff7c-thumbnail.jpg" group-title="Football",Cremonese vs. Genoa
 https://modistreams.org/embed/seriea/2026-02-15/cre-gen
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da416c5ab0f23cd4306ac98f50398ec1-thumbnail.jpg" group-title="Football",Parma vs. Hellas Verona
@@ -119,6 +109,8 @@ https://modistreams.org/embed/english-fa-cup/2026-02-16/mfc-bre
 https://modistreams.org/embed/seriea/2026-02-16/cag-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab1535147003838a3f4d399316ba9dda-thumbnail.jpg" group-title="Football",Girona vs. Barcelona
 https://modistreams.org/embed/laliga/2026-02-16/gir-bar
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f38c6f9be7ebd4ad9a9bd8c24526cdaf-thumbnail.jpg" group-title="Motorsports",NASCAR Cup Series: Daytona 500
+https://modistreams.org/embed/nascar-cup-series-daytona-500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1579f134cd9dd96fad9cc7e4be79cb16-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 1
 https://modistreams.org/embed/f1/2026/pre-season-testing-2/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3f2d22d743f0cab5487804414979be16-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 2
