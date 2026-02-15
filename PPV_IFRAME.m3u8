@@ -19,8 +19,6 @@ https://abc.com/stream?uri=olympics/2026-02-15/freestyle-skiing/mens-freeski-big
 https://abc.com/stream?uri=olympics/2026-02-15/figure-skating/pairs-short-venue-feed-1771181100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a7353caee8faaace8f35765c7d3530df-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Germany (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-15/hockey/usa-vs-germany-mens-group-c-1771186200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2a12b01960a532c093886dd9810e5209-thumbnail.jpg" group-title="Baseball",NC State Wolfpack vs. Seton Hall Pirates
-https://abc.com/stream?uri=college-baseball/3508/3508-3508-3508
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/af044ce0a5c833d9adcacdedda4d41a3-thumbnail.jpg" group-title="Baseball",Vanderbilt Commodores vs. Oklahoma State Cowboys
 https://abc.com/stream?uri=college-baseball/1511/1511-1511-1511
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d251549d7256c5788e132881a55f18c4-thumbnail.jpg" group-title="Baseball",Lehigh Mountain Hawks vs. Miami Hurricanes
@@ -51,6 +49,8 @@ https://abc.com/stream?uri=college-baseball/8812/8812-8812-8812
 https://abc.com/stream?uri=college-baseball/9482/9482-9482-9482
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/96b04dcfd85a9c462138393f7e791049-thumbnail.jpg" group-title="Basketball",Indiana Hoosiers vs. Illinois Fighting Illini (Basketball)
 https://abc.com/stream?uri=cbb/1660/1660-ill
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6119ab0af41e7822091ccc24bd1b2239-thumbnail.jpg" group-title="Basketball",75th NBA All-Star Game
+https://abc.com/stream?uri=75th-nba-all-star-game
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2648490806f1849768a886b4cf21df80-thumbnail.jpg" group-title="Combat Sports",Zuffa Boxing 03
 https://abc.com/stream?uri=zuffa-boxing-03
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 1
@@ -61,8 +61,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dd01dddb7f4c7b581b0bc0b874111bec-thumbnail.jpg" group-title="Football",Torino vs. Bologna
-https://abc.com/stream?uri=seriea/2026-02-15/tor-bol
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3c55b2e09456c22c2a52e71b781ac113-thumbnail.jpg" group-title="Football",Levante vs. Valencia
 https://abc.com/stream?uri=laliga/2026-02-15/lev-val
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c3fc2d6bef7189f5663e4e028629e81a-thumbnail.jpg" group-title="Football",Napoli vs. AS Roma
