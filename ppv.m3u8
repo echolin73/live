@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b96f79894a3185ecc695eb3b83a057e4-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Giant Slalom: Run 2
-https://modistreams.org/embed/olympics/2026-02-15/alpine-skiing/womens-giant-slalom-run-2-1771158000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e9c57768e6eb9f540f96978d52a90506-thumbnail.jpg" group-title="2026 Winter Olympics",Mixed Team Snowboard Cross: Finals
-https://modistreams.org/embed/olympics/2026-02-15/snowboarding/mixed-team-snowboard-cross-finals-1771159500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 9
 https://modistreams.org/embed/olympics/2026-02-15/gold-zone-day-9-1771160400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2471f111e599ad78de8b93231777a480-thumbnail.jpg" group-title="2026 Winter Olympics",Denmark vs. Italy (W Round-Robin)
@@ -87,8 +83,6 @@ https://modistreams.org/embed/players-championship-board-2
 https://modistreams.org/embed/players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://modistreams.org/embed/players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2ffec89e07c9ce9fadf34bc5e05f088-thumbnail.jpg" group-title="Football",Udinese vs. Sassuolo
-https://modistreams.org/embed/seriea/2026-02-15/udi-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4c55f036a58d846b57923b3d1cbdf708-thumbnail.jpg" group-title="Football",Birmingham City vs. Leeds United
 https://modistreams.org/embed/english-fa-cup/2026-02-15/bir-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fdd586fed675b520cef2b6478d273636-thumbnail.jpg" group-title="Football",Real Oviedo vs. Athletic Club
