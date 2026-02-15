@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/93f6c3bcec93e598cb27c60ba7688f7b-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 4x7.5km Relay
-https://modistreams.org/embed/olympics/2026-02-15/cross-country-skiing/mens-4x75km-relay-1771153200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a3f91e2e4b4ecb8d111d4c4df477f515-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Czechia (Men's Group A)
-https://modistreams.org/embed/olympics/2026-02-15/hockey/switzerland-vs-czechia-mens-group-a-1771153800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b96f79894a3185ecc695eb3b83a057e4-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Giant Slalom: Run 2
 https://modistreams.org/embed/olympics/2026-02-15/alpine-skiing/womens-giant-slalom-run-2-1771158000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e9c57768e6eb9f540f96978d52a90506-thumbnail.jpg" group-title="2026 Winter Olympics",Mixed Team Snowboard Cross: Finals
