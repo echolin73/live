@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 9
 https://modistreams.org/embed/olympics/2026-02-15/gold-zone-day-9-1771160400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dfe7b870f0e0369c678690168fc53479-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Large Hill
-https://modistreams.org/embed/olympics/2026-02-15/ski-jumping/womens-large-hill-1771173300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6f1a1a6a0026e7b15c84c75a562d91c2-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Canada (M Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-15/curling/china-vs-canada-m-round-robin-1771178700
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/48aa2d387ab7f8bea8586e0a08e27fcd-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Switzerland (M Round-Robin)
@@ -19,8 +17,6 @@ https://modistreams.org/embed/olympics/2026-02-15/freestyle-skiing/mens-freeski-
 https://modistreams.org/embed/olympics/2026-02-15/figure-skating/pairs-short-venue-feed-1771181100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a7353caee8faaace8f35765c7d3530df-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Germany (Men's Group C)
 https://modistreams.org/embed/olympics/2026-02-15/hockey/usa-vs-germany-mens-group-c-1771186200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/af044ce0a5c833d9adcacdedda4d41a3-thumbnail.jpg" group-title="Baseball",Vanderbilt Commodores vs. Oklahoma State Cowboys
-https://modistreams.org/embed/college-baseball/1511/1511-1511-1511
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d251549d7256c5788e132881a55f18c4-thumbnail.jpg" group-title="Baseball",Lehigh Mountain Hawks vs. Miami Hurricanes
 https://modistreams.org/embed/college-baseball/6555/6555-6555-6555
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d9a3c32077e8a5ff653b2cb2423f8be1-thumbnail.jpg" group-title="Baseball",UC Davis Aggies vs. Texas Longhorns
@@ -61,8 +57,6 @@ https://modistreams.org/embed/players-championship-board-2
 https://modistreams.org/embed/players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://modistreams.org/embed/players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3c55b2e09456c22c2a52e71b781ac113-thumbnail.jpg" group-title="Football",Levante vs. Valencia
-https://modistreams.org/embed/laliga/2026-02-15/lev-val
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c3fc2d6bef7189f5663e4e028629e81a-thumbnail.jpg" group-title="Football",Napoli vs. AS Roma
 https://modistreams.org/embed/seriea/2026-02-15/nap-roma
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2f47ed367b5183ea015382d45fb32500-thumbnail.jpg" group-title="Football",Lyon vs. Nice
