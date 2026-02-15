@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a7353caee8faaace8f35765c7d3530df-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Germany (Men's Group C)
-https://abc.com/stream?uri=olympics/2026-02-15/hockey/usa-vs-germany-mens-group-c-1771186200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/534f5479e127a99ee8dc3f49c4902bf8-thumbnail.jpg" group-title="Baseball",Milwaukee Panthers vs. LSU Tigers
-https://abc.com/stream?uri=college-baseball/9352/9352-9352-9352
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fefa85bbc6d5768ad588a9e0a30c9aa1-thumbnail.jpg" group-title="Baseball",Oregon State Beavers vs. Stanford Cardinal
-https://abc.com/stream?uri=college-baseball/9223/9223-9223-9223
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6f096e9d64666f8a260846e96de35422-thumbnail.jpg" group-title="Baseball",Wake Forest Demon Deacons vs. Indiana State Sycamores
 https://abc.com/stream?uri=college-baseball/2947/2947-2947-2947
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e03280b61b627d2219d354364c1342a9-thumbnail.jpg" group-title="Baseball",Texas Tech Red Raiders vs. Arkansas Razorbacks
@@ -29,8 +23,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ea7c3887c2a8aba4d4f61b4e3df6f4d-thumbnail.jpg" group-title="Football",Mallorca vs. Real Betis
-https://abc.com/stream?uri=laliga/2026-02-15/mll-bet
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0399f8fce002a90910ea0684e5320eea-thumbnail.jpg" group-title="Football",Macclesfield FC vs. Brentford
 https://abc.com/stream?uri=english-fa-cup/2026-02-16/mfc-bre
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/73499831dc8eaf0f01edf611cea6257c-thumbnail.jpg" group-title="Football",Cagliari vs. Lecce
