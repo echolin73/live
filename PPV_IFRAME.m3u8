@@ -67,8 +67,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/989ade813a9e2128219cb9f70ba24ef8-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Atlético Madrid
-https://abc.com/stream?uri=laliga/2026-02-15/ray-atm
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/49addc76c965115977b9a11aeb1b294a-thumbnail.jpg" group-title="Football",Lorient vs. Angers
 https://abc.com/stream?uri=ligue1/2026-02-15/lor-ang
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5177cd1fbd5c0c089082a2e509a20d9d-thumbnail.jpg" group-title="Football",Metz vs. AJ Auxerre
