@@ -69,22 +69,8 @@ https://abc.com/stream?uri=olympics/2026-02-15/freestyle-skiing/mens-freeski-big
 https://abc.com/stream?uri=olympics/2026-02-15/figure-skating/pairs-short-venue-feed-1771181100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a7353caee8faaace8f35765c7d3530df-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Germany (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-15/hockey/usa-vs-germany-mens-group-c-1771186200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/db6bdcb13ae8bb71b0741c94adef870e-thumbnail.jpg" group-title="Baseball",Bowling Green Falcons vs. Georgia Tech Yellow Jackets
-https://abc.com/stream?uri=college-baseball/4789/4789-4789-4789
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dc722b8ec1f41b52d10f6f04f178ed6c-thumbnail.jpg" group-title="Baseball",UAB Blazers vs. Florida Gators
-https://abc.com/stream?uri=college-baseball/8146/8146-8146-8146
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d251549d7256c5788e132881a55f18c4-thumbnail.jpg" group-title="Baseball",Lehigh Mountain Hawks vs. Miami Hurricanes
-https://abc.com/stream?uri=college-baseball/1183/1183-1183-1183
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c29792e7a350f04a185a3523bff4f38c-thumbnail.jpg" group-title="Baseball",Youngstown State Penguins vs. Auburn Tigers
-https://abc.com/stream?uri=college-baseball/2307/2307-2307-2307
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/229eb5592e99da917bb5cdb985f06def-thumbnail.jpg" group-title="Baseball",Wake Forest Demon Deacons vs. Washington Huskies
-https://abc.com/stream?uri=college-baseball/6052/6052-6052-6052
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5de9db5d7bb1739914769e54b7a6f853-thumbnail.jpg" group-title="Baseball",TCU Horned Frogs vs. Arkansas Razorbacks
 https://abc.com/stream?uri=college-baseball/3024/3024-3024-3024
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/84cafaf67fa54deefce2fd3e8f74f28c-thumbnail.jpg" group-title="Basketball",NBA All-Star Saturday
-https://abc.com/stream?uri=nba/2026-02-14/all-star
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f54ecbcf34608927537c461d0f123503-thumbnail.jpg" group-title="Basketball",Texas Tech Red Raiders vs. Arizona Wildcats
-https://abc.com/stream?uri=cbb/7913/7913-ariz
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ed618486955da5f5fdf3c052de76058e-thumbnail.jpg" group-title="Basketball",Georgetown Hoyas vs. UConn Huskies
 https://abc.com/stream?uri=cbb/5813/5813-conn
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0e283a67a4383e6e27ae0c7521bce5e8-thumbnail.jpg" group-title="Basketball",Virginia Cavaliers vs. Ohio State Buckeyes
@@ -155,8 +141,6 @@ https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp1
 https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
 https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
-https://abc.com/stream?uri=aew/collision/2026-02-14
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://abc.com/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
