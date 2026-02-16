@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 10
 https://modistreams.org/embed/olympics/2026-02-16/gold-zone-day-10-1771246800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bee1d079d29edf88873b3f5ab157fd3d-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Sweden (Women's Semifinal)
-https://modistreams.org/embed/olympics/2026-02-16/hockey/usa-vs-sweden-womens-semifinal-1771256400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5674c2b1bb257bd98941c28c049f0160-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Super Team Large Hill
 https://modistreams.org/embed/olympics/2026-02-16/ski-jumping/mens-super-team-large-hill-1771261200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/64a1160a0c0305a0e870d3d24962ec84-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Monobob: Run 3
-https://modistreams.org/embed/olympics/2026-02-16/bobsled/womens-monobob-run-3-1771264800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8002cf41b967a1a287d8c98aeabb36de-thumbnail.jpg" group-title="2026 Winter Olympics",Japan vs. Canada (W Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-16/curling/japan-vs-canada-w-round-robin-1771265100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c7db0274d5a22118e17d984de51c669e-thumbnail.jpg" group-title="2026 Winter Olympics",South Korea vs. China (W Round-Robin)
@@ -47,12 +43,60 @@ https://modistreams.org/embed/english-fa-cup/2026-02-16/mfc-bre
 https://modistreams.org/embed/seriea/2026-02-16/cag-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab1535147003838a3f4d399316ba9dda-thumbnail.jpg" group-title="Football",Girona vs. Barcelona
 https://modistreams.org/embed/laliga/2026-02-16/gir-bar
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9d30ec040e29777e2aff127a80688896-thumbnail.jpg" group-title="Football",Galatasaray vs. Juventus
+https://modistreams.org/embed/ucl/2026-02-17/gal-juv
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f0863f2a99f7b348faa48ccd2fea15ba-thumbnail.jpg" group-title="Football",Monaco vs. Paris
+https://modistreams.org/embed/ucl/2026-02-17/mon-psg
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2b1324d86527129d588b9cd56a4c7117-thumbnail.jpg" group-title="Football",Benfica vs. Real Madrid
+https://modistreams.org/embed/ucl/2026-02-17/ben-rma
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/378a3e6879b64bc34bc4cd512c777a2b-thumbnail.jpg" group-title="Football",B. Dortmund vs. Atalanta
+https://modistreams.org/embed/ucl/2026-02-17/bvb-ata
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d8d27d0b0ea59c4d2d1eee5dd1a9d9b6-thumbnail.jpg" group-title="Football",Qarabağ vs. Newcastle
+https://modistreams.org/embed/ucl/2026-02-18/qar-new
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/effe76d1da950d61688c2db9271133f0-thumbnail.jpg" group-title="Football",Levante vs. Villarreal
 https://modistreams.org/embed/laliga/2026-02-18/lev-vil
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a583257ace5ab5b990634d3a411794e2-thumbnail.jpg" group-title="Football",AC Milan vs. Como
 https://modistreams.org/embed/seriea/2026-02-18/mil-como
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb25a309401af9193697ac064e9951aa-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Arsenal
 https://modistreams.org/embed/premierleague/2026-02-18/wol-ars
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9e1df0e8a42522952654bf65a28f0c4f-thumbnail.jpg" group-title="Football",Olympiacos vs. Leverkusen
+https://modistreams.org/embed/ucl/2026-02-18/oly-lev
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/77131510a9e53bd17e82e84f2f853462-thumbnail.jpg" group-title="Football",Bodø/Glimt vs. Inter
+https://modistreams.org/embed/ucl/2026-02-18/bod-int
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/01e49b58173bea1d4fd94cd5636c3fcf-thumbnail.jpg" group-title="Football",Club Brugge vs. Atleti
+https://modistreams.org/embed/ucl/2026-02-18/bru-atm
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2317f62fd81d6c6cb7c443dc16005a70-thumbnail.jpg" group-title="Football",GNK Dinamo vs. Genk
+https://modistreams.org/embed/uel/2026-02-19/din-gen
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da32826a840c81fd1403a12e6423484a-thumbnail.jpg" group-title="Football",PAOK vs. Celta
+https://modistreams.org/embed/uel/2026-02-19/paok-clt
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/689683e59432342c57086279124dbe06-thumbnail.jpg" group-title="Football",Brann vs. Bologna
+https://modistreams.org/embed/uel/2026-02-19/brn-bol
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5fdf81cf2371db4424413c171fbf9c62-thumbnail.jpg" group-title="Football",Fenerbahçe vs. Nott'm Forest
+https://modistreams.org/embed/uel/2026-02-19/fen-nfo
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c85ae60e2e1a70970c89adb10eed2992-thumbnail.jpg" group-title="Football",KuPS Kuopio vs. Lech Poznań
+https://modistreams.org/embed/uecl/2026-02-19/kup-lpo
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d647071ee3225c7fef4eda812aefd4d2-thumbnail.jpg" group-title="Football",Noah vs. AZ Alkmaar
+https://modistreams.org/embed/uecl/2026-02-19/noa-az
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8e83a4837c569c5c26d2817feaad20dc-thumbnail.jpg" group-title="Football",Zrinjski vs. Crystal Palace
+https://modistreams.org/embed/uecl/2026-02-19/zri-cry
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/44a2b06f28f5c4f3cc04b3377b965ee0-thumbnail.jpg" group-title="Football",Sigma Olomouc vs. Lausanne-Sport
+https://modistreams.org/embed/uecl/2026-02-19/sig-lau
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c6a2f9e1b88690d6d32bef0652bf316b-thumbnail.jpg" group-title="Football",Ludogorets vs. Ferencváros
+https://modistreams.org/embed/uel/2026-02-19/lud-fer
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/14be10e39d67c84fb1a6c68479457009-thumbnail.jpg" group-title="Football",Panathinaikos vs. Viktoria Plzeň
+https://modistreams.org/embed/uel/2026-02-19/pan-plz
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ceb1b2290e58b3091ee14eefbaf128d6-thumbnail.jpg" group-title="Football",Lille vs. Crvena Zvezda
+https://modistreams.org/embed/uel/2026-02-19/lil-zve
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/684535257a33d9265999b314924c8f71-thumbnail.jpg" group-title="Football",Celtic vs. Stuttgart
+https://modistreams.org/embed/uel/2026-02-19/cel-stu
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9b401efaf021a414ea81c86328db4ebc-thumbnail.jpg" group-title="Football",Jagiellonia vs. Fiorentina
+https://modistreams.org/embed/uecl/2026-02-19/jag-fio
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b61fd66e4731e970c71fe39ef581bb4c-thumbnail.jpg" group-title="Football",Shkëndija vs. Samsunspor
+https://modistreams.org/embed/uecl/2026-02-19/skn-sam
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3a02c853abd33761f7bf51afc326e56b-thumbnail.jpg" group-title="Football",Drita vs. Celje
+https://modistreams.org/embed/uecl/2026-02-19/dri-clj
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/942610e5eaac4f22ea4b80728c7be791-thumbnail.jpg" group-title="Football",Omonoia vs. Rijeka
+https://modistreams.org/embed/uecl/2026-02-19/omo-rij
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8fdb4f6ac208295c3f2553e25ecd3780-thumbnail.jpg" group-title="Football",Mainz vs. Hamburg SV
 https://modistreams.org/embed/bundesliga/2026-02-20/m05-hsv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e578bf3afc556f1c1162a2c389c0f37-thumbnail.jpg" group-title="Football",Sassuolo vs. Hellas Verona
