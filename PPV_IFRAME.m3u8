@@ -23,6 +23,16 @@ https://abc.com/stream?uri=olympics/2026-02-16/figure-skating/pairs-free-venue-f
 https://abc.com/stream?uri=olympics/2026-02-16/bobsled/womens-monobob-final-run-1771272300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4d79329ecf8fdcb4f90ff8347bbd29e1-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (Women's Semifinal)
 https://abc.com/stream?uri=olympics/2026-02-16/hockey/canada-vs-switzerland-womens-semifinal-1771272600
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/06287f2bbe16bb76b319827d5cd35b8a-thumbnail.jpg" group-title="Baseball",Michigan Wolverines vs. Oregon State Beavers (Baseball)
+https://abc.com/stream?uri=college-baseball/2500/2500-2500-2500
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5492ecfb31f85810c3ea70478413ef69-thumbnail.jpg" group-title="Baseball",Kent State Golden Flashes vs. LSU Tigers (Baseball)
+https://abc.com/stream?uri=college-baseball/4304/4304-4304-4304
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/08f6b472be73d70e7913d467709b99bf-thumbnail.jpg" group-title="Baseball",New Mexico State Aggies vs. Oklahoma Sooners (Baseball)
+https://abc.com/stream?uri=college-baseball/3303/3303-3303-3303
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e40fb15f4976bbc07f57ccae3a0ba4b7-thumbnail.jpg" group-title="Basketball",Syracuse Orange vs. Duke Blue Devils (Basketball)
+https://abc.com/stream?uri=cbb/3001/3001-duke
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/beb253028260758c6f2d2c86f42d4790-thumbnail.jpg" group-title="Basketball",Houston Cougars vs. Iowa State Cyclones (Basketball)
+https://abc.com/stream?uri=cbb/5822/5822-isu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 1
 https://abc.com/stream?uri=players-championship-board-1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 2
