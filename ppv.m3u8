@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 10
 https://modistreams.org/embed/olympics/2026-02-16/gold-zone-day-10-1771246800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb78859bc2b54cd902f2db55641fbc74-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Canada (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-16/curling/czechia-vs-canada-m-round-robin-1771247100
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3c66b169883b252b21c360d80b33e4fa-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Norway (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-16/curling/great-britain-vs-norway-m-round-robin-1771247100
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8dee720992df9bef77d9e012452b36eb-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. China (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-16/curling/italy-vs-china-m-round-robin-1771247100
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9833a00d801a720510fca9988d801cc7-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Germany (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-16/curling/sweden-vs-germany-m-round-robin-1771247100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bee1d079d29edf88873b3f5ab157fd3d-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Sweden (Women's Semifinal)
 https://modistreams.org/embed/olympics/2026-02-16/hockey/usa-vs-sweden-womens-semifinal-1771256400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5674c2b1bb257bd98941c28c049f0160-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Super Team Large Hill
