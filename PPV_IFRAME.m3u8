@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/537e158e1291a0845a85f725da1f5a32-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 1000m Finals & More
-https://abc.com/stream?uri=olympics/2026-02-16/short-track/womens-1000m-finals--more-1771236000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec01706cd1e78d3dc378f69d600c4c2c-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Man Bobsled: Run 2
-https://abc.com/stream?uri=olympics/2026-02-16/bobsled/two-man-bobsled-run-2-1771239300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/de4bb25da9bca26bac6b4a25209cbe7c-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Slalom: Run 2
 https://abc.com/stream?uri=olympics/2026-02-16/alpine-skiing/mens-slalom-run-2-1771244400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 10
