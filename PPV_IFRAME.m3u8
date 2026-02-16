@@ -25,8 +25,6 @@ https://abc.com/stream?uri=olympics/2026-02-16/curling/great-britain-vs-norway-m
 https://abc.com/stream?uri=olympics/2026-02-16/curling/italy-vs-china-m-round-robin-1771247100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9833a00d801a720510fca9988d801cc7-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Germany (M Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-16/curling/sweden-vs-germany-m-round-robin-1771247100
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/537e158e1291a0845a85f725da1f5a32-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 1000m Final
-https://abc.com/stream?uri=olympics/2026-02-16/short-track/womens-1000m-final-1771254000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bee1d079d29edf88873b3f5ab157fd3d-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Sweden (Women's Semifinal)
 https://abc.com/stream?uri=olympics/2026-02-16/hockey/usa-vs-sweden-womens-semifinal-1771256400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5674c2b1bb257bd98941c28c049f0160-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Super Team Large Hill
@@ -51,10 +49,6 @@ https://abc.com/stream?uri=olympics/2026-02-16/bobsled/womens-monobob-final-run-
 https://abc.com/stream?uri=olympics/2026-02-16/hockey/canada-vs-switzerland-womens-semifinal-1771272600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e03280b61b627d2219d354364c1342a9-thumbnail.jpg" group-title="Baseball",Texas Tech Red Raiders vs. Arkansas Razorbacks
 https://abc.com/stream?uri=college-baseball/4598/4598-4598-4598
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b2295386838a4a350875fad1f400d98-thumbnail.jpg" group-title="Baseball",UC San Diego Tritons vs. UCLA Bruins
-https://abc.com/stream?uri=college-baseball/9401/9401-9401-9401
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0f968300a05221e739624fdbf694c2a1-thumbnail.jpg" group-title="Baseball",UC Santa Barbara Gauchos vs. Southern Miss Golden Eagles
-https://abc.com/stream?uri=college-baseball/4869/4869-4869-4869
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/69910de9afc58a0d0518fd5ef750634b-thumbnail.jpg" group-title="Baseball",Arizona Wildcats vs. Michigan Wolverines
 https://abc.com/stream?uri=college-baseball/8812/8812-8812-8812
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d1abbbb0287b969efa8171213571660f-thumbnail.jpg" group-title="Baseball",Oklahoma Sooners vs. TCU Horned Frogs
@@ -77,8 +71,6 @@ https://abc.com/stream?uri=english-fa-cup/2026-02-16/mfc-bre
 https://abc.com/stream?uri=seriea/2026-02-16/cag-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab1535147003838a3f4d399316ba9dda-thumbnail.jpg" group-title="Football",Girona vs. Barcelona
 https://abc.com/stream?uri=laliga/2026-02-16/gir-bar
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f38c6f9be7ebd4ad9a9bd8c24526cdaf-thumbnail.jpg" group-title="Motorsports",NASCAR Cup Series: Daytona 500
-https://abc.com/stream?uri=nascar-cup-series-daytona-500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1579f134cd9dd96fad9cc7e4be79cb16-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 1
 https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3f2d22d743f0cab5487804414979be16-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 2
