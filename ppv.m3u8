@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 10
-https://modistreams.org/embed/olympics/2026-02-16/gold-zone-day-10-1771246800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/53051a81d126d7aac479d80e690c9537-thumbnail.jpg" group-title="2026 Winter Olympics",Pairs Free (Venue Feed)
-https://modistreams.org/embed/olympics/2026-02-16/figure-skating/pairs-free-venue-feed-1771268400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4d79329ecf8fdcb4f90ff8347bbd29e1-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Switzerland (Women's Semifinal)
 https://modistreams.org/embed/olympics/2026-02-16/hockey/canada-vs-switzerland-womens-semifinal-1771272600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/06287f2bbe16bb76b319827d5cd35b8a-thumbnail.jpg" group-title="Baseball",Michigan Wolverines vs. Oregon State Beavers (Baseball)
@@ -31,10 +27,6 @@ https://modistreams.org/embed/players-championship-board-2
 https://modistreams.org/embed/players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://modistreams.org/embed/players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0399f8fce002a90910ea0684e5320eea-thumbnail.jpg" group-title="Football",Macclesfield FC vs. Brentford
-https://modistreams.org/embed/english-fa-cup/2026-02-16/mfc-bre
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/73499831dc8eaf0f01edf611cea6257c-thumbnail.jpg" group-title="Football",Cagliari vs. Lecce
-https://modistreams.org/embed/seriea/2026-02-16/cag-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab1535147003838a3f4d399316ba9dda-thumbnail.jpg" group-title="Football",Girona vs. Barcelona
 https://modistreams.org/embed/laliga/2026-02-16/gir-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9d30ec040e29777e2aff127a80688896-thumbnail.jpg" group-title="Football",Galatasaray vs. Juventus
