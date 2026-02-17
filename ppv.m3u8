@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 11
 https://modistreams.org/embed/olympics/2026-02-17/gold-zone-day-11
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="2026 Winter Olympics",On USA: Women's Short (Part 1)
-https://modistreams.org/embed/olympics/2026-02-17/figure-skating/on-usa-womens-short-part-1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3f5b3c7a39939ff3a37550e2739de2a3-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Great Britain (M Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-17/curling/canada-vs-great-britain-m-round-robin
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2f56cb28941109acfdc46849071842b6-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. Switzerland (M Round-Robin)
@@ -11,8 +9,6 @@ https://modistreams.org/embed/olympics/2026-02-17/curling/germany-vs-switzerland
 https://modistreams.org/embed/olympics/2026-02-17/curling/sweden-vs-norway-m-round-robin
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b57c77232d9dff561dcec979740f4b8e-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Italy (M Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-17/curling/usa-vs-italy-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ecf1ed8c3eee9ae9b39babb29dbaf9e1-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Freeski Big Air: Final
-https://modistreams.org/embed/olympics/2026-02-17/freestyle-skiing/mens-freeski-big-air-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="2026 Winter Olympics",NBC: Women's Short (Part 2)
 https://modistreams.org/embed/olympics/2026-02-17/figure-skating/nbc-womens-short-part-2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0d3586b1521e2b27c90ed61e25c44118-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Man Bobsled: Final Run
