@@ -1,6 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c0d8172f8d0acc0be3b85cf971a30080-thumbnail.jpg" group-title="Baseball",Xavier Musketeers vs. Louisville Cardinals (Baseball)
-https://modistreams.org/embed/college-baseball/4929/4929-4929-4929
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fa48fc3c096a9adb01949f7b98127a65-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Denmark (W Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/china-vs-denmark-w-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a55ea7c4f3c4285bc32a13b6ae455bcf-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. South Korea (W Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/sweden-vs-south-korea-w-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/378833eb84623bda11285c13c1003061-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Great Britain (W Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/usa-vs-great-britain-w-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d6f9ec27bfab5d83e41cf5b5d93121d6-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Team Sprint Free: Qualifying
+https://modistreams.org/embed/olympics/2026-02-18/cross-country-skiing/mens--womens-team-sprint-free-qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32058ff9db8cbbea71928a59e102a1fd-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Slalom: Run 1
+https://modistreams.org/embed/olympics/2026-02-18/alpine-skiing/womens-slalom-run-1
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/15c4fa8e799a5a6d1d1d6a2b29a67259-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Snowboard Slopestyle: Final
+https://modistreams.org/embed/olympics/2026-02-18/snowboarding/mens-snowboard-slopestyle-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eb758838a71349d3cc545e1df1bb60bd-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Team Sprint Free: Finals
+https://modistreams.org/embed/olympics/2026-02-18/cross-country-skiing/mens--womens-team-sprint-free-finals
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Slovakia vs. Germany (Men's Quarterfinal)
+https://modistreams.org/embed/olympics/2026-02-18/hockey/svk-ger
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ccec27e6fc07c9866c1283d3cf1dc5f7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Aerials: Final
+https://modistreams.org/embed/olympics/2026-02-18/freestyle-skiing/womens-aerials-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32058ff9db8cbbea71928a59e102a1fd-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Slalom: Run 2
+https://modistreams.org/embed/olympics/2026-02-18/alpine-skiing/womens-slalom-run-2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 12
+https://modistreams.org/embed/olympics/2026-02-18/gold-zone-day-12
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7de25e47279feae8bb242a1b4e4a0eae-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Czechia (M Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/china-vs-czechia-m-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bc34562a3b5940da60ea7674227ed70b-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Canada (M Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/italy-vs-canada-m-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/831a30674bc7d7112646b07d443ed876-thumbnail.jpg" group-title="2026 Winter Olympics",Norway vs. Switzerland (M Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/norway-vs-switzerland-m-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/378833eb84623bda11285c13c1003061-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Great Britain (M Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/usa-vs-great-britain-m-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/08f5f508a1ac67a3f82f09298402e5fd-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Snowboard Slopestyle: Final
+https://modistreams.org/embed/olympics/2026-02-18/snowboarding/womens-snowboard-slopestyle-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e7c529719bbff751576530558f46a7e6-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 4x6km Relay
+https://modistreams.org/embed/olympics/2026-02-18/biathlon/womens-4x6km-relay
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Czechia (Men's Quarterfinal)
+https://modistreams.org/embed/olympics/2026-02-18/hockey/canada-vs-czechia-mens-quarterfinal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5c194e851591bb4cbcc00e73abeeb0e9-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Switzerland (Men's Quarterfinal)
+https://modistreams.org/embed/olympics/2026-02-18/hockey/fin-sui
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0746f8d3143729f4ab4be353b0823512-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Italy (W Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/canada-vs-italy-w-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/afbb7cb7944e38b63e6b97df13c6cf5c-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Sweden (W Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/china-vs-sweden-w-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/44514bbe146a1ab47aa74e253b9b0f96-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Japan (W Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/great-britain-vs-japan-w-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/de3488e6dfeed6995116b9ebd265abcb-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Denmark (W Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-18/curling/switzerland-vs-denmark-w-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e597dc3c28fdde014788186052fd9652-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 500m & Women's Relay Finals
+https://modistreams.org/embed/olympics/2026-02-18/short-track/mens-500m--womens-relay-finals
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b461965f9b8ff63e4682eff9c43f5ef4-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Sweden (Men's Quarterfinal)
+https://modistreams.org/embed/olympics/2026-02-18/hockey/usa-vs-sweden-mens-quarterfinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/082152e02e2dd40f6de65f6ab40e7e2b-thumbnail.jpg" group-title="Baseball",Tulane Green Wave vs. UCLA Bruins (Baseball)
 https://modistreams.org/embed/college-baseball/5640/5640-5640-5640
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9b36e4939de49b8f11f0d3c8756915d5-thumbnail.jpg" group-title="Baseball",Charleston Cougars vs. Coastal Carolina Chanticleers (Baseball)
@@ -61,12 +109,6 @@ https://modistreams.org/embed/cbb/9257/9257-osu
 https://modistreams.org/embed/cbb/1390/1390-iowa
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8b04b762b0e2c281a649e90f99333277-thumbnail.jpg" group-title="Basketball",Texas Tech Red Raiders vs. Arizona State Sun Devils (Basketball)
 https://modistreams.org/embed/cbb/2185/2185-asu
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f0863f2a99f7b348faa48ccd2fea15ba-thumbnail.jpg" group-title="Football",Monaco vs. Paris
-https://modistreams.org/embed/ucl/2026-02-17/mon-psg
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2b1324d86527129d588b9cd56a4c7117-thumbnail.jpg" group-title="Football",Benfica vs. Real Madrid
-https://modistreams.org/embed/ucl/2026-02-17/ben-rma
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/378a3e6879b64bc34bc4cd512c777a2b-thumbnail.jpg" group-title="Football",B. Dortmund vs. Atalanta
-https://modistreams.org/embed/ucl/2026-02-17/bvb-ata
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d8d27d0b0ea59c4d2d1eee5dd1a9d9b6-thumbnail.jpg" group-title="Football",Qarabağ vs. Newcastle
 https://modistreams.org/embed/ucl/2026-02-18/qar-new
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/effe76d1da950d61688c2db9271133f0-thumbnail.jpg" group-title="Football",Levante vs. Villarreal
