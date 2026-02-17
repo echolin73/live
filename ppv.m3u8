@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 11
 https://modistreams.org/embed/olympics/2026-02-17/gold-zone-day-11
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c5c7675a77c104fd3219179c6959ca95-thumbnail.jpg" group-title="2026 Winter Olympics",Denmark vs. USA (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-17/curling/denmark-vs-usa-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b8180ded875d40e61302f2ca5594a1a1-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Japan (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-17/curling/italy-vs-japan-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bccca3de3676b86000f567a85d677c45-thumbnail.jpg" group-title="2026 Winter Olympics",South Korea vs. Switzerland (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-17/curling/south-korea-vs-switzerland-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1601294245b355d00ccfb715b3a2055b-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Canada (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-17/curling/sweden-vs-canada-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e7350409d57f3fad48a002df2fa7c83-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Team Pursuit Finals
-https://modistreams.org/embed/olympics/2026-02-17/speed-skating/mens--womens-team-pursuit-finals
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Short: Warm-Up
-https://modistreams.org/embed/olympics/2026-02-17/figure-skating/womens-short-warm-up
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ce30f48e8f6b44d570fb120731571cdf-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Denmark (M Playoff)
 https://modistreams.org/embed/olympics/2026-02-17/hockey/czechia-vs-denmark-m-playoff
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="2026 Winter Olympics",On USA: Women's Short (Part 1)
