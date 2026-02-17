@@ -1,18 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 11
 https://abc.com/stream?uri=olympics/2026-02-17/gold-zone-day-11
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3f5b3c7a39939ff3a37550e2739de2a3-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Great Britain (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-17/curling/canada-vs-great-britain-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2f56cb28941109acfdc46849071842b6-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. Switzerland (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-17/curling/germany-vs-switzerland-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e3d9b155e24771bb3332e6cccb710f6d-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Norway (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-17/curling/sweden-vs-norway-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b57c77232d9dff561dcec979740f4b8e-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Italy (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-17/curling/usa-vs-italy-m-round-robin
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="2026 Winter Olympics",NBC: Women's Short (Part 2)
 https://abc.com/stream?uri=olympics/2026-02-17/figure-skating/nbc-womens-short-part-2
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0d3586b1521e2b27c90ed61e25c44118-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Man Bobsled: Final Run
-https://abc.com/stream?uri=olympics/2026-02-17/bobsled/two-man-bobsled-final-run
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ad3f80c2fa91181ece51302aad68fa14-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Latvia (M Playoff)
 https://abc.com/stream?uri=olympics/2026-02-17/hockey/sweden-vs-latvia-m-playoff
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c0d8172f8d0acc0be3b85cf971a30080-thumbnail.jpg" group-title="Baseball",Xavier Musketeers vs. Louisville Cardinals (Baseball)
@@ -77,16 +67,6 @@ https://abc.com/stream?uri=cbb/9257/9257-osu
 https://abc.com/stream?uri=cbb/1390/1390-iowa
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8b04b762b0e2c281a649e90f99333277-thumbnail.jpg" group-title="Basketball",Texas Tech Red Raiders vs. Arizona State Sun Devils (Basketball)
 https://abc.com/stream?uri=cbb/2185/2185-asu
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 1
-https://abc.com/stream?uri=players-championship-board-1
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 2
-https://abc.com/stream?uri=players-championship-board-2
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 3
-https://abc.com/stream?uri=players-championship-board-3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
-https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9d30ec040e29777e2aff127a80688896-thumbnail.jpg" group-title="Football",Galatasaray vs. Juventus
-https://abc.com/stream?uri=ucl/2026-02-17/gal-juv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f0863f2a99f7b348faa48ccd2fea15ba-thumbnail.jpg" group-title="Football",Monaco vs. Paris
 https://abc.com/stream?uri=ucl/2026-02-17/mon-psg
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2b1324d86527129d588b9cd56a4c7117-thumbnail.jpg" group-title="Football",Benfica vs. Real Madrid
