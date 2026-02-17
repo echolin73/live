@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6eb6e4a939e2402cd5ac91d160a9b462-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Germany (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-17/curling/czechia-vs-germany-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/405c6e9b8137fa430aab9388c1a949fd-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Sweden (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-17/curling/switzerland-vs-sweden-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5c52dd204475da45ed76f266a1770f49-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. China (M Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-17/curling/usa-vs-china-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ccec27e6fc07c9866c1283d3cf1dc5f7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Aerials: Qualifying
-https://modistreams.org/embed/olympics/2026-02-17/freestyle-skiing/womens-aerials-qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/42b81ad38998b602557933cdb171e48b-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. France (M Playoff)
 https://modistreams.org/embed/olympics/2026-02-17/hockey/germany-vs-france-m-playoff
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1a316bb3d4bf4f9d4bb8ae0d2cb1c951-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Italy (M Playoff)
