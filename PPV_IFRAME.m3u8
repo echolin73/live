@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/42b81ad38998b602557933cdb171e48b-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. France (M Playoff)
-https://abc.com/stream?uri=olympics/2026-02-17/hockey/germany-vs-france-m-playoff
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1a316bb3d4bf4f9d4bb8ae0d2cb1c951-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Italy (M Playoff)
-https://abc.com/stream?uri=olympics/2026-02-17/hockey/switzerland-vs-italy-m-playoff
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a971a0ff6402a9a51638cd1b5f1e5ffb-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Snowboard Slopestyle: Final
-https://abc.com/stream?uri=olympics/2026-02-17/snowboarding/womens-snowboard-slopestyle-final
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Aerials: Qualifying
-https://abc.com/stream?uri=olympics/2026-02-17/freestyle-skiing/mens-aerials-qualifying
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/870a0730618991566284cc2773820739-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Large Hill: 10km Race
-https://abc.com/stream?uri=olympics/2026-02-17/nordic-combined/mens-large-hill-10km-race
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 11
 https://abc.com/stream?uri=olympics/2026-02-17/gold-zone-day-11
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c5c7675a77c104fd3219179c6959ca95-thumbnail.jpg" group-title="2026 Winter Olympics",Denmark vs. USA (W Round-Robin)
