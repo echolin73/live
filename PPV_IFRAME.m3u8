@@ -99,8 +99,6 @@ https://abc.com/stream?uri=mlb/20260216/chw-chc-6429
 https://abc.com/stream?uri=mlb/20260216/ari-col-3756
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4c69de162d2e697775d75fbbdda5d1e6-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Seattle Mariners
 https://abc.com/stream?uri=mlb/20260216/sd-sea-7626
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/beb253028260758c6f2d2c86f42d4790-thumbnail.jpg" group-title="Basketball",Houston Cougars vs. Iowa State Cyclones (Basketball)
-https://abc.com/stream?uri=cbb/5822/5822-isu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/851a7063ab627f7c32833f32f56baf7d-thumbnail.jpg" group-title="Basketball",Michigan Wolverines vs. Purdue Boilermakers (Basketball)
 https://abc.com/stream?uri=cbb/2048/2048-pur
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2b5088a6abcbef6ae202594896c98b8e-thumbnail.jpg" group-title="Basketball",South Carolina Gamecocks vs. Florida Gators (Basketball)
