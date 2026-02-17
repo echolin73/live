@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 11
-https://modistreams.org/embed/olympics/2026-02-17/gold-zone-day-11
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/736d2a2000cca8f81f819de6b9cd87b8-thumbnail.jpg" group-title="2026 Winter Olympics",NBC: Women's Short (Part 2)
-https://modistreams.org/embed/olympics/2026-02-17/figure-skating/nbc-womens-short-part-2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ad3f80c2fa91181ece51302aad68fa14-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Latvia (M Playoff)
 https://modistreams.org/embed/olympics/2026-02-17/hockey/sweden-vs-latvia-m-playoff
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c0d8172f8d0acc0be3b85cf971a30080-thumbnail.jpg" group-title="Baseball",Xavier Musketeers vs. Louisville Cardinals (Baseball)
