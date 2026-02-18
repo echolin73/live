@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 12
-https://abc.com/stream?uri=olympics/2026-02-18/gold-zone-day-12
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b461965f9b8ff63e4682eff9c43f5ef4-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Sweden (Men's Quarterfinal)
 https://abc.com/stream?uri=olympics/2026-02-18/hockey/usa-vs-sweden-mens-quarterfinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Baltimore Orioles
@@ -13,8 +11,6 @@ https://abc.com/stream?uri=mlb/20260216/ari-col-3756
 https://abc.com/stream?uri=mlb/20260216/sd-sea-7626
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 3
 https://abc.com/stream?uri=premier-league-darts-night-3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a583257ace5ab5b990634d3a411794e2-thumbnail.jpg" group-title="Football",AC Milan vs. Como
-https://abc.com/stream?uri=seriea/2026-02-18/mil-como
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb25a309401af9193697ac064e9951aa-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Arsenal
 https://abc.com/stream?uri=premierleague/2026-02-18/wol-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9e1df0e8a42522952654bf65a28f0c4f-thumbnail.jpg" group-title="Football",Olympiacos vs. Leverkusen
