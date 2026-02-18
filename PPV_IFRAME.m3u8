@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 12
 https://abc.com/stream?uri=olympics/2026-02-18/gold-zone-day-12
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0746f8d3143729f4ab4be353b0823512-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Italy (W Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-18/curling/canada-vs-italy-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/afbb7cb7944e38b63e6b97df13c6cf5c-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Sweden (W Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-18/curling/china-vs-sweden-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/44514bbe146a1ab47aa74e253b9b0f96-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Japan (W Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-18/curling/great-britain-vs-japan-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/de3488e6dfeed6995116b9ebd265abcb-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Denmark (W Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-18/curling/switzerland-vs-denmark-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e597dc3c28fdde014788186052fd9652-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 500m & Women's Relay Finals
-https://abc.com/stream?uri=olympics/2026-02-18/short-track/mens-500m--womens-relay-finals
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b461965f9b8ff63e4682eff9c43f5ef4-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Sweden (Men's Quarterfinal)
 https://abc.com/stream?uri=olympics/2026-02-18/hockey/usa-vs-sweden-mens-quarterfinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Baltimore Orioles
@@ -23,10 +13,6 @@ https://abc.com/stream?uri=mlb/20260216/ari-col-3756
 https://abc.com/stream?uri=mlb/20260216/sd-sea-7626
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 3
 https://abc.com/stream?uri=premier-league-darts-night-3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d8d27d0b0ea59c4d2d1eee5dd1a9d9b6-thumbnail.jpg" group-title="Football",Qarabağ vs. Newcastle
-https://abc.com/stream?uri=ucl/2026-02-18/qar-new
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/effe76d1da950d61688c2db9271133f0-thumbnail.jpg" group-title="Football",Levante vs. Villarreal
-https://abc.com/stream?uri=laliga/2026-02-18/lev-vil
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a583257ace5ab5b990634d3a411794e2-thumbnail.jpg" group-title="Football",AC Milan vs. Como
 https://abc.com/stream?uri=seriea/2026-02-18/mil-como
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb25a309401af9193697ac064e9951aa-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Arsenal
