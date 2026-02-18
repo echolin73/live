@@ -167,8 +167,6 @@ https://abc.com/stream?uri=seriea/2026-02-23/bol-udi
 https://abc.com/stream?uri=laliga/2026-02-23/ala-gir
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="Football",Everton vs. Manchester United
 https://abc.com/stream?uri=premierleague/2026-02-23/eve-man
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1579f134cd9dd96fad9cc7e4be79cb16-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 1
-https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3f2d22d743f0cab5487804414979be16-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 2
 https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
