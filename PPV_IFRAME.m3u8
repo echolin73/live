@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d7a4484e181f824c29479f2cc32fdb94-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Sprints: Finals
-https://abc.com/stream?uri=olympics/2026-02-19/ski-mountaineering/mens--womens-sprints-finals
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 13
 https://abc.com/stream?uri=olympics/2026-02-19/gold-zone-day-13
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Training
 https://abc.com/stream?uri=olympics/2026-02-19/bobsled/two-woman-bobsled-training
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8dd3841e95f8369a7b45938e5c59e686-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Team Large Hill: 2x7.5km Relay
-https://abc.com/stream?uri=olympics/2026-02-19/nordic-combined/mens-team-large-hill-2x75km-relay
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/50afbf90ca3d1b07b7498f8cd84d6219-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. South Korea (W Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-19/curling/canada-vs-south-korea-w-round-robin
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/28fd4be5b4c907018225a05265bddfba-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Italy (W Round-Robin)
