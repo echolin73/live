@@ -185,8 +185,6 @@ https://abc.com/stream?uri=premierleague/2026-02-23/eve-man
 https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
 https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
-https://abc.com/stream?uri=aew/dynamite/2026-02-18
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
 https://abc.com/stream?uri=tna/impact/2026-02-19
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
