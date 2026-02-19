@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b461965f9b8ff63e4682eff9c43f5ef4-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Sweden (Men's Quarterfinal)
-https://modistreams.org/embed/olympics/2026-02-18/hockey/usa-vs-sweden-mens-quarterfinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f9659f16e09f3ff14cdb033da0f4ba15-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Germany (M Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-19/curling/china-vs-germany-m-round-robin
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/977baa41976f01847f3caefdb649b3fb-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Switzerland (M Round-Robin)
@@ -15,8 +13,6 @@ https://modistreams.org/embed/olympics/2026-02-19/nordic-combined/mens-team-larg
 https://modistreams.org/embed/olympics/2026-02-19/ski-mountaineering/mens--womens-sprints-heats
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0a435cf3f789dea425b606434fc69b9f-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Freeski Halfpipe: Qualifying
 https://modistreams.org/embed/olympics/2026-02-19/freestyle-skiing/mens-freeski-halfpipe-qualifying
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Aerials: Qualifying
-https://modistreams.org/embed/olympics/2026-02-19/freestyle-skiing/mens-aerials-qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d7a4484e181f824c29479f2cc32fdb94-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Sprints: Finals
 https://modistreams.org/embed/olympics/2026-02-19/ski-mountaineering/mens--womens-sprints-finals
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 13
@@ -33,8 +29,6 @@ https://modistreams.org/embed/olympics/2026-02-19/curling/great-britain-vs-italy
 https://modistreams.org/embed/olympics/2026-02-19/curling/japan-vs-china-w-round-robin
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e54c01733f5ce3685e0371c1cd150802-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. USA (W Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-19/curling/switzerland-vs-usa-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Aerials: Final
-https://modistreams.org/embed/olympics/2026-02-19/freestyle-skiing/mens-aerials-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ac7112cef7ce5d7e23c365d7cb40c8b9-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Sweden (Women's Bronze)
 https://modistreams.org/embed/olympics/2026-02-19/hockey/switzerland-vs-sweden-womens-bronze
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4fd9f9e1f975ed06e9e011c231f3bf3f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Free: Warm-Up & More
