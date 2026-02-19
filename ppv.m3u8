@@ -1,18 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 13
 https://modistreams.org/embed/olympics/2026-02-19/gold-zone-day-13
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/50afbf90ca3d1b07b7498f8cd84d6219-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. South Korea (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-19/curling/canada-vs-south-korea-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/28fd4be5b4c907018225a05265bddfba-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Italy (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-19/curling/great-britain-vs-italy-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ae5e2554698665904b050768a34ca868-thumbnail.jpg" group-title="2026 Winter Olympics",Japan vs. China (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-19/curling/japan-vs-china-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e54c01733f5ce3685e0371c1cd150802-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. USA (W Round-Robin)
-https://modistreams.org/embed/olympics/2026-02-19/curling/switzerland-vs-usa-w-round-robin
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4fd9f9e1f975ed06e9e011c231f3bf3f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Free: Warm-Up & More
 https://modistreams.org/embed/olympics/2026-02-19/figure-skating/womens-free-warm-up--more
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1500m
-https://modistreams.org/embed/olympics/2026-02-19/short-track/mens-1500m
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/64fe9956836e14bfe3dab5cbe841524d-thumbnail.jpg" group-title="2026 Winter Olympics",NBC: Women's Free Skate
 https://modistreams.org/embed/olympics/2026-02-19/figure-skating/nbc-womens-free-skate
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8f4349233fbb32a03088efe87680f309-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Canada (Women's Gold)
@@ -55,6 +45,8 @@ https://modistreams.org/embed/nba/2026-02-19/den-lac
 https://modistreams.org/embed/ufc-fight-night-strickland-vs.-hernandez
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 3
 https://modistreams.org/embed/premier-league-darts-night-3
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
+https://modistreams.org/embed/golazo
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2317f62fd81d6c6cb7c443dc16005a70-thumbnail.jpg" group-title="Football",GNK Dinamo vs. Genk
 https://modistreams.org/embed/uel/2026-02-19/din-gen
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da32826a840c81fd1403a12e6423484a-thumbnail.jpg" group-title="Football",PAOK vs. Celta
