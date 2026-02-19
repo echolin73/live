@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f9659f16e09f3ff14cdb033da0f4ba15-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Germany (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-19/curling/china-vs-germany-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/977baa41976f01847f3caefdb649b3fb-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Switzerland (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-19/curling/italy-vs-switzerland-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9fba4687aaef33bf29a9d7bdc726ea2b-thumbnail.jpg" group-title="2026 Winter Olympics",Norway vs. Canada (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-19/curling/norway-vs-canada-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/15efc79bf71680cfecbe167aede66b3e-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Czechia (M Round-Robin)
-https://abc.com/stream?uri=olympics/2026-02-19/curling/sweden-vs-czechia-m-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0a435cf3f789dea425b606434fc69b9f-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Freeski Halfpipe: Qualifying
-https://abc.com/stream?uri=olympics/2026-02-19/freestyle-skiing/mens-freeski-halfpipe-qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d7a4484e181f824c29479f2cc32fdb94-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Sprints: Finals
 https://abc.com/stream?uri=olympics/2026-02-19/ski-mountaineering/mens--womens-sprints-finals
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 13
