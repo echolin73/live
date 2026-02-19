@@ -1,8 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 13
-https://modistreams.org/embed/olympics/2026-02-19/gold-zone-day-13
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/64fe9956836e14bfe3dab5cbe841524d-thumbnail.jpg" group-title="2026 Winter Olympics",NBC: Women's Free Skate
-https://modistreams.org/embed/olympics/2026-02-19/figure-skating/nbc-womens-free-skate
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e54c01733f5ce3685e0371c1cd150802-thumbnail.jpg" group-title="2026 Winter Olympics",On USA: Switzerland vs. USA (W Round-Robin)
+https://modistreams.org/embed/olympics/2026-02-20/curling/on-usa-switzerland-vs-usa-w-round-robin
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/68cc86e003828c150790813c3353f1ce-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Ski Cross: Qualifying
+https://modistreams.org/embed/olympics/2026-02-20/freestyle-skiing/womens-ski-cross-qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Aerials: Qualifying
+https://modistreams.org/embed/olympics/2026-02-20/freestyle-skiing/mens-aerials-qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9464c1a4235a98e66bb4f559b2e717b0-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Ski Cross: Finals
+https://modistreams.org/embed/olympics/2026-02-20/freestyle-skiing/womens-ski-cross-finals
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Aerials: Final
+https://modistreams.org/embed/olympics/2026-02-20/freestyle-skiing/mens-aerials-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/71b498e0103d85e7b8c960872e4937cb-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Aerials: Finals
+https://modistreams.org/embed/olympics/2026-02-20/freestyle-skiing/mens-aerials-finals
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 14
+https://modistreams.org/embed/olympics/2026-02-20/gold-zone-day-14
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1601294245b355d00ccfb715b3a2055b-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Canada (W Semifinal)
+https://modistreams.org/embed/olympics/2026-02-20/curling/sweden-vs-canada-w-semifinal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5d66fd0550f1dc652d9da1c5a749b08a-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Switzerland (W Semifinal)
+https://modistreams.org/embed/olympics/2026-02-20/curling/usa-vs-switzerland-w-semifinal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ad479ce555be9cc8238bee863099f72-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 15km Mass Start
+https://modistreams.org/embed/olympics/2026-02-20/biathlon/mens-15km-mass-start
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5d66fd0550f1dc652d9da1c5a749b08a-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Switzerland (Women's Semifinal)
+https://modistreams.org/embed/olympics/2026-02-20/curling/usa-vs-switzerland-womens-semifinal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02eff8b79af5cb46f60fe51884b9dc9f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 1500m
+https://modistreams.org/embed/olympics/2026-02-20/speed-skating/womens-1500m
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6589cb81a69734a9f1694414a287379d-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Finland (Men's Semifinal)
+https://modistreams.org/embed/olympics/2026-02-20/hockey/canada-vs-finland-mens-semifinal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Run 1
+https://modistreams.org/embed/olympics/2026-02-20/bobsled/two-woman-bobsled-run-1
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9464c1a4235a98e66bb4f559b2e717b0-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Freeski Halfpipe: Qualifying
+https://modistreams.org/embed/olympics/2026-02-20/freestyle-skiing/mens-freeski-halfpipe-qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Bronze Final
+https://modistreams.org/embed/olympics/2026-02-20/curling/mens-bronze-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8f97a58fae63b9bde1106eb3ddb00db0-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Freeski Halfpipe: Final
+https://modistreams.org/embed/olympics/2026-02-20/freestyle-skiing/mens-freeski-halfpipe-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Run 2
+https://modistreams.org/embed/olympics/2026-02-20/bobsled/two-woman-bobsled-run-2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/be7e3bc30bc6b99c0fc827d295be43c7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 1500m & Men's Relay Finals
+https://modistreams.org/embed/olympics/2026-02-20/short-track/womens-1500m--mens-relay-finals
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6adc3f7969be78f3caba3abc9387d64-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Slovakia (Men's Semifinal)
+https://modistreams.org/embed/olympics/2026-02-20/hockey/usa-vs-slovakia-mens-semifinal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Runs 1-2
+https://modistreams.org/embed/olympics/2026-02-20/bobsled/two-woman-bobsled-runs-1-2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Postgame Coverage
+https://modistreams.org/embed/olympics/2026-02-20/hockey/postgame-coverage
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Baltimore Orioles
 https://modistreams.org/embed/mlb/20260216/nyy-bal-4367
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Chicago Cubs
@@ -37,24 +77,6 @@ https://modistreams.org/embed/ufc-fight-night-strickland-vs.-hernandez
 https://modistreams.org/embed/willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
 https://modistreams.org/embed/premier-league-darts-night-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
-https://modistreams.org/embed/golazo
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c6a2f9e1b88690d6d32bef0652bf316b-thumbnail.jpg" group-title="Football",Ludogorets vs. Ferencváros
-https://modistreams.org/embed/uel/2026-02-19/lud-fer
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/14be10e39d67c84fb1a6c68479457009-thumbnail.jpg" group-title="Football",Panathinaikos vs. Viktoria Plzeň
-https://modistreams.org/embed/uel/2026-02-19/pan-plz
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ceb1b2290e58b3091ee14eefbaf128d6-thumbnail.jpg" group-title="Football",Lille vs. Crvena Zvezda
-https://modistreams.org/embed/uel/2026-02-19/lil-zve
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/684535257a33d9265999b314924c8f71-thumbnail.jpg" group-title="Football",Celtic vs. Stuttgart
-https://modistreams.org/embed/uel/2026-02-19/cel-stu
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9b401efaf021a414ea81c86328db4ebc-thumbnail.jpg" group-title="Football",Jagiellonia vs. Fiorentina
-https://modistreams.org/embed/uecl/2026-02-19/jag-fio
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b61fd66e4731e970c71fe39ef581bb4c-thumbnail.jpg" group-title="Football",Shkëndija vs. Samsunspor
-https://modistreams.org/embed/uecl/2026-02-19/skn-sam
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3a02c853abd33761f7bf51afc326e56b-thumbnail.jpg" group-title="Football",Drita vs. Celje
-https://modistreams.org/embed/uecl/2026-02-19/dri-clj
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/942610e5eaac4f22ea4b80728c7be791-thumbnail.jpg" group-title="Football",Omonoia vs. Rijeka
-https://modistreams.org/embed/uecl/2026-02-19/omo-rij
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8fdb4f6ac208295c3f2553e25ecd3780-thumbnail.jpg" group-title="Football",Mainz vs. Hamburg SV
 https://modistreams.org/embed/bundesliga/2026-02-20/m05-hsv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e578bf3afc556f1c1162a2c389c0f37-thumbnail.jpg" group-title="Football",Sassuolo vs. Hellas Verona
