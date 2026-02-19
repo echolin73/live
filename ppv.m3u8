@@ -3,10 +3,6 @@
 https://modistreams.org/embed/olympics/2026-02-19/gold-zone-day-13
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/64fe9956836e14bfe3dab5cbe841524d-thumbnail.jpg" group-title="2026 Winter Olympics",NBC: Women's Free Skate
 https://modistreams.org/embed/olympics/2026-02-19/figure-skating/nbc-womens-free-skate
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/654e823fe7991a55a69b086f24f494e8-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Norway (M Semifinal)
-https://modistreams.org/embed/olympics/2026-02-19/curling/canada-vs-norway-m-semifinal
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/509ac316b4c97d2999da6ebba8a35ac7-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Great Britain (M Semifinal)
-https://modistreams.org/embed/olympics/2026-02-19/curling/switzerland-vs-great-britain-m-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Baltimore Orioles
 https://modistreams.org/embed/mlb/20260216/nyy-bal-4367
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Chicago Cubs
@@ -39,8 +35,8 @@ https://modistreams.org/embed/nba/2026-02-19/den-lac
 https://modistreams.org/embed/ufc-fight-night-strickland-vs.-hernandez
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://modistreams.org/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 3
-https://modistreams.org/embed/premier-league-darts-night-3
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
+https://modistreams.org/embed/premier-league-darts-night-4
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
 https://modistreams.org/embed/golazo
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c6a2f9e1b88690d6d32bef0652bf316b-thumbnail.jpg" group-title="Football",Ludogorets vs. Ferencváros
