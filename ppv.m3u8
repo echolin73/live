@@ -9,20 +9,20 @@ https://modistreams.org/embed/olympics/2026-02-19/curling/great-britain-vs-italy
 https://modistreams.org/embed/olympics/2026-02-19/curling/japan-vs-china-w-round-robin
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e54c01733f5ce3685e0371c1cd150802-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. USA (W Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-19/curling/switzerland-vs-usa-w-round-robin
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ac7112cef7ce5d7e23c365d7cb40c8b9-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Sweden (Women's Bronze)
-https://modistreams.org/embed/olympics/2026-02-19/hockey/switzerland-vs-sweden-womens-bronze
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4fd9f9e1f975ed06e9e011c231f3bf3f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Free: Warm-Up & More
 https://modistreams.org/embed/olympics/2026-02-19/figure-skating/womens-free-warm-up--more
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2750bbfeda63fa3569fcf8620029a012-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 1500m
 https://modistreams.org/embed/olympics/2026-02-19/short-track/mens-1500m
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/64fe9956836e14bfe3dab5cbe841524d-thumbnail.jpg" group-title="2026 Winter Olympics",NBC: Women's Free Skate
 https://modistreams.org/embed/olympics/2026-02-19/figure-skating/nbc-womens-free-skate
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Semifinal
-https://modistreams.org/embed/olympics/2026-02-19/curling/mens-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8f4349233fbb32a03088efe87680f309-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Canada (Women's Gold)
 https://modistreams.org/embed/olympics/2026-02-19/hockey/usa-vs-canada-womens-gold
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/74fb8743341b11741e7f9b79dd5f390b-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Freeski Halfpipe: Qualifying
 https://modistreams.org/embed/olympics/2026-02-19/freestyle-skiing/womens-freeski-halfpipe-qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/654e823fe7991a55a69b086f24f494e8-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Norway (M Semifinal)
+https://modistreams.org/embed/olympics/2026-02-19/curling/canada-vs-norway-m-semifinal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/509ac316b4c97d2999da6ebba8a35ac7-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Great Britain (M Semifinal)
+https://modistreams.org/embed/olympics/2026-02-19/curling/switzerland-vs-great-britain-m-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Baltimore Orioles
 https://modistreams.org/embed/mlb/20260216/nyy-bal-4367
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Chicago Cubs
@@ -183,8 +183,6 @@ https://modistreams.org/embed/seriea/2026-02-23/bol-udi
 https://modistreams.org/embed/laliga/2026-02-23/ala-gir
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="Football",Everton vs. Manchester United
 https://modistreams.org/embed/premierleague/2026-02-23/eve-man
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3f2d22d743f0cab5487804414979be16-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 2
-https://modistreams.org/embed/f1/2026/pre-season-testing-2/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
 https://modistreams.org/embed/f1/2026/pre-season-testing-2/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
