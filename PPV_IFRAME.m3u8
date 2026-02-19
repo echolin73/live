@@ -71,6 +71,8 @@ https://abc.com/stream?uri=nba/2026-02-19/bos-gs
 https://abc.com/stream?uri=nba/2026-02-19/orl-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/679abe96cd79f63b48afba47d87925a6-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. LA Clippers
 https://abc.com/stream?uri=nba/2026-02-19/den-lac
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ce0f3e221f1722395f65c43d537a2359-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Strickland vs. Hernandez
+https://abc.com/stream?uri=ufc-fight-night-strickland-vs.-hernandez
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 3
 https://abc.com/stream?uri=premier-league-darts-night-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2317f62fd81d6c6cb7c443dc16005a70-thumbnail.jpg" group-title="Football",GNK Dinamo vs. Genk
@@ -223,3 +225,5 @@ https://abc.com/stream?uri=247-the-simpsons
 https://abc.com/stream?uri=247-spongebob-squarepants
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="24/7 Streams",Rally TV
 https://abc.com/stream?uri=rally-tv
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
+https://abc.com/stream?uri=willow-cricket
