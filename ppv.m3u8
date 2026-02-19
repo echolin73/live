@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 13
 https://modistreams.org/embed/olympics/2026-02-19/gold-zone-day-13
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Training
-https://modistreams.org/embed/olympics/2026-02-19/bobsled/two-woman-bobsled-training
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/50afbf90ca3d1b07b7498f8cd84d6219-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. South Korea (W Round-Robin)
 https://modistreams.org/embed/olympics/2026-02-19/curling/canada-vs-south-korea-w-round-robin
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/28fd4be5b4c907018225a05265bddfba-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Italy (W Round-Robin)
