@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6adc3f7969be78f3caba3abc9387d64-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Slovakia (Men's Semifinal)
-https://pooembed.eu/embed/olympics/2026-02-20/hockey/usa-vs-slovakia-mens-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Postgame Coverage
 https://pooembed.eu/embed/olympics/2026-02-21/hockey/postgame-coverage
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/831a30674bc7d7112646b07d443ed876-thumbnail.jpg" group-title="2026 Winter Olympics",Norway vs. Switzerland (Men's Bronze Final)
@@ -43,12 +41,6 @@ https://pooembed.eu/embed/olympics/2026-02-21/figure-skating/exhibition-gala
 https://pooembed.eu/embed/olympics/2026-02-21/hockey/mens-bronze-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bf709571e3006941ed8aa117d1a8f10f-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Final Run
 https://pooembed.eu/embed/olympics/2026-02-21/bobsled/two-woman-bobsled-final-run
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Chicago Cubs
-https://pooembed.eu/embed/mlb/20260216/chw-chc-6429
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a59499a720800f96efb5f35a92573f09-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Colorado Rockies
-https://pooembed.eu/embed/mlb/20260216/ari-col-3756
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4c69de162d2e697775d75fbbdda5d1e6-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Seattle Mariners
-https://pooembed.eu/embed/mlb/20260216/sd-sea-7626
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/04a25eb5609f2521dea2b6f4bf5bc573-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Charlotte Hornets
 https://pooembed.eu/embed/nba/2026-02-20/cle-cha
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/040f81f29c3c8a00d64913dd256b3a9b-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. Washington Wizards
