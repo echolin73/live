@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 14
 https://pooembed.eu/embed/olympics/2026-02-20/gold-zone-day-14
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1601294245b355d00ccfb715b3a2055b-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Canada (W Semifinal)
-https://pooembed.eu/embed/olympics/2026-02-20/curling/sweden-vs-canada-w-semifinal
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5d66fd0550f1dc652d9da1c5a749b08a-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Switzerland (W Semifinal)
-https://pooembed.eu/embed/olympics/2026-02-20/curling/usa-vs-switzerland-w-semifinal
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5d66fd0550f1dc652d9da1c5a749b08a-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Switzerland (Women's Semifinal)
-https://pooembed.eu/embed/olympics/2026-02-20/curling/usa-vs-switzerland-womens-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02eff8b79af5cb46f60fe51884b9dc9f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 1500m
 https://pooembed.eu/embed/olympics/2026-02-20/speed-skating/womens-1500m
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6589cb81a69734a9f1694414a287379d-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Finland (Men's Semifinal)
@@ -149,8 +143,6 @@ https://pooembed.eu/embed/seriea/2026-02-23/bol-udi
 https://pooembed.eu/embed/laliga/2026-02-23/ala-gir
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="Football",Everton vs. Manchester United
 https://pooembed.eu/embed/premierleague/2026-02-23/eve-man
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
-https://pooembed.eu/embed/f1/2026/pre-season-testing-2/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 https://pooembed.eu/embed/wwe/smackdown/2026-02-20
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
