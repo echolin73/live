@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 14
 https://pooembed.eu/embed/olympics/2026-02-20/gold-zone-day-14
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02eff8b79af5cb46f60fe51884b9dc9f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 1500m
-https://pooembed.eu/embed/olympics/2026-02-20/speed-skating/womens-1500m
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6589cb81a69734a9f1694414a287379d-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Finland (Men's Semifinal)
 https://pooembed.eu/embed/olympics/2026-02-20/hockey/canada-vs-finland-mens-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Run 1
