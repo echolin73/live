@@ -49,26 +49,6 @@ https://abc.com/stream?uri=mlb/20260216/chw-chc-6429
 https://abc.com/stream?uri=mlb/20260216/ari-col-3756
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4c69de162d2e697775d75fbbdda5d1e6-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Seattle Mariners
 https://abc.com/stream?uri=mlb/20260216/sd-sea-7626
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/896c1954a0954740419ac09e6947bf98-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Charlotte Hornets
-https://abc.com/stream?uri=nba/2026-02-19/hou-cha
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4d50edf4004ec6e7ff12c9c6de76230c-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Cleveland Cavaliers
-https://abc.com/stream?uri=nba/2026-02-19/bkn-cle
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6cf9e4e7b4e9e613cb3393bb3643ea26-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Philadelphia 76ers
-https://abc.com/stream?uri=nba/2026-02-19/atl-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/040f81f29c3c8a00d64913dd256b3a9b-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. Washington Wizards
-https://abc.com/stream?uri=nba/2026-02-19/ind-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1cb66651ca5096d597d5f67dd280f97a-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. New York Knicks
-https://abc.com/stream?uri=nba/2026-02-19/det-ny
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1c58a88b0177e70359bb4f60ba05e1f0-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Chicago Bulls
-https://abc.com/stream?uri=nba/2026-02-19/tor-chi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e578b21869de5bb418c3b9728b0a09e8-thumbnail.jpg" group-title="Basketball",Phoenix Suns vs. San Antonio Spurs
-https://abc.com/stream?uri=nba/2026-02-19/phx-sa
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9e7ac8e190714c95526b2c2163e63c5d-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Golden State Warriors
-https://abc.com/stream?uri=nba/2026-02-19/bos-gs
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/beeb10fe5a88464d208fc7da6bad8217-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Sacramento Kings
-https://abc.com/stream?uri=nba/2026-02-19/orl-sac
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/679abe96cd79f63b48afba47d87925a6-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. LA Clippers
-https://abc.com/stream?uri=nba/2026-02-19/den-lac
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ce0f3e221f1722395f65c43d537a2359-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Strickland vs. Hernandez
 https://abc.com/stream?uri=ufc-fight-night-strickland-vs.-hernandez
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
@@ -173,8 +153,6 @@ https://abc.com/stream?uri=laliga/2026-02-23/ala-gir
 https://abc.com/stream?uri=premierleague/2026-02-23/eve-man
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2287ad4db98cc7f186b2e504241f4b4-thumbnail.jpg" group-title="Motorsports",Pre-Season Testing - Day 3
 https://abc.com/stream?uri=f1/2026/pre-season-testing-2/fp3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
-https://abc.com/stream?uri=tna/impact/2026-02-19
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 https://abc.com/stream?uri=wwe/smackdown/2026-02-20
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
