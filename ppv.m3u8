@@ -1,8 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 14
-https://pooembed.eu/embed/olympics/2026-02-20/gold-zone-day-14
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6adc3f7969be78f3caba3abc9387d64-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Slovakia (Men's Semifinal)
 https://pooembed.eu/embed/olympics/2026-02-20/hockey/usa-vs-slovakia-mens-semifinal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Postgame Coverage
+https://pooembed.eu/embed/olympics/2026-02-21/hockey/postgame-coverage
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/831a30674bc7d7112646b07d443ed876-thumbnail.jpg" group-title="2026 Winter Olympics",Norway vs. Switzerland (Men's Bronze Final)
+https://pooembed.eu/embed/olympics/2026-02-21/curling/norway-vs-switzerland-mens-bronze-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e43c36a30858651f16ba0c5a455cb613-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Run 1
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-run-1
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1efa5be4104f454dc269f11c0ec72636-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Ski Cross: Seeding
+https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/mens-ski-cross-seeding
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4d5e4d08d064912d4f4bf41dc0bdde4e-thumbnail.jpg" group-title="2026 Winter Olympics",Mixed Team Aerials: Final
+https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/mixed-team-aerials-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6d6d3c146290813896d686f9d3a2e08d-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 50km Mass Start Classic
+https://pooembed.eu/embed/olympics/2026-02-21/cross-country-skiing/mens-50km-mass-start-classic
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b41305a94177e9f450f20d5e549a1342-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Run 2
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-run-2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/99daab860321d8c830e8169ada290768-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Ski Cross: Finals
+https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/mens-ski-cross-finals
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ce77568d394c170428ab8f49b790b85b-thumbnail.jpg" group-title="2026 Winter Olympics",Mixed Team Relay
+https://pooembed.eu/embed/olympics/2026-02-21/ski-mountaineering/mixed-team-relay
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 15
+https://pooembed.eu/embed/olympics/2026-02-21/gold-zone-day-15
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/411b07d606bd47166e16f7642fda598f-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. USA (W Bronze Final)
+https://pooembed.eu/embed/olympics/2026-02-21/curling/canada-vs-usa-w-bronze-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b11e34b4ae0b62e963e4ce5058b29e6a-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 12.5km Mass Start
+https://pooembed.eu/embed/olympics/2026-02-21/biathlon/womens-125km-mass-start
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb788451635d3fd293aaf9f0c9211dbe-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Mass Start
+https://pooembed.eu/embed/olympics/2026-02-21/speed-skating/mens--womens-mass-start
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb788451635d3fd293aaf9f0c9211dbe-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Mass Start Semifinals
+https://pooembed.eu/embed/olympics/2026-02-21/speed-skating/mens-mass-start-semifinals
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b41305a94177e9f450f20d5e549a1342-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Runs 1-2
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-runs-1-2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e34f33c823fcca6cb3d4545592d080a9-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Run 3
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/two-woman-bobsled-run-3
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6dfa23fca06cf9a301dff5fb55cf84ed-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Canada (Men's Gold Final)
+https://pooembed.eu/embed/olympics/2026-02-21/curling/great-britain-vs-canada-mens-gold-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc4da95a94ca583402964834f978c56d-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Freeski Halfpipe: Final
+https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/womens-freeski-halfpipe-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/721dc6a022c03d03d02770d0dfa83bed-thumbnail.jpg" group-title="2026 Winter Olympics",Exhibition Gala
+https://pooembed.eu/embed/olympics/2026-02-21/figure-skating/exhibition-gala
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Bronze Final
+https://pooembed.eu/embed/olympics/2026-02-21/hockey/mens-bronze-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bf709571e3006941ed8aa117d1a8f10f-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Final Run
+https://pooembed.eu/embed/olympics/2026-02-21/bobsled/two-woman-bobsled-final-run
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Chicago Cubs
 https://pooembed.eu/embed/mlb/20260216/chw-chc-6429
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a59499a720800f96efb5f35a92573f09-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Colorado Rockies
