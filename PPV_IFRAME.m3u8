@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 14
 https://pooembed.eu/embed/olympics/2026-02-20/gold-zone-day-14
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Bronze Final
-https://pooembed.eu/embed/olympics/2026-02-20/curling/mens-bronze-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6adc3f7969be78f3caba3abc9387d64-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Slovakia (Men's Semifinal)
 https://pooembed.eu/embed/olympics/2026-02-20/hockey/usa-vs-slovakia-mens-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Chicago Cubs
@@ -35,12 +33,6 @@ https://pooembed.eu/embed/ufc-fight-night-strickland-vs.-hernandez
 https://pooembed.eu/embed/willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
 https://pooembed.eu/embed/premier-league-darts-night-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8fdb4f6ac208295c3f2553e25ecd3780-thumbnail.jpg" group-title="Football",Mainz vs. Hamburg SV
-https://pooembed.eu/embed/bundesliga/2026-02-20/m05-hsv
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e578bf3afc556f1c1162a2c389c0f37-thumbnail.jpg" group-title="Football",Sassuolo vs. Hellas Verona
-https://pooembed.eu/embed/seriea/2026-02-20/sas-ver
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2c19e46f3b29dd72e702cabe22e51dea-thumbnail.jpg" group-title="Football",Brest vs. Marseille
-https://pooembed.eu/embed/ligue1/2026-02-20/bre-olm
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d9c316794ec15c7d04375e30aa39f526-thumbnail.jpg" group-title="Football",Athletic Club vs. Elche
 https://pooembed.eu/embed/laliga/2026-02-20/ath-elc
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0da6156d0e65596727724ea65263ce03-thumbnail.jpg" group-title="Football",Real Sociedad vs. Real Oviedo
