@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 14
 https://pooembed.eu/embed/olympics/2026-02-20/gold-zone-day-14
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6589cb81a69734a9f1694414a287379d-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Finland (Men's Semifinal)
-https://pooembed.eu/embed/olympics/2026-02-20/hockey/canada-vs-finland-mens-semifinal
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Run 1
-https://pooembed.eu/embed/olympics/2026-02-20/bobsled/two-woman-bobsled-run-1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Bronze Final
 https://pooembed.eu/embed/olympics/2026-02-20/curling/mens-bronze-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8f97a58fae63b9bde1106eb3ddb00db0-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Freeski Halfpipe: Final
