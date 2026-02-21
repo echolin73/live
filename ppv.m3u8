@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/831a30674bc7d7112646b07d443ed876-thumbnail.jpg" group-title="2026 Winter Olympics",Norway vs. Switzerland (Men's Bronze Final)
-https://pooembed.eu/embed/olympics/2026-02-21/curling/norway-vs-switzerland-mens-bronze-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e43c36a30858651f16ba0c5a455cb613-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Run 1
 https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-run-1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1efa5be4104f454dc269f11c0ec72636-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Ski Cross: Seeding
@@ -39,20 +37,6 @@ https://pooembed.eu/embed/olympics/2026-02-21/figure-skating/exhibition-gala
 https://pooembed.eu/embed/olympics/2026-02-21/hockey/mens-bronze-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bf709571e3006941ed8aa117d1a8f10f-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Final Run
 https://pooembed.eu/embed/olympics/2026-02-21/bobsled/two-woman-bobsled-final-run
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/04a25eb5609f2521dea2b6f4bf5bc573-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Charlotte Hornets
-https://pooembed.eu/embed/nba/2026-02-20/cle-cha
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/040f81f29c3c8a00d64913dd256b3a9b-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. Washington Wizards
-https://pooembed.eu/embed/nba/2026-02-20/ind-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/58bd2d2c1f4b8dd68a01a888838aa677-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Memphis Grizzlies
-https://pooembed.eu/embed/nba/2026-02-20/utah-mem
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0b1b80d5864080136bc288ea322b55c0-thumbnail.jpg" group-title="Basketball",Miami Heat vs. Atlanta Hawks
-https://pooembed.eu/embed/nba/2026-02-20/mia-atl
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0172fc5f7804aa21d271694ca457562f-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Minnesota Timberwolves
-https://pooembed.eu/embed/nba/2026-02-20/dal-min
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/91c01627af5baba1fc882ffbb506fffd-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. New Orleans Pelicans
-https://pooembed.eu/embed/nba/2026-02-20/mil-no
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78a19411fed036b3a9ce61010b87ac7e-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Oklahoma City Thunder
-https://pooembed.eu/embed/nba/2026-02-20/bkn-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c41bb2e422b8b88789bd5ba665b3f94e-thumbnail.jpg" group-title="Basketball",LA Clippers vs. Los Angeles Lakers
 https://pooembed.eu/embed/nba/2026-02-20/lac-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/819fbe9276b2ef64d9b21ea4b059c60f-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Portland Trail Blazers
@@ -151,8 +135,6 @@ https://pooembed.eu/embed/seriea/2026-02-23/bol-udi
 https://pooembed.eu/embed/laliga/2026-02-23/ala-gir
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="Football",Everton vs. Manchester United
 https://pooembed.eu/embed/premierleague/2026-02-23/eve-man
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
-https://pooembed.eu/embed/wwe/smackdown/2026-02-20
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://pooembed.eu/embed/aew/collision/2026-02-21
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
