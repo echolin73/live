@@ -1,26 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c08097cc52e0a718faf053f816815c8b-thumbnail.jpg" group-title="2026 Winter Olympics",2026 Winter Olympics Closing Ceremony
 https://embed.ppv.to/embed/olympics/2026-02-22/ceremony/2026-winter-olympics-closing-ceremony
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e35987cbcbf586cdbf0d156842ed652d-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Atlanta Braves
-https://embed.ppv.to/embed/mlb/20260222/min-atl-3742
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9736cfb985bc4a60e2df260effe738b0-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Boston Red Sox
-https://embed.ppv.to/embed/mlb/20260222/tor-bos-1335
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc7a34c0fa7b2d574e9161dd0a40a22e-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Houston Astros
-https://embed.ppv.to/embed/mlb/20260222/stl-hou-6323
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d4e8d9a2acc0bfd25fbee7ab09537daf-thumbnail.jpg" group-title="Baseball",New York Mets vs. New York Yankees
-https://embed.ppv.to/embed/mlb/20260222/nym-nyy-9162
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e2f0d46a33b30cbc116a6342113c7d57-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Philadelphia Phillies
-https://embed.ppv.to/embed/mlb/20260222/pit-phi-7964
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/51d6d4a8ab00fb87a927f435d456ab89-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Pittsburgh Pirates
-https://embed.ppv.to/embed/mlb/20260222/tb-pit-7598
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/60b349073299fbe584ded834526173c9-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Chicago White Sox
 https://embed.ppv.to/embed/mlb/20260222/mil-chw-3842
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/193a5bdb355de9f2d4424232d9b47932-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Francisco Giants
 https://embed.ppv.to/embed/mlb/20260222/chc-sf-4523
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ffe33daf87e940bcc593980f387dc16e-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. San Diego Padres
 https://embed.ppv.to/embed/mlb/20260222/lad-sd-4982
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4e3d9f3be80073d08bbd6f71ba404234-thumbnail.jpg" group-title="Basketball",Ohio State Buckeyes vs. Michigan State Spartans (Basketball)
-https://embed.ppv.to/embed/cbb/5875/5875-msu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fb1e3efd78d9db443aa54c8b9b3bed7b-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Atlanta Hawks
 https://embed.ppv.to/embed/nba/2026-02-22/bkn-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4ecae38cdb10ad8a9039a980041a0d80-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Milwaukee Bucks
