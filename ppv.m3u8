@@ -1,159 +1,131 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e43c36a30858651f16ba0c5a455cb613-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Run 1
-https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-run-1
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1efa5be4104f454dc269f11c0ec72636-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Ski Cross: Seeding
-https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/mens-ski-cross-seeding
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4d5e4d08d064912d4f4bf41dc0bdde4e-thumbnail.jpg" group-title="2026 Winter Olympics",Mixed Team Aerials: Final
-https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/mixed-team-aerials-final
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6d6d3c146290813896d686f9d3a2e08d-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 50km Mass Start Classic
-https://pooembed.eu/embed/olympics/2026-02-21/cross-country-skiing/mens-50km-mass-start-classic
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b41305a94177e9f450f20d5e549a1342-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Run 2
-https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-run-2
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/99daab860321d8c830e8169ada290768-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Ski Cross: Finals
-https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/mens-ski-cross-finals
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ce77568d394c170428ab8f49b790b85b-thumbnail.jpg" group-title="2026 Winter Olympics",Mixed Team Relay
-https://pooembed.eu/embed/olympics/2026-02-21/ski-mountaineering/mixed-team-relay
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 15
-https://pooembed.eu/embed/olympics/2026-02-21/gold-zone-day-15
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/411b07d606bd47166e16f7642fda598f-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. USA (W Bronze Final)
-https://pooembed.eu/embed/olympics/2026-02-21/curling/canada-vs-usa-w-bronze-final
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b11e34b4ae0b62e963e4ce5058b29e6a-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 12.5km Mass Start
-https://pooembed.eu/embed/olympics/2026-02-21/biathlon/womens-125km-mass-start
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb788451635d3fd293aaf9f0c9211dbe-thumbnail.jpg" group-title="2026 Winter Olympics",Men's & Women's Mass Start
-https://pooembed.eu/embed/olympics/2026-02-21/speed-skating/mens--womens-mass-start
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb788451635d3fd293aaf9f0c9211dbe-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Mass Start Semifinals
-https://pooembed.eu/embed/olympics/2026-02-21/speed-skating/mens-mass-start-semifinals
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b41305a94177e9f450f20d5e549a1342-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Runs 1-2
-https://pooembed.eu/embed/olympics/2026-02-21/bobsled/four-man-bobsled-runs-1-2
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e34f33c823fcca6cb3d4545592d080a9-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Run 3
-https://pooembed.eu/embed/olympics/2026-02-21/bobsled/two-woman-bobsled-run-3
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6dfa23fca06cf9a301dff5fb55cf84ed-thumbnail.jpg" group-title="2026 Winter Olympics",Great Britain vs. Canada (Men's Gold Final)
-https://pooembed.eu/embed/olympics/2026-02-21/curling/great-britain-vs-canada-mens-gold-final
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc4da95a94ca583402964834f978c56d-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Freeski Halfpipe: Final
-https://pooembed.eu/embed/olympics/2026-02-21/freestyle-skiing/womens-freeski-halfpipe-final
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/721dc6a022c03d03d02770d0dfa83bed-thumbnail.jpg" group-title="2026 Winter Olympics",Exhibition Gala
-https://pooembed.eu/embed/olympics/2026-02-21/figure-skating/exhibition-gala
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Bronze Final
-https://pooembed.eu/embed/olympics/2026-02-21/hockey/mens-bronze-final
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bf709571e3006941ed8aa117d1a8f10f-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Final Run
-https://pooembed.eu/embed/olympics/2026-02-21/bobsled/two-woman-bobsled-final-run
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d0af658585dde3a3922a1017564be04-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Phoenix Suns
-https://pooembed.eu/embed/nba/2026-02-21/orl-phx
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/75b638e41a773eee901148a04ab3702f-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. New Orleans Pelicans
-https://pooembed.eu/embed/nba/2026-02-21/phi-no
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c16203c454c3826e4b64b99a607b8598-thumbnail.jpg" group-title="Basketball",Memphis Grizzlies vs. Miami Heat
-https://pooembed.eu/embed/nba/2026-02-21/mem-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fb348986fbcb76d990fa0e33db16a3af-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. Chicago Bulls
-https://pooembed.eu/embed/nba/2026-02-21/det-chi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/45f7a5d013438d06e168988d714400a2-thumbnail.jpg" group-title="Basketball",Sacramento Kings vs. San Antonio Spurs
-https://pooembed.eu/embed/nba/2026-02-21/sac-sa
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bafba5c5c99290e933698d88dba510d8-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. New York Knicks
-https://pooembed.eu/embed/nba/2026-02-21/hou-ny
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ce0f3e221f1722395f65c43d537a2359-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Strickland vs. Hernandez
-https://pooembed.eu/embed/ufc-fight-night-strickland-vs.-hernandez
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e43c36a30858651f16ba0c5a455cb613-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Run 3
+https://embed.ppv.to/embed/olympics/2026-02-22/bobsled/four-man-bobsled-run-3
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2293d19862e3fe67cea331b613ab39a7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 50km Mass Start Classic
+https://embed.ppv.to/embed/olympics/2026-02-22/cross-country-skiing/womens-50km-mass-start-classic
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/db9ef7a4283f4e18e7d260257133b002-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Freeski Halfpipe: Final
+https://embed.ppv.to/embed/olympics/2026-02-22/freestyle-skiing/womens-freeski-halfpipe-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/405c6e9b8137fa430aab9388c1a949fd-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Sweden (W Gold Final)
+https://embed.ppv.to/embed/olympics/2026-02-22/curling/switzerland-vs-sweden-w-gold-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b41305a94177e9f450f20d5e549a1342-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Final Run
+https://embed.ppv.to/embed/olympics/2026-02-22/bobsled/four-man-bobsled-final-run
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/405c6e9b8137fa430aab9388c1a949fd-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Sweden (W Gold Medal Final)
+https://embed.ppv.to/embed/olympics/2026-02-22/curling/switzerland-vs-sweden-w-gold-medal-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Hockey Preview
+https://embed.ppv.to/embed/olympics/2026-02-22/hockey/hockey-preview
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Gold Final (Curated Feed)
+https://embed.ppv.to/embed/olympics/2026-02-22/hockey/mens-gold-final-curated-feed
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8f4349233fbb32a03088efe87680f309-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Canada (Men's Gold Final)
+https://embed.ppv.to/embed/olympics/2026-02-22/hockey/usa-vs-canada-mens-gold-final
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d9d1f6dccb309b97ae1fd4a5afaeab29-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Runs 3-4
+https://embed.ppv.to/embed/olympics/2026-02-22/bobsled/four-man-bobsled-runs-3-4
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c08097cc52e0a718faf053f816815c8b-thumbnail.jpg" group-title="2026 Winter Olympics",2026 Winter Olympics Closing Ceremony
+https://embed.ppv.to/embed/olympics/2026-02-22/ceremony/2026-winter-olympics-closing-ceremony
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e35987cbcbf586cdbf0d156842ed652d-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Atlanta Braves
+https://embed.ppv.to/embed/mlb/20260222/min-atl-3742
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9736cfb985bc4a60e2df260effe738b0-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Boston Red Sox
+https://embed.ppv.to/embed/mlb/20260222/tor-bos-1335
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc7a34c0fa7b2d574e9161dd0a40a22e-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Houston Astros
+https://embed.ppv.to/embed/mlb/20260222/stl-hou-6323
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d4e8d9a2acc0bfd25fbee7ab09537daf-thumbnail.jpg" group-title="Baseball",New York Mets vs. New York Yankees
+https://embed.ppv.to/embed/mlb/20260222/nym-nyy-9162
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e2f0d46a33b30cbc116a6342113c7d57-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Philadelphia Phillies
+https://embed.ppv.to/embed/mlb/20260222/pit-phi-7964
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/51d6d4a8ab00fb87a927f435d456ab89-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Pittsburgh Pirates
+https://embed.ppv.to/embed/mlb/20260222/tb-pit-7598
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/60b349073299fbe584ded834526173c9-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Chicago White Sox
+https://embed.ppv.to/embed/mlb/20260222/mil-chw-3842
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/193a5bdb355de9f2d4424232d9b47932-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Francisco Giants
+https://embed.ppv.to/embed/mlb/20260222/chc-sf-4523
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ffe33daf87e940bcc593980f387dc16e-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. San Diego Padres
+https://embed.ppv.to/embed/mlb/20260222/lad-sd-4982
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94cd1d966e24f1187c5be9f69fd27d14-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Oklahoma City Thunder
+https://embed.ppv.to/embed/nba/2026-02-22/cle-okc
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4e3d9f3be80073d08bbd6f71ba404234-thumbnail.jpg" group-title="Basketball",Ohio State Buckeyes vs. Michigan State Spartans (Basketball)
+https://embed.ppv.to/embed/cbb/5875/5875-msu
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fb1e3efd78d9db443aa54c8b9b3bed7b-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Atlanta Hawks
+https://embed.ppv.to/embed/nba/2026-02-22/bkn-atl
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4ecae38cdb10ad8a9039a980041a0d80-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Milwaukee Bucks
+https://embed.ppv.to/embed/nba/2026-02-22/tor-mil
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/910ce76f9d0042123c432fdb21575682-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Golden State Warriors
+https://embed.ppv.to/embed/nba/2026-02-22/den-gs
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e2b22f3b456e6d791b64cf9254f8e01-thumbnail.jpg" group-title="Basketball",Iowa Hawkeyes vs. Wisconsin Badgers (Basketball)
+https://embed.ppv.to/embed/cbb/7415/7415-wis
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4561c300657bab4034db55ae10662a64-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Indiana Pacers
+https://embed.ppv.to/embed/nba/2026-02-22/dal-ind
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c8fe40dbe09f9a26d5bfbc7c2bc3df10-thumbnail.jpg" group-title="Basketball",Charlotte Hornets vs. Washington Wizards
+https://embed.ppv.to/embed/nba/2026-02-22/cha-wsh
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f402050cbadda289d65e3ad985ea7713-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Los Angeles Lakers
+https://embed.ppv.to/embed/nba/2026-02-22/bos-lal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3db691cdc46fcabe3011ca79d66e6fec-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Minnesota Timberwolves
+https://embed.ppv.to/embed/nba/2026-02-22/phi-min
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1ab293b0fe6ba89e0b2ad807f4842ee5-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Chicago Bulls
+https://embed.ppv.to/embed/nba/2026-02-22/ny-chi
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e92a20227901275010d1ffff4911c295-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Phoenix Suns
+https://embed.ppv.to/embed/nba/2026-02-22/por-phx
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c87df770269d76f86648813feba1fbc7-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. LA Clippers
+https://embed.ppv.to/embed/nba/2026-02-22/orl-lac
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
-https://pooembed.eu/embed/willow-cricket
+https://embed.ppv.to/embed/willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
-https://pooembed.eu/embed/premier-league-darts-night-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0da6156d0e65596727724ea65263ce03-thumbnail.jpg" group-title="Football",Real Sociedad vs. Real Oviedo
-https://pooembed.eu/embed/laliga/2026-02-21/rso-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/179cbfd68e77bf9e1d6c735b0f4e88b4-thumbnail.jpg" group-title="Football",Juventus vs. Como
-https://pooembed.eu/embed/seriea/2026-02-21/juv-como
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/63a5082dc4d83bfaa185b6605884ab19-thumbnail.jpg" group-title="Football",1. FC Union Berlin vs. Bayer Leverkusen
-https://pooembed.eu/embed/bundesliga/2026-02-21/fcu-b04
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e3af0d2bb9db955fc4773b966325bfd9-thumbnail.jpg" group-title="Football",Bayern Munich vs. Eintracht Frankfurt
-https://pooembed.eu/embed/bundesliga/2026-02-21/mun-sge
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/52f94f7b56c6a3a233bb5055c178eef4-thumbnail.jpg" group-title="Football",FC Cologne vs. TSG Hoffenheim
-https://pooembed.eu/embed/bundesliga/2026-02-21/koe-tsg
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86e09f7d4ea69cd98b4b26926dd93e0e-thumbnail.jpg" group-title="Football",VfL Wolfsburg vs. FC Augsburg
-https://pooembed.eu/embed/bundesliga/2026-02-21/wob-fca
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d1058cc31ece80bb4e6d76c61f510efa-thumbnail.jpg" group-title="Football",Aston Villa vs. Leeds United
-https://pooembed.eu/embed/premierleague/2026-02-21/avl-lee
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e03e3f28b7be4f2797cafcc49a05eeb9-thumbnail.jpg" group-title="Football",Brentford vs. Brighton & Hove Albion
-https://pooembed.eu/embed/premierleague/2026-02-21/bre-bha
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ad68bfae2a76a83fbecb8df178303cbf-thumbnail.jpg" group-title="Football",Chelsea vs. Burnley
-https://pooembed.eu/embed/premierleague/2026-02-21/che-bur
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f61e5da43352a525b3c7087d647648c3-thumbnail.jpg" group-title="Football",Real Betis vs. Rayo Vallecano
-https://pooembed.eu/embed/laliga/2026-02-21/bet-ray
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a19f7658e4f8938ebbc8938b67f137f0-thumbnail.jpg" group-title="Football",Lens vs. AS Monaco
-https://pooembed.eu/embed/ligue1/2026-02-21/rcl-mon
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/733bb0d372fc047931b40be498ab5240-thumbnail.jpg" group-title="Football",Lecce vs. Inter Milan
-https://pooembed.eu/embed/seriea/2026-02-21/lec-int
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d48af3c4be9617ae19891d27b07393ff-thumbnail.jpg" group-title="Football",Osasuna vs. Real Madrid
-https://pooembed.eu/embed/laliga/2026-02-21/osa-rma
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ea5e5ed4734a8298fddbc20f1bf96537-thumbnail.jpg" group-title="Football",RB Leipzig vs. Borussia Dortmund
-https://pooembed.eu/embed/bundesliga/2026-02-21/rbl-dor
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b102e5ca9e5e1a748886ef24b48e3e8c-thumbnail.jpg" group-title="Football",West Ham United vs. AFC Bournemouth
-https://pooembed.eu/embed/premierleague/2026-02-21/whu-bou
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/502b92c27e6e407cf06ca34b7d8b7aac-thumbnail.jpg" group-title="Football",Toulouse vs. Paris FC
-https://pooembed.eu/embed/ligue1/2026-02-21/tou-par
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cb62d504d9e55e1b347e8816db33a241-thumbnail.jpg" group-title="Football",Cagliari vs. Lazio
-https://pooembed.eu/embed/seriea/2026-02-21/cag-laz
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c0da27927e56c9430226abe77806e7af-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Espanyol
-https://pooembed.eu/embed/laliga/2026-02-21/atm-esp
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b9394975fea3f55a8aafa90ecd722ba7-thumbnail.jpg" group-title="Football",Manchester City vs. Newcastle United
-https://pooembed.eu/embed/premierleague/2026-02-21/mnc-new
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36b13aa93f943b500c176b7a7a7e29d2-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Metz
-https://pooembed.eu/embed/ligue1/2026-02-21/psg-metz
+https://embed.ppv.to/embed/premier-league-darts-night-4
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ed3c50a71a8d81f8bb17348c5326728-thumbnail.jpg" group-title="Football",Genoa vs. Torino
-https://pooembed.eu/embed/seriea/2026-02-22/gen-tor
+https://embed.ppv.to/embed/seriea/2026-02-22/gen-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9760120ca95578a9dee3efc7696b07f3-thumbnail.jpg" group-title="Football",Getafe vs. Sevilla
-https://pooembed.eu/embed/laliga/2026-02-22/get-sev
+https://embed.ppv.to/embed/laliga/2026-02-22/get-sev
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c143dc02566b2084fde32b5562928070-thumbnail.jpg" group-title="Football",Crystal Palace vs. Wolverhampton Wanderers
-https://pooembed.eu/embed/premierleague/2026-02-22/cry-wol
+https://embed.ppv.to/embed/premierleague/2026-02-22/cry-wol
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/68b21c458e09ee7fe1defb15ea0596a4-thumbnail.jpg" group-title="Football",Nottingham Forest vs. Liverpool
-https://pooembed.eu/embed/premierleague/2026-02-22/nfo-liv
+https://embed.ppv.to/embed/premierleague/2026-02-22/nfo-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/712ffa72750b26562bb599feeab50251-thumbnail.jpg" group-title="Football",Sunderland vs. Fulham
-https://pooembed.eu/embed/premierleague/2026-02-22/sun-ful
+https://embed.ppv.to/embed/premierleague/2026-02-22/sun-ful
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f17742c3fa4de3d37de2e684f7441ae3-thumbnail.jpg" group-title="Football",Atalanta vs. Napoli
-https://pooembed.eu/embed/seriea/2026-02-22/ata-nap
+https://embed.ppv.to/embed/seriea/2026-02-22/ata-nap
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b2905183a06b5a8220a0d5805a3081cb-thumbnail.jpg" group-title="Football",AJ Auxerre vs. Stade Rennais
-https://pooembed.eu/embed/ligue1/2026-02-22/aux-ren
+https://embed.ppv.to/embed/ligue1/2026-02-22/aux-ren
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/44aef21c2b24dc2f20090c7379a92c8c-thumbnail.jpg" group-title="Football",SC Freiburg vs. Borussia Mönchengladbach
-https://pooembed.eu/embed/bundesliga/2026-02-22/scf-bmg
+https://embed.ppv.to/embed/bundesliga/2026-02-22/scf-bmg
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78e0151985c840fbfcf155681ddde752-thumbnail.jpg" group-title="Football",Barcelona vs. Levante
-https://pooembed.eu/embed/laliga/2026-02-22/bar-lev
+https://embed.ppv.to/embed/laliga/2026-02-22/bar-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/93a0c5aa23ddaccde4b9ef863cc0ecbb-thumbnail.jpg" group-title="Football",Angers vs. Lille
-https://pooembed.eu/embed/ligue1/2026-02-22/ang-lill
+https://embed.ppv.to/embed/ligue1/2026-02-22/ang-lill
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/624320d23dcd5a7ac088008dc719f772-thumbnail.jpg" group-title="Football",Nantes vs. Le Havre AC
-https://pooembed.eu/embed/ligue1/2026-02-22/nan-hac
+https://embed.ppv.to/embed/ligue1/2026-02-22/nan-hac
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5330adb8eaef8d3d1b3dabddabce5a66-thumbnail.jpg" group-title="Football",Nice vs. Lorient
-https://pooembed.eu/embed/ligue1/2026-02-22/nice-lor
+https://embed.ppv.to/embed/ligue1/2026-02-22/nice-lor
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e513d2a509058b4cc6d9a098a6cb4848-thumbnail.jpg" group-title="Football",St. Pauli vs. Werder Bremen
-https://pooembed.eu/embed/bundesliga/2026-02-22/stp-svw
+https://embed.ppv.to/embed/bundesliga/2026-02-22/stp-svw
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86105006784518af4b6d61473be85d55-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Arsenal
-https://pooembed.eu/embed/premierleague/2026-02-22/tot-ars
+https://embed.ppv.to/embed/premierleague/2026-02-22/tot-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/79ab80591c24035b5ca90b9a7182a5ae-thumbnail.jpg" group-title="Football",AC Milan vs. Parma
-https://pooembed.eu/embed/seriea/2026-02-22/mil-par
+https://embed.ppv.to/embed/seriea/2026-02-22/mil-par
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cf386ecddb265fce8781650ebff7606a-thumbnail.jpg" group-title="Football",Celta Vigo vs. Mallorca
-https://pooembed.eu/embed/laliga/2026-02-22/cel-mll
+https://embed.ppv.to/embed/laliga/2026-02-22/cel-mll
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9febd8dccf2fc5cb07a2e58721641960-thumbnail.jpg" group-title="Football",1. FC Heidenheim 1846 vs. VfB Stuttgart
-https://pooembed.eu/embed/bundesliga/2026-02-22/hdh-vfb
+https://embed.ppv.to/embed/bundesliga/2026-02-22/hdh-vfb
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86278b4184030c508715910509c46bb5-thumbnail.jpg" group-title="Football",AS Roma vs. Cremonese
-https://pooembed.eu/embed/seriea/2026-02-22/roma-cre
+https://embed.ppv.to/embed/seriea/2026-02-22/roma-cre
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cd26d88c1a1a0697bc723787ca21a9eb-thumbnail.jpg" group-title="Football",Strasbourg vs. Lyon
-https://pooembed.eu/embed/ligue1/2026-02-22/str-lyon
+https://embed.ppv.to/embed/ligue1/2026-02-22/str-lyon
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b8e8933279b6b0a238f5a7a67dba26ac-thumbnail.jpg" group-title="Football",Villarreal vs. Valencia
-https://pooembed.eu/embed/laliga/2026-02-22/vil-val
+https://embed.ppv.to/embed/laliga/2026-02-22/vil-val
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f881d49c21040219f7041c39004dc79c-thumbnail.jpg" group-title="Football",Fiorentina vs. Pisa
-https://pooembed.eu/embed/seriea/2026-02-23/fio-pis
+https://embed.ppv.to/embed/seriea/2026-02-23/fio-pis
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f1c43e9a55e04063a977e5eac70d8a00-thumbnail.jpg" group-title="Football",Bologna vs. Udinese
-https://pooembed.eu/embed/seriea/2026-02-23/bol-udi
+https://embed.ppv.to/embed/seriea/2026-02-23/bol-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/15a77358a66c822931e31c4ce4be0252-thumbnail.jpg" group-title="Football",Alavés vs. Girona
-https://pooembed.eu/embed/laliga/2026-02-23/ala-gir
+https://embed.ppv.to/embed/laliga/2026-02-23/ala-gir
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="Football",Everton vs. Manchester United
-https://pooembed.eu/embed/premierleague/2026-02-23/eve-man
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
-https://pooembed.eu/embed/aew/collision/2026-02-21
+https://embed.ppv.to/embed/premierleague/2026-02-23/eve-man
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
-https://pooembed.eu/embed/247-south-park
+https://embed.ppv.to/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
-https://pooembed.eu/embed/247-cows
+https://embed.ppv.to/embed/247-cows
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 Streams",24/7 Family Guy
-https://pooembed.eu/embed/247-family-guy
+https://embed.ppv.to/embed/247-family-guy
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 Streams",24/7 The Simpsons
-https://pooembed.eu/embed/247-the-simpsons
+https://embed.ppv.to/embed/247-the-simpsons
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="24/7 Streams",24/7 SpongeBob Squarepants
-https://pooembed.eu/embed/247-spongebob-squarepants
+https://embed.ppv.to/embed/247-spongebob-squarepants
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="24/7 Streams",Rally TV
-https://pooembed.eu/embed/rally-tv
+https://embed.ppv.to/embed/rally-tv
