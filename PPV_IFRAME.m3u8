@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/60b349073299fbe584ded834526173c9-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Chicago White Sox
-https://embed.ppv.to/embed/mlb/20260222/mil-chw-3842
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/193a5bdb355de9f2d4424232d9b47932-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Francisco Giants
-https://embed.ppv.to/embed/mlb/20260222/chc-sf-4523
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ffe33daf87e940bcc593980f387dc16e-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. San Diego Padres
-https://embed.ppv.to/embed/mlb/20260222/lad-sd-4982
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e2b22f3b456e6d791b64cf9254f8e01-thumbnail.jpg" group-title="Basketball",Iowa Hawkeyes vs. Wisconsin Badgers (Basketball)
 https://embed.ppv.to/embed/cbb/7415/7415-wis
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4561c300657bab4034db55ae10662a64-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Indiana Pacers
