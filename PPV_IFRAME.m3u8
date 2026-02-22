@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2293d19862e3fe67cea331b613ab39a7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 50km Mass Start Classic
 https://embed.ppv.to/embed/olympics/2026-02-22/cross-country-skiing/womens-50km-mass-start-classic
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/db9ef7a4283f4e18e7d260257133b002-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Freeski Halfpipe: Final
-https://embed.ppv.to/embed/olympics/2026-02-22/freestyle-skiing/womens-freeski-halfpipe-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/405c6e9b8137fa430aab9388c1a949fd-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Sweden (W Gold Final)
 https://embed.ppv.to/embed/olympics/2026-02-22/curling/switzerland-vs-sweden-w-gold-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b41305a94177e9f450f20d5e549a1342-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Final Run
