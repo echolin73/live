@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8f4349233fbb32a03088efe87680f309-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Canada (Men's Gold Final)
-https://embed.ppv.to/embed/olympics/2026-02-22/hockey/usa-vs-canada-mens-gold-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c08097cc52e0a718faf053f816815c8b-thumbnail.jpg" group-title="2026 Winter Olympics",2026 Winter Olympics Closing Ceremony
 https://embed.ppv.to/embed/olympics/2026-02-22/ceremony/2026-winter-olympics-closing-ceremony
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e35987cbcbf586cdbf0d156842ed652d-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Atlanta Braves
@@ -51,8 +49,6 @@ https://embed.ppv.to/embed/nba/2026-02-22/orl-lac
 https://embed.ppv.to/embed/willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
 https://embed.ppv.to/embed/premier-league-darts-night-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/44aef21c2b24dc2f20090c7379a92c8c-thumbnail.jpg" group-title="Football",SC Freiburg vs. Borussia Mönchengladbach
-https://embed.ppv.to/embed/bundesliga/2026-02-22/scf-bmg
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78e0151985c840fbfcf155681ddde752-thumbnail.jpg" group-title="Football",Barcelona vs. Levante
 https://embed.ppv.to/embed/laliga/2026-02-22/bar-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/93a0c5aa23ddaccde4b9ef863cc0ecbb-thumbnail.jpg" group-title="Football",Angers vs. Lille
