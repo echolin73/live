@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/31211692068ecc2385a256352d690681-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Los Angeles Dodgers
-https://pooembed.eu/embed/mlb/20260223/cle-lad-7954
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4b4e98024a5f27c97a94159c3ca4008c-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Colorado Rockies
-https://pooembed.eu/embed/mlb/20260223/laa-col-5820
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cf4cc4ed5fcea8832f4eaf51d8b97b99-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Seattle Mariners
-https://pooembed.eu/embed/mlb/20260223/chw-sea-6392
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e2f9a90d1d9a556b5cc158e173d2cde9-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Indiana Pacers
 https://pooembed.eu/embed/nba/2026-02-24/phi-ind
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/21d7499d91f528a5dfcd77a1e9a7fdb8-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Atlanta Hawks
