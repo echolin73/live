@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/455488ba29c080f10d8f6820c6d3de52-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Arizona Diamondbacks
-https://pooembed.eu/embed/mlb/20260224/lad-ari-4849
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/22029d16fb9f1aad9e48938bdc95fe5d-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. San Diego Padres
-https://pooembed.eu/embed/mlb/20260224/laa-sd-6830
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c4de66a232aa2534b71a9bd7e73a3b02-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. New York Yankees
 https://pooembed.eu/embed/mlb/20260224/wsh-nyy-8177
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/62fdd1566bb29609f8de51ad9310ba56-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. Detroit Pistons
