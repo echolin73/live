@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f650a19edfc0c90c05687f0fca08339d-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Atlanta Braves
-https://pooembed.eu/embed/mlb/20260224/pit-atl-5099
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c357ba34f70b29f80195cbe82ad66f83-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Baltimore Orioles
-https://pooembed.eu/embed/mlb/20260224/tb-bal-7701
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0131b0c398417d42d421a06c01aaf6ce-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Minnesota Twins
-https://pooembed.eu/embed/mlb/20260224/bos-min-5629
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a1e7389c241f96bbb54916050b1f6ac0-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Philadelphia Phillies
-https://pooembed.eu/embed/mlb/20260224/det-phi-7054
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/965405acc0306c9b6e897e74cafb01c9-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. New York Mets
-https://pooembed.eu/embed/mlb/20260224/stl-nym-7545
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/455488ba29c080f10d8f6820c6d3de52-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Arizona Diamondbacks
 https://pooembed.eu/embed/mlb/20260224/lad-ari-4849
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/22029d16fb9f1aad9e48938bdc95fe5d-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. San Diego Padres
