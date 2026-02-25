@@ -189,6 +189,16 @@ https://pooembed.eu/embed/nhl/2026-02-25/wpg-van
 https://pooembed.eu/embed/nhl/2026-02-25/vgk-la
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/150ec4871b954313085b96ac716bbae1-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Anaheim Ducks
 https://pooembed.eu/embed/nhl/2026-02-25/edm-ana
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80c0b82c9a463bc1fe886d6771e0ff95-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 1
+https://pooembed.eu/embed/f1/2026/australia/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 2
+https://pooembed.eu/embed/f1/2026/australia/fp2
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5422900e0d257ade47a5f6179e5066cc-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 3
+https://pooembed.eu/embed/f1/2026/australia/fp3
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d72b1274e0df94b08fd451342b472a44-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Qualifying
+https://pooembed.eu/embed/f1/2026/australia/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
+https://pooembed.eu/embed/f1/2026/australia/race
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
 https://pooembed.eu/embed/aew/dynamite/2026-02-25
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
