@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c4de66a232aa2534b71a9bd7e73a3b02-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. New York Yankees
-https://pooembed.eu/embed/mlb/20260224/wsh-nyy-8177
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/62fdd1566bb29609f8de51ad9310ba56-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. Detroit Pistons
-https://pooembed.eu/embed/nba/2026-02-25/okc-det
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1fd3d23c2dd885ef8b55a10e4c7304b2-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Toronto Raptors
-https://pooembed.eu/embed/nba/2026-02-25/sa-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f4dae2335ea288e0896819e1368a03be-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Memphis Grizzlies
-https://pooembed.eu/embed/nba/2026-02-25/gs-mem
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2ee230da5b3c81bb8c2a4aedcdfe81e3-thumbnail.jpg" group-title="Basketball",Sacramento Kings vs. Houston Rockets
-https://pooembed.eu/embed/nba/2026-02-25/sac-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6197695cbdf311ac4718aeaf9c7b6c7d-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Milwaukee Bucks
-https://pooembed.eu/embed/nba/2026-02-25/cle-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4448595e61d849d5f63518d02ca8b16d-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Denver Nuggets
 https://pooembed.eu/embed/nba/2026-02-25/bos-den
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
@@ -143,14 +131,6 @@ https://pooembed.eu/embed/seriea/2026-03-02/pis-bol
 https://pooembed.eu/embed/seriea/2026-03-02/udi-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
 https://pooembed.eu/embed/laliga/2026-03-02/rma-get
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eb640c4d38cfd11cfc04509d79edc5ab-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. New Jersey Devils
-https://pooembed.eu/embed/nhl/2026-02-25/buf-nj
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/98820fbb8c01ab56153b2fa68e1d4858-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Washington Capitals
-https://pooembed.eu/embed/nhl/2026-02-25/phi-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/131dc0d2ad25d3f4d0f8f31a39458359-thumbnail.jpg" group-title="Ice Hockey",Toronto Maple Leafs vs. Tampa Bay Lightning
-https://pooembed.eu/embed/nhl/2026-02-25/tor-tb
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/25d2fc10b22a6f948d21f7dabb5e4cf0-thumbnail.jpg" group-title="Ice Hockey",Seattle Kraken vs. Dallas Stars
-https://pooembed.eu/embed/nhl/2026-02-25/sea-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bb6ad9c90c4de611b72a5dea415ce174-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Utah Mammoth
 https://pooembed.eu/embed/nhl/2026-02-25/col-uta
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b80bee08b2ce7a16c780ff2e69a26b6c-thumbnail.jpg" group-title="Ice Hockey",Winnipeg Jets vs. Vancouver Canucks
@@ -169,8 +149,6 @@ https://pooembed.eu/embed/f1/2026/australia/fp3
 https://pooembed.eu/embed/f1/2026/australia/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/australia/race
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
-https://pooembed.eu/embed/aew/dynamite/2026-02-25
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
 https://pooembed.eu/embed/tna/impact/2026-02-26
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
