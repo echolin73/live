@@ -13,8 +13,6 @@ https://pooembed.eu/embed/mlb/20260225/mia-tor-1613
 https://pooembed.eu/embed/mlb/20260225/chw-lad-2875
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8cd0d83d945b429232c4034e8e626101-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/20260225/cle-sea-9054
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4448595e61d849d5f63518d02ca8b16d-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Denver Nuggets
-https://pooembed.eu/embed/nba/2026-02-25/bos-den
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/62f4ebe8e19343c5d42fd69d9c32496f-thumbnail.jpg" group-title="Basketball",Charlotte Hornets vs. Indiana Pacers
 https://pooembed.eu/embed/nba/2026-02-26/cha-ind
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e6f72fc984a1ff4ceb77b1e61a96863d-thumbnail.jpg" group-title="Basketball",Miami Heat vs. Philadelphia 76ers
@@ -165,12 +163,6 @@ https://pooembed.eu/embed/seriea/2026-03-02/pis-bol
 https://pooembed.eu/embed/seriea/2026-03-02/udi-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
 https://pooembed.eu/embed/laliga/2026-03-02/rma-get
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b80bee08b2ce7a16c780ff2e69a26b6c-thumbnail.jpg" group-title="Ice Hockey",Winnipeg Jets vs. Vancouver Canucks
-https://pooembed.eu/embed/nhl/2026-02-25/wpg-van
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ee42a8723ea9a1f76f536a15542e20b-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Los Angeles Kings
-https://pooembed.eu/embed/nhl/2026-02-25/vgk-la
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/150ec4871b954313085b96ac716bbae1-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Anaheim Ducks
-https://pooembed.eu/embed/nhl/2026-02-25/edm-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/676a00266118bd5918ff28bf23a97794-thumbnail.jpg" group-title="Ice Hockey",Columbus Blue Jackets vs. Boston Bruins
 https://pooembed.eu/embed/nhl/2026-02-26/cbj-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab3cb14ae4c244a1d2f8e0053d40ac2a-thumbnail.jpg" group-title="Ice Hockey",New York Islanders vs. Montreal Canadiens
