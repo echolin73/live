@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
+https://pooembed.eu/embed/nfl-network
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8903c6a5f3a66fad02b9444bf3bef260-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Baltimore Orioles
 https://pooembed.eu/embed/mlb/20260225/det-bal-9610
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d36ae83188e9e5f80c76ed268be494ba-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. New York Yankees
