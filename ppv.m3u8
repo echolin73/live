@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://pooembed.eu/embed/nfl-network
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/51a7083d8a1b4ace9d4816414990d9cb-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. San Francisco Giants
+https://pooembed.eu/embed/mlb/2026-02-27/lad-sf
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/90d441a045fb49c6419a791b84d1de81-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Seattle Mariners
+https://pooembed.eu/embed/mlb/2026-02-27/ari-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da3cc75452febffdc891d2d3ea325b2d-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Detroit Pistons
 https://pooembed.eu/embed/nba/2026-02-27/cle-det
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f86728c99d6d918d3582ecbfceb73fb0-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Boston Celtics
@@ -13,10 +17,6 @@ https://pooembed.eu/embed/nba/2026-02-27/mem-dal
 https://pooembed.eu/embed/nba/2026-02-27/den-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bc7f6698ccc4fb8afcf6ad10f7180e5d-thumbnail.jpg" group-title="Football",Levante vs. Alavés
-https://pooembed.eu/embed/laliga/2026-02-27/lev-ala
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c4497d216929356df9deddc221779f3c-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Aston Villa
-https://pooembed.eu/embed/premierleague/2026-02-27/wol-avl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc8c66334323a6e1606c59fa9779867b-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Sunderland
 https://pooembed.eu/embed/premierleague/2026-02-28/bou-sun
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/946c174ff35775f82b3b875a91d73156-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Athletic Club
