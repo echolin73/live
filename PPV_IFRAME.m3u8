@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://pooembed.eu/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/51a7083d8a1b4ace9d4816414990d9cb-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. San Francisco Giants
-https://pooembed.eu/embed/mlb/2026-02-27/lad-sf
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/90d441a045fb49c6419a791b84d1de81-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/2026-02-27/ari-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da3cc75452febffdc891d2d3ea325b2d-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Detroit Pistons
