@@ -21,6 +21,28 @@ https://pooembed.eu/embed/mlb/2026-02-28/kc-col
 https://pooembed.eu/embed/mlb/2026-02-28/cin-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/63b60414a9654bd8ce39f26e7cb13f0f-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. San Diego Padres
 https://pooembed.eu/embed/mlb/2026-02-28/sea-sd
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/46b9bb13c20b70a81f3a99526c49d232-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Atlanta Braves
+https://pooembed.eu/embed/mlb/20260228/tb-atl-8673
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ef6cd1fede6368ee7b7212de0260827-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Boston Red Sox
+https://pooembed.eu/embed/mlb/20260228/bal-bos-8497
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d994161f8752c1c256acb104bad462a8-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Detroit Tigers
+https://pooembed.eu/embed/mlb/20260228/tor-det-3532
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0d4c3c29d94ce507159f195e5693eebf-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Minnesota Twins
+https://pooembed.eu/embed/mlb/20260228/atl-min-6992
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b8d9d40be7c81add2f6a7dd18d5b5a8c-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Philadelphia Phillies
+https://pooembed.eu/embed/mlb/20260228/nyy-phi-8344
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a5d533249fe29a22f6c96ce2da90d982-thumbnail.jpg" group-title="Baseball",Houston Astros vs. New York Mets
+https://pooembed.eu/embed/mlb/20260228/hou-nym-3996
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Chicago Cubs
+https://pooembed.eu/embed/mlb/20260228/chw-chc-1730
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0a77b7061254f0bccabe1bdcb36086d8-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Cleveland Guardians
+https://pooembed.eu/embed/mlb/20260228/col-cle-8000
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/661996a2454b23254d84b4d7ba878c2d-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Los Angeles Dodgers
+https://pooembed.eu/embed/mlb/20260228/laa-lad-9034
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9323d383efd9dde56079d0bdfa0b1824-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. San Francisco Giants
+https://pooembed.eu/embed/mlb/20260228/sd-sf-1357
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d349d0455c01224e6c2ba75175057ddb-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Seattle Mariners
+https://pooembed.eu/embed/mlb/20260228/tex-sea-4561
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b6a573cfa7016ef4a0d4f4038527eb6b-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Charlotte Hornets
 https://pooembed.eu/embed/nba/2026-02-28/por-cha
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0cc7784e8f926f66942a322a28d4a7df-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Miami Heat
@@ -41,8 +63,6 @@ https://pooembed.eu/embed/navarrete-vs.-nunez
 https://pooembed.eu/embed/raf-06-cejudo-vs.-faber
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f0360a4d4c6dc9fbf1163ad8825af679-thumbnail.jpg" group-title="Football",Stade Rennais vs. Toulouse
-https://pooembed.eu/embed/ligue1/2026-02-28/ren-tou
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/77f7204b58f13d8bc4da23325e1b408a-thumbnail.jpg" group-title="Football",Hellas Verona vs. Napoli
 https://pooembed.eu/embed/seriea/2026-02-28/ver-nap
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/465d3197bf0c898aeac5a1b48d716b31-thumbnail.jpg" group-title="Football",Mallorca vs. Real Sociedad
