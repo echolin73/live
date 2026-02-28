@@ -3,16 +3,14 @@
 https://pooembed.eu/embed/nfl-network
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/90d441a045fb49c6419a791b84d1de81-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/2026-02-27/ari-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da3cc75452febffdc891d2d3ea325b2d-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Detroit Pistons
-https://pooembed.eu/embed/nba/2026-02-27/cle-det
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f86728c99d6d918d3582ecbfceb73fb0-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Boston Celtics
-https://pooembed.eu/embed/nba/2026-02-27/bkn-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1885c20a5e8e113fff06905cdfa1709b-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Milwaukee Bucks
 https://pooembed.eu/embed/nba/2026-02-27/ny-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec808d3ce4ed67ad1f2d1ef02351e3a2-thumbnail.jpg" group-title="Basketball",Memphis Grizzlies vs. Dallas Mavericks
 https://pooembed.eu/embed/nba/2026-02-27/mem-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/845862e5e42a21f0a05b1922c96576b6-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Oklahoma City Thunder
 https://pooembed.eu/embed/nba/2026-02-27/den-okc
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da65cf846c8ba3a3c919c4c6a7ab87a4-thumbnail.jpg" group-title="Combat Sports",RAF 06: Cejudo vs. Faber
+https://pooembed.eu/embed/raf-06-cejudo-vs.-faber
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc8c66334323a6e1606c59fa9779867b-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Sunderland
@@ -99,10 +97,6 @@ https://pooembed.eu/embed/seriea/2026-03-02/pis-bol
 https://pooembed.eu/embed/seriea/2026-03-02/udi-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
 https://pooembed.eu/embed/laliga/2026-03-02/rma-get
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b00307cd6fefd3bbdbac23701ef4e571-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Florida Panthers
-https://pooembed.eu/embed/nhl/2026-02-27/buf-fla
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/288d758079b4669c3f9c33d0d2acd267-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Washington Capitals
-https://pooembed.eu/embed/nhl/2026-02-27/vgk-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b9e17696605e29850e963b14aacf51b3-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Utah Mammoth
 https://pooembed.eu/embed/nhl/2026-02-27/min-uta
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ae0fe82174c6d58eb2b5e5687e7fa47a-thumbnail.jpg" group-title="Ice Hockey",Winnipeg Jets vs. Anaheim Ducks
