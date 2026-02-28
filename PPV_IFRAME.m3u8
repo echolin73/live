@@ -1,6 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://pooembed.eu/embed/nfl-network
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/45072fbcc7427686b7f681e4b456a42b-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Baltimore Orioles
+https://pooembed.eu/embed/mlb/2026-02-28/atl-bal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/290b2ffe9b8c7019b53d4ed2c591d111-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Boston Red Sox
+https://pooembed.eu/embed/mlb/2026-02-28/min-bos
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/53b2766def1eaac098a6f035802e5e23-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. New York Yankees
+https://pooembed.eu/embed/mlb/2026-02-28/tor-nyy
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6c24ce8c0616d294af0988555496717-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Toronto Blue Jays
+https://pooembed.eu/embed/mlb/2026-02-28/phi-tor
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02a2949508571b356c1758e12cdce396-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. New York Mets
+https://pooembed.eu/embed/mlb/2026-02-28/wsh-nym
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/76343a71269b6bb137b9906b9a7759ac-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Cleveland Guardians
+https://pooembed.eu/embed/mlb/2026-02-28/chw-cle
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6df3e681b8877a3463f4d1a8c64431b6-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Los Angeles Dodgers
+https://pooembed.eu/embed/mlb/2026-02-28/chc-lad
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8edebb2c367ea4572688ff0cb8534291-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Colorado Rockies
+https://pooembed.eu/embed/mlb/2026-02-28/kc-col
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/533cf66e41b7e2e762cf4c73081867cf-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Milwaukee Brewers
+https://pooembed.eu/embed/mlb/2026-02-28/cin-mil
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/63b60414a9654bd8ce39f26e7cb13f0f-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. San Diego Padres
+https://pooembed.eu/embed/mlb/2026-02-28/sea-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b6a573cfa7016ef4a0d4f4038527eb6b-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Charlotte Hornets
 https://pooembed.eu/embed/nba/2026-02-28/por-cha
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0cc7784e8f926f66942a322a28d4a7df-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Miami Heat
