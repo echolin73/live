@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://pooembed.eu/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/90d441a045fb49c6419a791b84d1de81-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Seattle Mariners
-https://pooembed.eu/embed/mlb/2026-02-27/ari-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1885c20a5e8e113fff06905cdfa1709b-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Milwaukee Bucks
-https://pooembed.eu/embed/nba/2026-02-27/ny-mil
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec808d3ce4ed67ad1f2d1ef02351e3a2-thumbnail.jpg" group-title="Basketball",Memphis Grizzlies vs. Dallas Mavericks
-https://pooembed.eu/embed/nba/2026-02-27/mem-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/845862e5e42a21f0a05b1922c96576b6-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Oklahoma City Thunder
 https://pooembed.eu/embed/nba/2026-02-27/den-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da65cf846c8ba3a3c919c4c6a7ab87a4-thumbnail.jpg" group-title="Combat Sports",RAF 06: Cejudo vs. Faber
@@ -111,8 +105,6 @@ https://pooembed.eu/embed/f1/2026/australia/fp3
 https://pooembed.eu/embed/f1/2026/australia/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/australia/race
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
-https://pooembed.eu/embed/wwe/smackdown/2026-02-27
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://pooembed.eu/embed/aew/collision/2026-02-28
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
