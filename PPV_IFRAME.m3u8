@@ -31,6 +31,12 @@ https://pooembed.eu/embed/nba/2026-02-28/tor-wsh
 https://pooembed.eu/embed/nba/2026-02-28/lal-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7021dad2298faf21d44ca52b0a23fe81-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. Utah Jazz
 https://pooembed.eu/embed/nba/2026-02-28/no-utah
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/79b8899f730bb885b29f028fe4dc1625-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Moreno vs. Kavanagh (Prelims)
+https://pooembed.eu/embed/ufc-fight-night-moreno-vs.-kavanagh-prelims
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/79b8899f730bb885b29f028fe4dc1625-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Moreno vs. Kavanagh (Main Card)
+https://pooembed.eu/embed/ufc-fight-night-moreno-vs.-kavanagh-main-card
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a4e0557c24c2d39f3374f62ba9ef30d2-thumbnail.jpg" group-title="Combat Sports",Navarrete vs. Nunez
+https://pooembed.eu/embed/navarrete-vs.-nunez
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da65cf846c8ba3a3c919c4c6a7ab87a4-thumbnail.jpg" group-title="Combat Sports",RAF 06: Cejudo vs. Faber
 https://pooembed.eu/embed/raf-06-cejudo-vs.-faber
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
