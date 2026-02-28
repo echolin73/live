@@ -41,8 +41,6 @@ https://pooembed.eu/embed/navarrete-vs.-nunez
 https://pooembed.eu/embed/raf-06-cejudo-vs.-faber
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cc8c66334323a6e1606c59fa9779867b-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Sunderland
-https://pooembed.eu/embed/premierleague/2026-02-28/bou-sun
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/946c174ff35775f82b3b875a91d73156-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Athletic Club
 https://pooembed.eu/embed/laliga/2026-02-28/ray-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8deb615d76b6831d039777f7a54a9159-thumbnail.jpg" group-title="Football",Como vs. Lecce
@@ -165,6 +163,8 @@ https://pooembed.eu/embed/f1/2026/australia/fp3
 https://pooembed.eu/embed/f1/2026/australia/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/australia/race
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5cb98abe50033eef9697459d7319a2b7-thumbnail.jpg" group-title="Wrestling",WWE: Elimination Chamber
+https://pooembed.eu/embed/wwe/2026/elimination-chamber
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://pooembed.eu/embed/aew/collision/2026-02-28
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
