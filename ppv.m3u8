@@ -23,10 +23,6 @@ https://pooembed.eu/embed/mlb/20260228/laa-lad-9034
 https://pooembed.eu/embed/mlb/20260228/sd-sf-1357
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d349d0455c01224e6c2ba75175057ddb-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/20260228/tex-sea-4561
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e443a628347107874b5298fa6840f4d0-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Washington Wizards
-https://pooembed.eu/embed/nba/2026-02-28/tor-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6530088e069286fd09b2f511da1d9b75-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Golden State Warriors
-https://pooembed.eu/embed/nba/2026-02-28/lal-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7021dad2298faf21d44ca52b0a23fe81-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. Utah Jazz
 https://pooembed.eu/embed/nba/2026-02-28/no-utah
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/79b8899f730bb885b29f028fe4dc1625-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Moreno vs. Kavanagh
@@ -83,22 +79,6 @@ https://pooembed.eu/embed/seriea/2026-03-02/pis-bol
 https://pooembed.eu/embed/seriea/2026-03-02/udi-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
 https://pooembed.eu/embed/laliga/2026-03-02/rma-get
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8b089594b1962750f6944763b52ff283-thumbnail.jpg" group-title="Ice Hockey",New York Islanders vs. Columbus Blue Jackets
-https://pooembed.eu/embed/nhl/2026-02-28/nyi-cbj
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d3ecd7d98041ae5427267f10b6e61568-thumbnail.jpg" group-title="Ice Hockey",Chicago Blackhawks vs. Colorado Avalanche
-https://pooembed.eu/embed/nhl/2026-02-28/chi-col
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3171562a3c3026afacc9a8b506ebc2ee-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Toronto Maple Leafs
-https://pooembed.eu/embed/nhl/2026-02-28/ott-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/70bfd64161b7a95b01bbb33755a7f7ea-thumbnail.jpg" group-title="Ice Hockey",Washington Capitals vs. Montreal Canadiens
-https://pooembed.eu/embed/nhl/2026-02-28/wsh-mtl
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3351be789cded7d9cfaef4ecc1e27410-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Tampa Bay Lightning
-https://pooembed.eu/embed/nhl/2026-02-28/buf-tb
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bb2f838df0b23a590837e52a2fec1293-thumbnail.jpg" group-title="Ice Hockey",Detroit Red Wings vs. Carolina Hurricanes
-https://pooembed.eu/embed/nhl/2026-02-28/det-car
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/406ceab77b17e68b55bcfe8ca7e8c901-thumbnail.jpg" group-title="Ice Hockey",Calgary Flames vs. Los Angeles Kings
-https://pooembed.eu/embed/nhl/2026-02-28/cgy-la
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fedc6cc89b08b671a0e12281a42452ed-thumbnail.jpg" group-title="Ice Hockey",Nashville Predators vs. Dallas Stars
-https://pooembed.eu/embed/nhl/2026-02-28/nsh-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0ae7b6a5316c8f3b4e7c3f6a83fb733f-thumbnail.jpg" group-title="Ice Hockey",Vancouver Canucks vs. Seattle Kraken
 https://pooembed.eu/embed/nhl/2026-02-28/van-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Daytona
@@ -115,10 +95,6 @@ https://pooembed.eu/embed/f1/2026/australia/fp3
 https://pooembed.eu/embed/f1/2026/australia/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/australia/race
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5cb98abe50033eef9697459d7319a2b7-thumbnail.jpg" group-title="Wrestling",WWE: Elimination Chamber
-https://pooembed.eu/embed/wwe/2026/elimination-chamber
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
-https://pooembed.eu/embed/aew/collision/2026-02-28
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://pooembed.eu/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
