@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://pooembed.eu/embed/nfl-network
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
+https://pooembed.eu/embed/east-vs-west-23
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/46b9bb13c20b70a81f3a99526c49d232-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Atlanta Braves
 https://pooembed.eu/embed/mlb/20260228/tb-atl-8673
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ef6cd1fede6368ee7b7212de0260827-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Boston Red Sox
