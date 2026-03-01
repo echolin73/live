@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://pooembed.eu/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5a62453d7bba1f81ca1fc6b8a10de9ea-thumbnail.jpg" group-title="Arm Wrestling",TEST: East vs West 22
-https://pooembed.eu/embed/test-east-vs-west-22
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/46b9bb13c20b70a81f3a99526c49d232-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Atlanta Braves
 https://pooembed.eu/embed/mlb/20260228/tb-atl-8673
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ef6cd1fede6368ee7b7212de0260827-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Boston Red Sox
@@ -85,10 +83,6 @@ https://pooembed.eu/embed/seriea/2026-03-02/pis-bol
 https://pooembed.eu/embed/seriea/2026-03-02/udi-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
 https://pooembed.eu/embed/laliga/2026-03-02/rma-get
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f219bc6ac2400a52e95bf7d43874f8f5-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. San Jose Sharks
-https://pooembed.eu/embed/nhl/2026-02-28/edm-sj
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/182c29ca93d27f87d20f84b1097e420d-thumbnail.jpg" group-title="Ice Hockey",New Jersey Devils vs. St. Louis Blues
-https://pooembed.eu/embed/nhl/2026-02-28/nj-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8b089594b1962750f6944763b52ff283-thumbnail.jpg" group-title="Ice Hockey",New York Islanders vs. Columbus Blue Jackets
 https://pooembed.eu/embed/nhl/2026-02-28/nyi-cbj
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d3ecd7d98041ae5427267f10b6e61568-thumbnail.jpg" group-title="Ice Hockey",Chicago Blackhawks vs. Colorado Avalanche
@@ -109,6 +103,8 @@ https://pooembed.eu/embed/nhl/2026-02-28/nsh-dal
 https://pooembed.eu/embed/nhl/2026-02-28/van-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Daytona
 https://pooembed.eu/embed/smx-wk8
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/98111cb4a65494cf4f62fb9cfdb21828-thumbnail.jpg" group-title="Motorsports",MotoGP of Thailand
+https://pooembed.eu/embed/motogp-of-thailand
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80c0b82c9a463bc1fe886d6771e0ff95-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 1
 https://pooembed.eu/embed/f1/2026/australia/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 2
