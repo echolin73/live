@@ -49,10 +49,6 @@ https://pooembed.eu/embed/nba/2026-03-01/no-lac
 https://pooembed.eu/embed/nba/2026-03-01/sac-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cd1043a1f6dc3fd609283fb577a23984-thumbnail.jpg" group-title="Football",Eintracht Frankfurt vs. SC Freiburg
-https://pooembed.eu/embed/bundesliga/2026-03-01/sge-scf
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ef1fbb8e34778c0fc9758eb27236a516-thumbnail.jpg" group-title="Football",Arsenal vs. Chelsea
-https://pooembed.eu/embed/premierleague/2026-03-01/ars-che
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9e8dd31a85b5091cf1b7bb5d210d3b02-thumbnail.jpg" group-title="Football",Torino vs. Lazio
 https://pooembed.eu/embed/seriea/2026-03-01/tor-laz
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6ce851926554839095f1dc6784e6d078-thumbnail.jpg" group-title="Football",Real Betis vs. Sevilla
@@ -85,6 +81,8 @@ https://pooembed.eu/embed/nhl/2026-03-01/fla-nyi
 https://pooembed.eu/embed/nhl/2026-03-01/cgy-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02211fcb20ebbc4a5fab9b9526c12063-thumbnail.jpg" group-title="Motorsports",IndyCar: Grand Prix of St. Petersburg
 https://pooembed.eu/embed/indycar-grand-prix-of-st.-petersburg
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b8398854759f8e38aefe2ba0e761fc62-thumbnail.jpg" group-title="Motorsports",NASCAR: Circuit of The Americas
+https://pooembed.eu/embed/nascar-circuit-of-the-americas
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80c0b82c9a463bc1fe886d6771e0ff95-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 1
 https://pooembed.eu/embed/f1/2026/australia/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 2
