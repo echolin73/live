@@ -25,8 +25,6 @@ https://pooembed.eu/embed/mlb/20260228/laa-lad-9034
 https://pooembed.eu/embed/mlb/20260228/sd-sf-1357
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d349d0455c01224e6c2ba75175057ddb-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/20260228/tex-sea-4561
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/df866b3c76ec88432b7f48f21c28555b-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. New York Knicks
-https://pooembed.eu/embed/nba/2026-03-01/sa-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7319c0e4e1c161cb775aacffe4599d20-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Brooklyn Nets
 https://pooembed.eu/embed/nba/2026-03-01/cle-bkn
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9eb68ca3dd8d6586bfb68e66cb529b0d-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Chicago Bulls
@@ -49,8 +47,6 @@ https://pooembed.eu/embed/nba/2026-03-01/no-lac
 https://pooembed.eu/embed/nba/2026-03-01/sac-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/341008bf29be29802fc0a78adb5a3fdf-thumbnail.jpg" group-title="Football",Hamburg SV vs. RB Leipzig
-https://pooembed.eu/embed/bundesliga/2026-03-01/hsv-rbl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/32220b9199385e70a897310e450d3c49-thumbnail.jpg" group-title="Football",AS Roma vs. Juventus
 https://pooembed.eu/embed/seriea/2026-03-01/roma-juv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6d203316deecd436671e4fcaecab9feb-thumbnail.jpg" group-title="Football",Marseille vs. Lyon
@@ -63,8 +59,6 @@ https://pooembed.eu/embed/seriea/2026-03-02/pis-bol
 https://pooembed.eu/embed/seriea/2026-03-02/udi-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
 https://pooembed.eu/embed/laliga/2026-03-02/rma-get
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/314a80b980d8db2908e352071f1c81c5-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Pittsburgh Penguins
-https://pooembed.eu/embed/nhl/2026-03-01/vgk-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f231292c8f931420e21c94e9d3c37e13-thumbnail.jpg" group-title="Ice Hockey",Chicago Blackhawks vs. Utah Mammoth
 https://pooembed.eu/embed/nhl/2026-03-01/chi-uta
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/789149346a455327ea3844a42f36a2f0-thumbnail.jpg" group-title="Ice Hockey",Winnipeg Jets vs. San Jose Sharks
@@ -75,8 +69,6 @@ https://pooembed.eu/embed/nhl/2026-03-01/stl-min
 https://pooembed.eu/embed/nhl/2026-03-01/fla-nyi
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/69d80ce9dee5bf330f66b8d7fe655004-thumbnail.jpg" group-title="Ice Hockey",Calgary Flames vs. Anaheim Ducks
 https://pooembed.eu/embed/nhl/2026-03-01/cgy-ana
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02211fcb20ebbc4a5fab9b9526c12063-thumbnail.jpg" group-title="Motorsports",IndyCar: Grand Prix of St. Petersburg
-https://pooembed.eu/embed/indycar-grand-prix-of-st.-petersburg
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b8398854759f8e38aefe2ba0e761fc62-thumbnail.jpg" group-title="Motorsports",NASCAR: Circuit of The Americas
 https://pooembed.eu/embed/nascar-circuit-of-the-americas
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80c0b82c9a463bc1fe886d6771e0ff95-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 1
