@@ -3,14 +3,20 @@
 https://pooembed.eu/embed/nfl-network
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f59f69db23f73cd41da6a887c0fa08aa-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Atlanta Hawks
-https://pooembed.eu/embed/nba/2026-03-01/por-atl
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e2f25dd220d6fed9d1668fa7cff95e3c-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. Orlando Magic
-https://pooembed.eu/embed/nba/2026-03-01/det-orl
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d6c4c66a921647d492064b8ef66785b6-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Boston Celtics
-https://pooembed.eu/embed/nba/2026-03-01/phi-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/41ee90deed3eb8a23a6ca0f5b1961dd3-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. Dallas Mavericks
-https://pooembed.eu/embed/nba/2026-03-01/okc-dal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1e8813daa5002b8a154cbc69ffb232d5-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Detroit Tigers
+https://pooembed.eu/embed/mlb/20260301/atl-det-5151
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/51d6d4a8ab00fb87a927f435d456ab89-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Pittsburgh Pirates
+https://pooembed.eu/embed/mlb/20260301/tb-pit-1026
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3ab4518068c104144074fabef7a22dbf-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Toronto Blue Jays
+https://pooembed.eu/embed/mlb/20260301/bos-tor-1570
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5637d30dbef50aedfbf2743807ecb711-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Chicago White Sox
+https://pooembed.eu/embed/mlb/20260301/sf-chw-9251
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02b4231e8ab08a6c17a87ef6d60f92d7-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Cincinnati Reds
+https://pooembed.eu/embed/mlb/20260301/chc-cin-6810
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8fdab4d0c1f0d6ba150884e4b99ad7a2-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Colorado Rockies
+https://pooembed.eu/embed/mlb/20260301/lad-col-2258
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ffcc65cafa84dffd87275b5b9d949c52-thumbnail.jpg" group-title="Baseball",Athletics vs. San Diego Padres
+https://pooembed.eu/embed/mlb/20260301/ath-sd-7664
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2c0ba7a93872a2e27240715c92922640-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. LA Clippers
 https://pooembed.eu/embed/nba/2026-03-01/no-lac
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c0d252c5f4e74aa750d9796c426a4ffc-thumbnail.jpg" group-title="Basketball",Sacramento Kings vs. Los Angeles Lakers
@@ -23,10 +29,6 @@ https://pooembed.eu/embed/seriea/2026-03-02/pis-bol
 https://pooembed.eu/embed/seriea/2026-03-02/udi-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
 https://pooembed.eu/embed/laliga/2026-03-02/rma-get
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/505ad6c163789e984ed51f2f5580d381-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. New York Islanders
-https://pooembed.eu/embed/nhl/2026-03-01/fla-nyi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/69d80ce9dee5bf330f66b8d7fe655004-thumbnail.jpg" group-title="Ice Hockey",Calgary Flames vs. Anaheim Ducks
-https://pooembed.eu/embed/nhl/2026-03-01/cgy-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/80c0b82c9a463bc1fe886d6771e0ff95-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 1
 https://pooembed.eu/embed/f1/2026/australia/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 2
