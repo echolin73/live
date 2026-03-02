@@ -19,10 +19,6 @@ https://pooembed.eu/embed/nba/2026-03-02/den-utah
 https://pooembed.eu/embed/nba/2026-03-02/lac-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/aacc7d79917535d22e1fa3364076beea-thumbnail.jpg" group-title="Football",Udinese vs. Fiorentina
-https://pooembed.eu/embed/seriea/2026-03-02/udi-fio
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
-https://pooembed.eu/embed/laliga/2026-03-02/rma-get
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bab3ef69877fd494e3931b1c11918fb0-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Brentford
 https://pooembed.eu/embed/premierleague/2026-03-03/bou-bre
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/27933ca6166522dd08ffbb9b83eb065c-thumbnail.jpg" group-title="Football",Everton vs. Burnley
@@ -151,8 +147,6 @@ https://pooembed.eu/embed/laliga/2026-03-08/val-ala
 https://pooembed.eu/embed/seriea/2026-03-09/laz-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6c5cb7178175ded75b0001f93693af24-thumbnail.jpg" group-title="Football",Espanyol vs. Real Oviedo
 https://pooembed.eu/embed/laliga/2026-03-09/esp-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e9ccf7abce6f50d571669a472f5546f7-thumbnail.jpg" group-title="Ice Hockey",Detroit Red Wings vs. Nashville Predators
-https://pooembed.eu/embed/nhl/2026-03-02/det-nsh
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/377b067bef610673091195c8b176ed44-thumbnail.jpg" group-title="Ice Hockey",Columbus Blue Jackets vs. New York Rangers
 https://pooembed.eu/embed/nhl/2026-03-02/cbj-nyr
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/79b6bb60705b80eab908bc319afab02e-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Toronto Maple Leafs
