@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
-https://pooembed.eu/embed/nfl-network
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1e8813daa5002b8a154cbc69ffb232d5-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Detroit Tigers
@@ -39,6 +37,10 @@ https://pooembed.eu/embed/premierleague/2026-03-03/bou-bre
 https://pooembed.eu/embed/premierleague/2026-03-03/eve-bur
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a5a522a9cdf8169483d8fcb50cc8a701-thumbnail.jpg" group-title="Football",Leeds United vs. Sunderland
 https://pooembed.eu/embed/premierleague/2026-03-03/lee-sun
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6e3fc2e9275e9cec281af2d0de21efe5-thumbnail.jpg" group-title="Football",Como vs. Internazionale
+https://pooembed.eu/embed/coppa-italia/2026-03-03/como-int
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b517c6f130e83fbec169aa2e040e8e64-thumbnail.jpg" group-title="Football",Barcelona vs. Atlético Madrid
+https://pooembed.eu/embed/copa-del-rey/2026-03-03/bar-atm
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8599ef269d5e9473519c0ee9c9979f26-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Liverpool
 https://pooembed.eu/embed/premierleague/2026-03-03/wol-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a3a8e1a321bd87b779cd2d364055baee-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Real Oviedo
@@ -53,6 +55,10 @@ https://pooembed.eu/embed/premierleague/2026-03-04/bha-ars
 https://pooembed.eu/embed/premierleague/2026-03-04/ful-whu
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4e47d3227fe231218ce275e5828c7bda-thumbnail.jpg" group-title="Football",Manchester City vs. Nottingham Forest
 https://pooembed.eu/embed/premierleague/2026-03-04/mnc-nfo
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/caebed04c8154e08f237d492de38c12c-thumbnail.jpg" group-title="Football",Lazio vs. Atalanta
+https://pooembed.eu/embed/coppa-italia/2026-03-04/laz-ata
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9f2f9d4adb9b106e6c7fba924c39caa7-thumbnail.jpg" group-title="Football",Real Sociedad vs. Athletic Club
+https://pooembed.eu/embed/copa-del-rey/2026-03-04/rso-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9d7eced23e81f075ad6c410788635474-thumbnail.jpg" group-title="Football",Newcastle United vs. Manchester United
 https://pooembed.eu/embed/premierleague/2026-03-04/new-man
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9d3ec267cd02aa18fc1984bf8a64b6a8-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Crystal Palace
@@ -65,6 +71,10 @@ https://pooembed.eu/embed/seriea/2026-03-06/nap-tor
 https://pooembed.eu/embed/ligue1/2026-03-06/psg-mon
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6423d00d0bf8486fd2b13289e76223af-thumbnail.jpg" group-title="Football",Celta Vigo vs. Real Madrid
 https://pooembed.eu/embed/laliga/2026-03-06/cel-rma
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b3768ab5c6b496f501a41a27b3e46902-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Liverpool
+https://pooembed.eu/embed/english-fa-cup/2026-03-06/wol-liv
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/310e268e9cb7b33759cb448da45440e5-thumbnail.jpg" group-title="Football",Mansfield Town vs. Arsenal
+https://pooembed.eu/embed/english-fa-cup/2026-03-07/mnf-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/803a7f74369d3b41cfe3f7ecde55c6a1-thumbnail.jpg" group-title="Football",Osasuna vs. Mallorca
 https://pooembed.eu/embed/laliga/2026-03-07/osa-mll
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/eafa3754ea18e83e8f613eb4872e8523-thumbnail.jpg" group-title="Football",Cagliari vs. Como
@@ -89,16 +99,22 @@ https://pooembed.eu/embed/seriea/2026-03-07/ata-udi
 https://pooembed.eu/embed/laliga/2026-03-07/atm-rso
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3417df847ae0837853c2c5e9e773d848-thumbnail.jpg" group-title="Football",FC Cologne vs. Borussia Dortmund
 https://pooembed.eu/embed/bundesliga/2026-03-07/koe-dor
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/da687002a557725b439c1bdd474fd6b6-thumbnail.jpg" group-title="Football",Wrexham vs. Chelsea
+https://pooembed.eu/embed/english-fa-cup/2026-03-07/wxm-che
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6d76e25d2f570f0ef6d7559be80c228d-thumbnail.jpg" group-title="Football",AJ Auxerre vs. Strasbourg
 https://pooembed.eu/embed/ligue1/2026-03-07/aux-str
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/865b8244716e6d5035aa2d7463f9434b-thumbnail.jpg" group-title="Football",Juventus vs. Pisa
 https://pooembed.eu/embed/seriea/2026-03-07/juv-pis
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/06bdd5a47329cb971388402b62f13714-thumbnail.jpg" group-title="Football",Athletic Club vs. Barcelona
 https://pooembed.eu/embed/laliga/2026-03-07/ath-bar
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/98be120a442c14609c6d6b6ab45fdb78-thumbnail.jpg" group-title="Football",Newcastle United vs. Manchester City
+https://pooembed.eu/embed/english-fa-cup/2026-03-07/new-mnc
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/55c20bc0bb3b1a514698e56db397e234-thumbnail.jpg" group-title="Football",Toulouse vs. Marseille
 https://pooembed.eu/embed/ligue1/2026-03-07/tou-olm
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1ab4758d175d067d5a51a8cb85d971b7-thumbnail.jpg" group-title="Football",Lecce vs. Cremonese
 https://pooembed.eu/embed/seriea/2026-03-08/lec-cre
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ab72e60069bfef25211e757dab95f929-thumbnail.jpg" group-title="Football",Fulham vs. Southampton
+https://pooembed.eu/embed/english-fa-cup/2026-03-08/ful-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e4b26ac21d0bc8408b72f3dc95e3bb3d-thumbnail.jpg" group-title="Football",Villarreal vs. Elche
 https://pooembed.eu/embed/laliga/2026-03-08/vil-elc
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/fe741f477110b146ff6d7c2f6d33126c-thumbnail.jpg" group-title="Football",Bologna vs. Hellas Verona
