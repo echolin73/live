@@ -47,6 +47,8 @@ https://pooembed.eu/embed/nba/2026-03-03/no-lal
 https://pooembed.eu/embed/nba/2026-03-03/phx-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
+https://pooembed.eu/embed/premierleague/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bab3ef69877fd494e3931b1c11918fb0-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Brentford
 https://pooembed.eu/embed/premierleague/2026-03-03/bou-bre
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/27933ca6166522dd08ffbb9b83eb065c-thumbnail.jpg" group-title="Football",Everton vs. Burnley
