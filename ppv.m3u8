@@ -17,8 +17,6 @@ https://pooembed.eu/embed/tigers-vs-dominican-rep.
 https://pooembed.eu/embed/puerto-rico-vs-red-sox
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4cabd22d4d8510dd5c683c53f761309b-thumbnail.jpg" group-title="Baseball",Venezuela vs Astros
 https://pooembed.eu/embed/venezuela-vs-astros
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/75ec5c9fb9dff5ec27490f2b732e238c-thumbnail.jpg" group-title="Basketball",LA Clippers vs. Golden State Warriors
-https://pooembed.eu/embed/nba/2026-03-02/lac-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3902e9991274fa43035341dac83666c2-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Charlotte Hornets
 https://pooembed.eu/embed/nba/2026-03-03/dal-cha
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e6ba57df052c13aab55b73338f275986-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. Cleveland Cavaliers
@@ -169,12 +167,6 @@ https://pooembed.eu/embed/laliga/2026-03-08/val-ala
 https://pooembed.eu/embed/seriea/2026-03-09/laz-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6c5cb7178175ded75b0001f93693af24-thumbnail.jpg" group-title="Football",Espanyol vs. Real Oviedo
 https://pooembed.eu/embed/laliga/2026-03-09/esp-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5c1fbf7698e10cfc7b5f815af4673124-thumbnail.jpg" group-title="Ice Hockey",Dallas Stars vs. Vancouver Canucks
-https://pooembed.eu/embed/nhl/2026-03-02/dal-van
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7ac0c44ff293efde1c4bd89e89433610-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Seattle Kraken
-https://pooembed.eu/embed/nhl/2026-03-02/car-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2b99d7ddf09315c2d091a97f58421b59-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Los Angeles Kings
-https://pooembed.eu/embed/nhl/2026-03-02/col-la
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/940d9aa28763256bc72b018306e71d91-thumbnail.jpg" group-title="Ice Hockey",Pittsburgh Penguins vs. Boston Bruins
 https://pooembed.eu/embed/nhl/2026-03-03/pit-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/254527470f51f7c561a9a97791eef305-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Buffalo Sabres
