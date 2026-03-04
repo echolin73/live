@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c4c4528c89f4b04979910105d3e82b71-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Baltimore Orioles
-https://pooembed.eu/embed/houston-astros-vs.-baltimore-orioles
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6af209cb737a569f31eb2d3ee67cb540-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Boston Red Sox
-https://pooembed.eu/embed/new-york-yankees-vs.-boston-red-sox
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/63c71d73ee31b3c978eeb3ca110ac426-thumbnail.jpg" group-title="Baseball",Canada vs. Philadelphia Phillies
-https://pooembed.eu/embed/canada-vs.-philadelphia-phillies
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7510b5893ff31dbfc51337eb34672ef8-thumbnail.jpg" group-title="Baseball",Colombia vs. Atlanta Braves
-https://pooembed.eu/embed/colombia-vs.-atlanta-braves
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2004bcaecb3f3ac98e547aa6c0521750-thumbnail.jpg" group-title="Baseball",Kingdom of the Netherlands vs. Tampa Bay Rays
-https://pooembed.eu/embed/kingdom-of-the-netherlands-vs.-tampa-bay-rays
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3cc2ce37b8e5c9b46c259580c7e3e605-thumbnail.jpg" group-title="Baseball",Puerto Rico vs. Minnesota Twins
-https://pooembed.eu/embed/puerto-rico-vs.-minnesota-twins
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/57a5cee53e7fcdc0b3d5ba0787687a97-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Dominican Republic
 https://pooembed.eu/embed/detroit-tigers-vs.-dominican-republic
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/999bb33b043d1478acc095f79c66c06c-thumbnail.jpg" group-title="Baseball",Mexico vs. Los Angeles Dodgers
