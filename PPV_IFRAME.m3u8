@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/571c8595957bb765f531502fae1a78ee-thumbnail.jpg" group-title="Baseball",New York Mets vs. Washington Nationals
-https://pooembed.eu/embed/new-york-mets-vs.-washington-nationals
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/048e899016a25efba188e768add94349-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Pittsburgh Pirates
-https://pooembed.eu/embed/st.-louis-cardinals-vs.-pittsburgh-pirates
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a1f802b1618c4686fd7e532e3d759573-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Philadelphia Phillies
-https://pooembed.eu/embed/boston-red-sox-vs.-philadelphia-phillies
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/46090c8abd13c6396aa8528e6d01872d-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Atlanta Braves
-https://pooembed.eu/embed/toronto-blue-jays-vs.-atlanta-braves
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ef45d67def864ad3fd8bde4c98722756-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. New York Yankees
-https://pooembed.eu/embed/minnesota-twins-vs.-new-york-yankees
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9db088bf5ecdfa7693c52356a23af32-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Cincinnati Reds
 https://pooembed.eu/embed/los-angeles-dodgers-vs.-cincinnati-reds
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2451e38f47a1d6cd5639ec954400d6c1-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Seattle Mariners
