@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9db088bf5ecdfa7693c52356a23af32-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Cincinnati Reds
-https://pooembed.eu/embed/los-angeles-dodgers-vs.-cincinnati-reds
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2451e38f47a1d6cd5639ec954400d6c1-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Seattle Mariners
 https://pooembed.eu/embed/san-diego-padres-vs.-seattle-mariners
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2d4fd4ee270768beb6393f3d5c49d78-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Kansas City Royals
@@ -29,12 +27,6 @@ https://pooembed.eu/embed/nba/2026-03-05/lal-den
 https://pooembed.eu/embed/nba/2026-03-05/no-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 5
-https://pooembed.eu/embed/premier-league-darts-night-5
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9d3ec267cd02aa18fc1984bf8a64b6a8-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Crystal Palace
-https://pooembed.eu/embed/premierleague/2026-03-05/tot-cry
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4fd05d31fe4e7da3e8092b6e73a8f555-thumbnail.jpg" group-title="Football",Lyon vs. Lens
-https://pooembed.eu/embed/coupe-de-france/2026-03-05/lyon-rcl
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d10dcd9081f202fd8104bcb688f1d700-thumbnail.jpg" group-title="Football",Bayern Munich vs. Borussia Mönchengladbach
 https://pooembed.eu/embed/bundesliga/2026-03-06/mun-bmg
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0fd6993f3e574fcedd0b74c50ffaf737-thumbnail.jpg" group-title="Football",Napoli vs. Torino
