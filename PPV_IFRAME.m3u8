@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f2d4fd4ee270768beb6393f3d5c49d78-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Kansas City Royals
-https://pooembed.eu/embed/texas-rangers-vs.-kansas-city-royals
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/acdd40637e05adfe9f61783f89d8825b-thumbnail.jpg" group-title="Baseball",Australia vs. Czechia
 https://pooembed.eu/embed/australia-vs.-czechia
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d02b6444377d4641b4ce8c9470dff1be-thumbnail.jpg" group-title="Baseball",Japan vs. Chinese Taipei
@@ -35,12 +33,34 @@ https://pooembed.eu/embed/kansas-city-royals-vs.-los-angeles-dodgers
 https://pooembed.eu/embed/chicago-cubs-vs.-san-diego-padres
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8e1a54778a1c7a203a8a1ac8a490e1cc-thumbnail.jpg" group-title="Baseball",Chinese Taipei vs. Czechia
 https://pooembed.eu/embed/chinese-taipei-vs.-czechia
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0b103b761d47aafac7cf07ab336e1b9d-thumbnail.jpg" group-title="Basketball",Chicago Bulls vs. Phoenix Suns
-https://pooembed.eu/embed/nba/2026-03-05/chi-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9be2018c3f1e12b88505d5e636b87e32-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Denver Nuggets
 https://pooembed.eu/embed/nba/2026-03-05/lal-den
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4ffc65a5f6e77844f739e660fd9c06d9-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. Sacramento Kings
 https://pooembed.eu/embed/nba/2026-03-05/no-sac
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c01eb002c7e2bc4c8e14bdeab8af1c79-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Boston Celtics
+https://pooembed.eu/embed/nba/2026-03-06/dal-bos
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b8ab9406dbaaaee913642085fc68c365-thumbnail.jpg" group-title="Basketball",Miami Heat vs. Charlotte Hornets
+https://pooembed.eu/embed/nba/2026-03-06/mia-cha
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bf9df0fd42730aff9118b2f958eb966f-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Houston Rockets
+https://pooembed.eu/embed/nba/2026-03-06/por-hou
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2bc0a01e696952a7561463fac0c4656d-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Denver Nuggets
+https://pooembed.eu/embed/nba/2026-03-06/ny-den
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5c9e63c70c71c864afa377fac8a01461-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. Phoenix Suns
+https://pooembed.eu/embed/nba/2026-03-06/no-phx
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e7b89108a2a1aeccd5d67ae9516eb821-thumbnail.jpg" group-title="Basketball",LA Clippers vs. San Antonio Spurs
+https://pooembed.eu/embed/nba/2026-03-06/lac-sa
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/209185a14b3bfb3b349ab91261c8d4eb-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. Los Angeles Lakers
+https://pooembed.eu/embed/nba/2026-03-06/ind-lal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8abb84328795e39311364ac7a87a5719-thumbnail.jpg" group-title="Basketball",BIG 12 Men's Conference Tournament
+https://pooembed.eu/embed/big-12-mens-Conference -tournament
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" group-title="Basketball",ACC Men's Conference Tournament
+https://pooembed.eu/embed/acc-mens-Conference -tournament
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d0cf341575a467bfa28e1866a0682b15-thumbnail.jpg" group-title="Basketball",BIG Ten Confrence Tournament
+https://pooembed.eu/embed/big-ten-confrence-Tournament
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" group-title="Basketball",SEC Men's Confrence Tournament
+https://pooembed.eu/embed/sec-mens-confrence-tournament
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e83df3a2a94ac4b566fd1eb658c2e5a5-thumbnail.jpg" group-title="Basketball",March Madness
+https://pooembed.eu/embed/march-madness
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d10dcd9081f202fd8104bcb688f1d700-thumbnail.jpg" group-title="Football",Bayern Munich vs. Borussia Mönchengladbach
@@ -131,10 +151,22 @@ https://pooembed.eu/embed/laliga/2026-03-08/val-ala
 https://pooembed.eu/embed/seriea/2026-03-09/laz-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6c5cb7178175ded75b0001f93693af24-thumbnail.jpg" group-title="Football",Espanyol vs. Real Oviedo
 https://pooembed.eu/embed/laliga/2026-03-09/esp-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bb9ee030bc35e7768a4bb307032bee2f-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Calgary Flames
-https://pooembed.eu/embed/nhl/2026-03-05/ott-cgy
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5f782e29f4b3701df8612f96ef73522f-thumbnail.jpg" group-title="Ice Hockey",New York Islanders vs. Los Angeles Kings
 https://pooembed.eu/embed/nhl/2026-03-05/nyi-la
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0be4eeafd23e5a0c3e41ab2af7549c31-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. Detroit Red Wings
+https://pooembed.eu/embed/nhl/2026-03-06/fla-det
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ed7984062d2d0d29c7a234a8d5f3537e-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Dallas Stars
+https://pooembed.eu/embed/nhl/2026-03-06/col-dal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/edeffcf2372599a96816f0ef286f1778-thumbnail.jpg" group-title="Ice Hockey",Vancouver Canucks vs. Chicago Blackhawks
+https://pooembed.eu/embed/nhl/2026-03-06/van-chi
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/69c03e28b7e821f686da2be5494fd4d7-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Edmonton Oilers
+https://pooembed.eu/embed/nhl/2026-03-06/car-edm
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0c375674264ea4a31735ca18bd2ad572-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. Anaheim Ducks
+https://pooembed.eu/embed/nhl/2026-03-06/mtl-ana
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4058ae14322654cd132974ba7afb0383-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Vegas Golden Knights
+https://pooembed.eu/embed/nhl/2026-03-06/min-vgk
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3750c4762d3adbcbfc7a8ebcb68190f7-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. San Jose Sharks
+https://pooembed.eu/embed/nhl/2026-03-06/stl-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 2
 https://pooembed.eu/embed/f1/2026/australia/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5422900e0d257ade47a5f6179e5066cc-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 3
