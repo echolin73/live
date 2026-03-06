@@ -1,0 +1,69 @@
+BBC Earth,https://www.youtube.com/@bbcearth/live
+BBC Timestamp,https://www.youtube.com/@BBCTimestamp/live
+Bloomberg Original,https://www.youtube.com/@Bloomberg-News/live
+Discovery,https://www.youtube.com/@discovery/live
+National Geographic,https://www.youtube.com/@NatGeo/live
+Nat Geo Animals,https://www.youtube.com/@NatGeoAnimals/live
+See Earth Live,https://www.youtube.com/@Sen/live
+Timeline,https://www.youtube.com/@TimelineChannel/live
+
+ABC News AU,https://www.youtube.com/@abcnewsaustralia/live
+ABC News Live,https://www.youtube.com/@ABCNews/live
+ABC 7 LA,https://www.youtube.com/@ABC7/live
+ABC 7 NY,https://www.youtube.com/@abc7NY/live
+Africa News,https://www.youtube.com/@africanews/live
+Al Jazeera,https://www.youtube.com/@aljazeeraenglish/live
+Arirang,https://www.youtube.com/@KOREAarirangTV/live
+Bloomberg,https://www.youtube.com/@markets/live
+CNA,https://www.youtube.com/channelnewsasia/live
+CNBC,https://www.youtube.com/@CNBC/live
+DW,https://www.youtube.com/@dwnews/live
+Euronews,https://www.youtube.com/@euronews/live
+FOX Live Now,https://www.youtube.com/@livenowfox/live
+FOX Weather,https://www.youtube.com/@Foxweather/live
+France 24,https://www.youtube.com/@France24_en/live
+GB News,https://www.youtube.com/@GBNewsOnline/live
+NBC News Now,https://www.youtube.com/@NBCNews/live
+Newsmax,https://www.youtube.com/@NewsmaxTV/live
+NHK World,https://www.youtube.com/@NHKWORLDJAPAN/live
+Sky News,https://www.youtube.com/@SkyNews/live
+TRT World,https://www.youtube.com/@trtworld/live
+
+中视新闻,https://www.youtube.com/@chinatvnews/live
+中视新闻2,https://www.youtube.com/@twctvnews/live
+华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+台视新闻,https://www.youtube.com/@TTV_NEWS/live
+民视新闻,https://www.youtube.com/@FTV_News/live
+公视新闻,https://www.youtube.com/@PNNPTS/live
+TVBS News01,https://www.youtube.com/@TVBSNEWS01/live
+TVBS News02,https://www.youtube.com/@TVBSNEWS02/live
+TVBS新闻,https://www.youtube.com/watch?v=2mCSYvcfhtc
+东森新闻,https://www.youtube.com/newsebc/live
+东森财经,https://www.youtube.com/@57ETFN/live
+东森财经,https://www.youtube.com/watch?v=AEBeWMM1atA
+寰宇新闻,https://www.youtube.com/@globalnewstw/live
+寰宇台湾,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇财经,https://www.youtube.com/@globalmoneytv/live
+三立iNews,https://www.youtube.com/@%E4%B8%89%E7%AB%8BiNEWS/live
+三立LIVE,https://www.youtube.com/@setnews/live
+中天新闻,https://www.youtube.com/@%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9ECtiNews/live
+非凡财经,https://www.youtube.com/ustv/live
+镜新闻,https://www.youtube.com/@mnews-tw/live
+
+Taiwan+,https://www.youtube.com/@TaiwanPlusLive/live
+凤凰资讯,https://www.youtube.com/@phoenixtvglobal/live
+8视界,https://www.youtube.com/8worldSG/live
+新唐人综合台,https://www.youtube.com/c/NTDAPTV/live
+
+台视,https://www.youtube.com/@TTVLIVE/live
+公视,https://www.youtube.com/@ptslivestream/live
+公视台语台,https://www.youtube.com/@ptstaigitai/live
+中视影剧,https://www.youtube.com/@ctvdrama_classic/live
+爱尔达影剧台,https://www.youtube.com/@ELTAWORLD/live
+三立华剧,https://www.youtube.com/@SETdrama/live
+八大影剧,https://www.youtube.com/watch?v=18ypxNBbMYY
+龙华电视,https://www.youtube.com/watch?v=TH38fgjHtWQ
+中天电视,https://www.youtube.com/watch?v=sEeB5deB2MQ
+
+
+
