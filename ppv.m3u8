@@ -33,10 +33,6 @@ https://pooembed.eu/embed/kansas-city-royals-vs.-los-angeles-dodgers
 https://pooembed.eu/embed/chicago-cubs-vs.-san-diego-padres
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8e1a54778a1c7a203a8a1ac8a490e1cc-thumbnail.jpg" group-title="Baseball",Chinese Taipei vs. Czechia
 https://pooembed.eu/embed/chinese-taipei-vs.-czechia
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9be2018c3f1e12b88505d5e636b87e32-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Denver Nuggets
-https://pooembed.eu/embed/nba/2026-03-05/lal-den
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4ffc65a5f6e77844f739e660fd9c06d9-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. Sacramento Kings
-https://pooembed.eu/embed/nba/2026-03-05/no-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c01eb002c7e2bc4c8e14bdeab8af1c79-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Boston Celtics
 https://pooembed.eu/embed/nba/2026-03-06/dal-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/b8ab9406dbaaaee913642085fc68c365-thumbnail.jpg" group-title="Basketball",Miami Heat vs. Charlotte Hornets
@@ -151,8 +147,6 @@ https://pooembed.eu/embed/laliga/2026-03-08/val-ala
 https://pooembed.eu/embed/seriea/2026-03-09/laz-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/6c5cb7178175ded75b0001f93693af24-thumbnail.jpg" group-title="Football",Espanyol vs. Real Oviedo
 https://pooembed.eu/embed/laliga/2026-03-09/esp-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5f782e29f4b3701df8612f96ef73522f-thumbnail.jpg" group-title="Ice Hockey",New York Islanders vs. Los Angeles Kings
-https://pooembed.eu/embed/nhl/2026-03-05/nyi-la
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0be4eeafd23e5a0c3e41ab2af7549c31-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. Detroit Red Wings
 https://pooembed.eu/embed/nhl/2026-03-06/fla-det
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ed7984062d2d0d29c7a234a8d5f3537e-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Dallas Stars
