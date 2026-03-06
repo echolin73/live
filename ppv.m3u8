@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/acdd40637e05adfe9f61783f89d8825b-thumbnail.jpg" group-title="Baseball",Australia vs. Czechia
-https://pooembed.eu/embed/australia-vs.-czechia
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d02b6444377d4641b4ce8c9470dff1be-thumbnail.jpg" group-title="Baseball",Japan vs. Chinese Taipei
 https://pooembed.eu/embed/japan-vs.-chinese-taipei
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/95dd9ab0428a06e65d72f12c6281d068-thumbnail.jpg" group-title="Baseball",Cuba vs. Panama
@@ -161,8 +159,6 @@ https://pooembed.eu/embed/nhl/2026-03-06/mtl-ana
 https://pooembed.eu/embed/nhl/2026-03-06/min-vgk
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3750c4762d3adbcbfc7a8ebcb68190f7-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. San Jose Sharks
 https://pooembed.eu/embed/nhl/2026-03-06/stl-sj
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 2
-https://pooembed.eu/embed/f1/2026/australia/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5422900e0d257ade47a5f6179e5066cc-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 3
 https://pooembed.eu/embed/f1/2026/australia/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d72b1274e0df94b08fd451342b472a44-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Qualifying
