@@ -1,0 +1,13 @@
+完整的仓库结构
+live
+│
+├─ .github
+│   └─ workflows
+│       └─ live.yml
+│
+├─ m3u8
+│
+├─ stream.txt
+├─ main.py
+├─ requirements.txt
+└─ README.md
