@@ -4,35 +4,22 @@ import random
 import re
 import os
 import json
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 
+# ============= CONFIGURATION =============
 QUALITY_PROFILES = {
     'hd': {'min_height': 720, 'suffix': '[HD]'},
     'mobile': {'max_height': 480, 'suffix': '[Mobile]'}
 }
+# =========================================
 
 
 class YouTubePlaylistGenerator:
-
     def __init__(self):
-        self.cache_file = '.channel_cache.json'
         self.channels_dir = 'channels'
 
         if not os.path.exists(self.channels_dir):
             os.makedirs(self.channels_dir)
-
-        self.load_cache()
-
-    def load_cache(self):
-        try:
-            with open(self.cache_file, 'r') as f:
-                self.cache = json.load(f)
-        except:
-            self.cache = {'channels': {}}
-
-    def save_cache(self):
-        with open(self.cache_file, 'w') as f:
-            json.dump(self.cache, f)
 
     def safe_filename(self, name):
         safe = re.sub(r'[^\w\s-]', '', name).strip()
@@ -40,89 +27,107 @@ class YouTubePlaylistGenerator:
         return safe.lower()
 
     def get_stream_info(self, url):
-
         ydl_opts = {
             'quiet': True,
             'no_warnings': True,
             'socket_timeout': 30,
-            'retries': 5
+            'retries': 3,
         }
 
         try:
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 info = ydl.extract_info(url, download=False)
 
-            if not info:
-                return None
+                if not info:
+                    return None
 
-            video_id = info.get('id')
-            channel_id = info.get('channel_id', video_id)
-            channel_name = info.get('channel', 'Unknown')
-            title = info.get('title', '')
+                video_id = info.get('id')
+                channel_id = info.get('channel_id', video_id)
+                title = info.get('title', '')
+                channel_name = info.get('channel', 'Unknown')
 
-            clean_name = re.sub(r'[^\w\s-]', '', channel_name).strip()
+                is_live = info.get('is_live') or info.get('live_status') == 'is_live'
 
-            formats = info.get('formats', [])
+                formats = info.get('formats', [])
+                video_formats = [
+                    f for f in formats
+                    if f.get('height') and f.get('url') and f.get('vcodec') != 'none'
+                ]
 
-            if not formats:
+                if not is_live or not video_formats:
+                    return {
+                        'status': 'offline',
+                        'video_id': video_id,
+                        'channel_id': channel_id,
+                        'name': channel_name
+                    }
+
+                video_formats.sort(key=lambda f: f.get('height', 0), reverse=True)
+
+                streams = {}
+
+                # HD
+                hd = [f for f in video_formats if f.get('height', 0) >= 720]
+                if hd:
+                    streams['hd'] = {
+                        'url': hd[0]['url'],
+                        'quality': f"{hd[0]['height']}p"
+                    }
+
+                # Mobile
+                mobile = [f for f in video_formats if f.get('height', 0) <= 480]
+                if mobile:
+                    streams['mobile'] = {
+                        'url': mobile[0]['url'],
+                        'quality': f"{mobile[0]['height']}p"
+                    }
+
+                if not streams:
+                    streams['main'] = {
+                        'url': video_formats[0]['url'],
+                        'quality': f"{video_formats[0]['height']}p"
+                    }
+
                 return {
-                    'status': 'offline',
-                    'name': clean_name,
+                    'status': 'live',
                     'video_id': video_id,
-                    'channel_id': channel_id
+                    'channel_id': channel_id,
+                    'name': channel_name,
+                    'title': title,
+                    'streams': streams
                 }
-
-            streams = {}
-
-            video_formats = [
-                f for f in formats
-                if f.get('height') and f.get('url') and f.get('vcodec') != 'none'
-            ]
-
-            video_formats.sort(
-                key=lambda f: (f.get('height', 0), f.get('fps', 0)),
-                reverse=True
-            )
-
-            hd = [f for f in video_formats if f.get('height', 0) >= 720]
-            mobile = [f for f in video_formats if f.get('height', 0) <= 480]
-
-            if hd:
-                streams['hd'] = {
-                    'url': hd[0]['url'],
-                    'height': hd[0].get('height', 0),
-                    'quality_tag': f"{hd[0].get('height', 0)}p"
-                }
-
-            if mobile:
-                streams['mobile'] = {
-                    'url': mobile[0]['url'],
-                    'height': mobile[0].get('height', 0),
-                    'quality_tag': f"{mobile[0].get('height', 0)}p"
-                }
-
-            if not streams and video_formats:
-                streams['main'] = {
-                    'url': video_formats[0]['url'],
-                    'height': video_formats[0].get('height', 0),
-                    'quality_tag': f"{video_formats[0].get('height', 0)}p"
-                }
-
-            return {
-                'status': 'live',
-                'name': clean_name,
-                'video_id': video_id,
-                'channel_id': channel_id,
-                'title': title,
-                'streams': streams
-            }
 
         except Exception as e:
-            print("Error:", str(e)[:120])
+            print(f"Error: {str(e)[:100]}")
             return None
 
-    def generate_playlists(self, channels):
+    def generate_individual_playlists(self, channels):
+        result = []
 
+        for ch in channels:
+            if ch.get('status') != 'live':
+                continue
+
+            name = ch['name']
+            safe = self.safe_filename(name)
+            file_path = f"{self.channels_dir}/{safe}.m3u8"
+
+            stream = ch['streams'].get('hd') or next(iter(ch['streams'].values()))
+
+            with open(file_path, 'w', encoding='utf-8') as f:
+                f.write("#EXTM3U\n")
+                f.write(f'#EXTINF:-1,{name} [{stream["quality"]}] 🔴\n')
+                f.write(stream['url'])
+
+            result.append({
+                'name': name,
+                'file': file_path,
+                'quality': stream['quality']
+            })
+
+        return result
+
+    def generate_playlists(self, channels):
         playlists = {
             'main': [],
             'hd': [],
@@ -135,44 +140,36 @@ class YouTubePlaylistGenerator:
             ""
         ]
 
-        for p in playlists:
-            playlists[p] = header.copy()
+        for k in playlists:
+            playlists[k] = header.copy()
 
-        for channel in channels:
+        for ch in channels:
+            name = ch['name']
 
-            name = channel['name']
-            cid = channel['channel_id']
+            if ch.get('status') != 'live':
+                continue
 
-            if channel['status'] == 'live':
+            main_stream = ch['streams'].get('hd') or next(iter(ch['streams'].values()))
 
-                main_stream = None
+            playlists['main'] += [
+                f'#EXTINF:-1,{name} [{main_stream["quality"]}]',
+                main_stream['url'],
+                ""
+            ]
 
-                if 'hd' in channel['streams']:
-                    main_stream = channel['streams']['hd']
-                else:
-                    main_stream = list(channel['streams'].values())[0]
+            if 'hd' in ch['streams']:
+                playlists['hd'] += [
+                    f'#EXTINF:-1,{name} [HD]',
+                    ch['streams']['hd']['url'],
+                    ""
+                ]
 
-                playlists['main'].append(
-                    f'#EXTINF:-1 tvg-id="{cid}",{name}'
-                )
-                playlists['main'].append(main_stream['url'])
-                playlists['main'].append("")
-
-                if 'hd' in channel['streams']:
-                    s = channel['streams']['hd']
-                    playlists['hd'].append(
-                        f'#EXTINF:-1 tvg-id="{cid}",{name} [HD]'
-                    )
-                    playlists['hd'].append(s['url'])
-                    playlists['hd'].append("")
-
-                if 'mobile' in channel['streams']:
-                    s = channel['streams']['mobile']
-                    playlists['mobile'].append(
-                        f'#EXTINF:-1 tvg-id="{cid}",{name} [Mobile]'
-                    )
-                    playlists['mobile'].append(s['url'])
-                    playlists['mobile'].append("")
+            if 'mobile' in ch['streams']:
+                playlists['mobile'] += [
+                    f'#EXTINF:-1,{name} [Mobile]',
+                    ch['streams']['mobile']['url'],
+                    ""
+                ]
 
         files = {
             'main': 'streams.m3u8',
@@ -180,84 +177,16 @@ class YouTubePlaylistGenerator:
             'mobile': 'streams_mobile.m3u8'
         }
 
-        for p in playlists:
-            with open(files[p], 'w', encoding='utf-8') as f:
-                f.write("\n".join(playlists[p]))
+        for k, file in files.items():
+            with open(file, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(playlists[k]))
 
-    def generate_individual(self, channels):
-
-        for ch in channels:
-
-            if ch['status'] != 'live':
-                continue
-
-            name = ch['name']
-            safe = self.safe_filename(name)
-
-            filename = f"{self.channels_dir}/{safe}.m3u8"
-
-            if 'hd' in ch['streams']:
-                stream = ch['streams']['hd']
-            else:
-                stream = list(ch['streams'].values())[0]
-
-            with open(filename, 'w', encoding='utf-8') as f:
-
-                f.write("#EXTM3U\n")
-
-                f.write(
-                    f'#EXTINF:-1 tvg-id="{ch["channel_id"]}",{name}\n'
-                )
-
-                f.write(stream['url'] + "\n")
-
-        self.generate_html(channels)
-
-    def generate_html(self, channels):
-
-        cards = ""
-
-        for ch in channels:
-
-            if ch['status'] != 'live':
-                continue
-
-            safe = self.safe_filename(ch['name'])
-
-            cards += f"""
-<div class="card">
-<h3>{ch['name']}</h3>
-<a href="{safe}.m3u8">Play</a>
-</div>
-"""
-
-        html = f"""
-<html>
-<head>
-<title>Channels</title>
-<style>
-body{{font-family:sans-serif}}
-.card{{padding:10px;border:1px solid #ccc;margin:10px}}
-</style>
-</head>
-<body>
-
-<h1>Channels</h1>
-
-{cards}
-
-</body>
-</html>
-"""
-
-        with open(f"{self.channels_dir}/index.html", "w") as f:
-            f.write(html)
+        return files
 
 
 def main():
-
     if not os.path.exists('streams.txt'):
-        print("streams.txt missing")
+        print("streams.txt not found")
         return
 
     with open('streams.txt') as f:
@@ -268,23 +197,20 @@ def main():
     channels = []
 
     for i, url in enumerate(urls, 1):
-
-        print(f"[{i}/{len(urls)}] {url}")
-
-        time.sleep(random.uniform(2, 4))
+        print(f"[{i}] {url}")
+        time.sleep(random.uniform(1, 3))
 
         info = generator.get_stream_info(url)
-
         if info:
             channels.append(info)
 
+    print("Generating playlists...")
     generator.generate_playlists(channels)
 
-    generator.generate_individual(channels)
+    print("Generating individual channels...")
+    generator.generate_individual_playlists(channels)
 
-    generator.save_cache()
-
-    print("Done")
+    print("Done ✅")
 
 
 if __name__ == "__main__":
