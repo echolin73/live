@@ -37,7 +37,7 @@ jobs:
           echo "Setting up Cloudflare WARP (Geo-bypass)..."
           sudo apt-get update -qq
           sudo apt-get install -y -qq wireguard-tools iptables
-          curl -fsSL https://github.com -o wgcf
+          wget -q https://github.com/ViRb3/wgcf/releases/latest/download/wgcf_2.2.15_linux_amd64 -O wgcf
           chmod +x wgcf
           sudo mv wgcf /usr/local/bin/
           wgcf register --accept-tos
