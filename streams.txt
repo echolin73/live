@@ -2,6 +2,7 @@ BBC Earth,https://www.youtube.com/@bbcearth/live
 BBC Timestamp,https://www.youtube.com/@BBCTimestamp/live
 Bloomberg Original,https://www.youtube.com/@Bloomberg-News/live
 Discovery,https://www.youtube.com/@discovery/live
+Discovery Science,https://www.youtube.com/@sciencechannel/live
 National Geographic,https://www.youtube.com/@NatGeo/live
 Nat Geo Animals,https://www.youtube.com/@NatGeoAnimals/live
 See Earth Live,https://www.youtube.com/@Sen/live
@@ -64,6 +65,3 @@ Taiwan+,https://www.youtube.com/@TaiwanPlusLive/live
 八大影剧,https://www.youtube.com/watch?v=18ypxNBbMYY
 龙华电视,https://www.youtube.com/watch?v=TH38fgjHtWQ
 中天电视,https://www.youtube.com/watch?v=sEeB5deB2MQ
-
-
-
