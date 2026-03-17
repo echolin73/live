@@ -1,0 +1,110 @@
+name: YouTube Live M3U8 Generator
+run-name: Generate HD Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时自动运行一次
+  push:
+    paths:
+      - 'streams.txt'
+      - 'generate.py'
+      - '.github/workflows/main.yml'
+
+# 核心权限设置：允许工作流将生成的 M3U8 文件写回仓库
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取所有历史记录以支持推送
+
+      - name: Setup Python & dependencies
+        run: |
+          pip install --upgrade pip yt-dlp requests
+          echo "yt-dlp version: $(yt-dlp --version)"
+
+      - name: Setup Cloudflare WARP
+        continue-on-error: true
+        run: |
+          echo "Setting up Cloudflare WARP (Geo-bypass)..."
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq wireguard-tools iptables
+          curl -fsSL https://github.com -o wgcf
+          chmod +x wgcf
+          sudo mv wgcf /usr/local/bin/
+          wgcf register --accept-tos
+          wgcf generate
+          sudo mkdir -p /etc/wireguard
+          sudo cp wgcf-profile.conf /etc/wireguard/wgcf.conf
+          sudo wg-quick up /etc/wireguard/wgcf.conf || true
+          echo "WARP setup complete"
+
+      - name: Create cookies file
+        env:
+          COOKIES: ${{ secrets.COOKIES_TXT }}
+        run: |
+          if [ -z "$COOKIES" ]; then
+            echo "COOKIES_TXT secret is required!"
+            exit 1
+          fi
+          echo "$COOKIES" > cookies.txt
+          chmod 600 cookies.txt
+          echo "Cookies loaded"
+
+      - name: Create directories
+        run: |
+          mkdir -p channels
+          touch channels/.gitkeep
+          echo "channels/ directory ready"
+
+      - name: Run Generator
+        run: |
+          echo "Starting Python script..."
+          python generate.py
+          echo "Generation complete"
+
+      - name: Prepare for GitHub Pages
+        run: |
+          touch .nojekyll
+          cat > _config.yml << 'EOF'
+          include:
+            - "*.m3u8"
+            - "*.json"
+            - "channels/"
+          mime_types:
+            m3u8: application/vnd.apple.mpegurl
+            json: application/json
+          EOF
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 添加生成的所有文件
+          git add -f streams*.m3u8 stats.json .nojekyll _config.yml channels/ 2>/dev/null || true
+          
+          # 检查是否有内容变更
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git commit -m "Update playlists [$(date -u +%H:%M UTC)]"
+          
+          # 使用默认的 GITHUB_TOKEN 直接推送
+          git push origin main
+
+      - name: Cleanup
+        if: always()
+        run: |
+          rm -f cookies.txt wgcf-profile.conf wgcf-account.toml 2>/dev/null || true
+          echo "Sensitive files cleaned up"
